@@ -33,7 +33,7 @@ import sys
 import time
 import zipfile
 
-from common import API, DEFAULT_RAW, TYPES, request
+from common import API, DEFAULT_RAW, TYPES, UA, request
 
 
 def search(body):
@@ -129,6 +129,31 @@ def cmd_lists(raw):
         print(f"{fn}: {len(keys)}", file=sys.stderr)
 
 
+def download_zip(url, dest, attempts=6):
+    """Download an export zip with curl (the server streams large zips slowly, chunked and
+    without Content-Length; curl copes better with that than requests). Returns the number of
+    JSON documents, or None after repeated failures."""
+    import subprocess
+    tmp = dest + ".part"
+    for attempt in range(attempts):
+        rc = subprocess.call(["curl", "-sS", "-L", "--fail", "-A", UA, "--max-time", "7200",
+                              "-o", tmp, url])
+        if rc == 0:
+            try:
+                with zipfile.ZipFile(tmp) as z:
+                    if z.testzip() is None:
+                        n = sum(1 for i in z.namelist() if i.endswith(".json"))
+                        os.replace(tmp, dest)
+                        return n
+            except zipfile.BadZipFile:
+                pass
+        print(f"download {url}: failed (curl rc={rc}), retrying", file=sys.stderr, flush=True)
+        time.sleep(30 * (attempt + 1))
+    if os.path.exists(tmp):
+        os.remove(tmp)
+    return None
+
+
 def run_export(code, year, n_expected, dest, number, cls, vigenza):
     params = {"filtriMap": {"codice_tipo_provvedimento": code}}
     if isinstance(year, tuple):
@@ -170,25 +195,11 @@ def run_export(code, year, n_expected, dest, number, cls, vigenza):
         if not loc:
             time.sleep(60)
             continue
-        for dl in range(5):
-            r = request("GET", loc, timeout=7200)
-            try:
-                z = zipfile.ZipFile(io.BytesIO(r.content))
-                bad = z.testzip()
-                if bad is None:
-                    break
-            except zipfile.BadZipFile:
-                pass
-            print(f"export {code} {year}: bad zip, retrying download", file=sys.stderr)
-            time.sleep(30)
-        else:
+        n = download_zip(loc, dest)
+        if n is None:
             continue
-        n = sum(1 for i in z.namelist() if i.endswith(".json"))
-        with open(dest + ".tmp", "wb") as f:
-            f.write(r.content)
-        os.replace(dest + ".tmp", dest)
         print(f"{time.strftime('%H:%M:%S')} export {code} {year} c{cls}: {n}/{n_expected} acts, "
-              f"{len(r.content)//1024} KiB" + ("" if n == n_expected else "  MISMATCH"),
+              f"{os.path.getsize(dest)//1024} KiB" + ("" if n == n_expected else "  MISMATCH"),
               file=sys.stderr, flush=True)
         return n
     raise RuntimeError(f"export {code} {year} failed")
