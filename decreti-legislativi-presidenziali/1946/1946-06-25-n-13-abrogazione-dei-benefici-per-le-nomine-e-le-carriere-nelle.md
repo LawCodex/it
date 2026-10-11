@@ -1,0 +1,55 @@
+---
+title: "DECRETO LEGISLATIVO PRESIDENZIALE 25 giugno 1946, n. 13 — Abrogazione dei benefici per le nomine e le carriere nelle pubbliche amministrazioni in favore dei militari che hanno partecipato alle operazioni della guerra civile di Spagna."
+identifier: "urn:nir:stato:decreto.legislativo.presidenziale:1946-06-25;13"
+eli: "https://www.normattiva.it/eli/id/1946/07/06/046U0013/CONSOLIDATED/19560625"
+type: legislative_decree
+jurisdiction: it
+language: it
+date: 1946-06-25
+last_amended: 1956-06-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 149 del 1946-07-06"
+codice_redazionale: "046U0013"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.presidenziale:1946-06-25;13"
+retrieved: 2026-10-11
+---
+
+# DECRETO LEGISLATIVO PRESIDENZIALE 25 giugno 1946, n. 13
+
+**Abrogazione dei benefici per le nomine e le carriere nelle pubbliche amministrazioni in favore dei militari che hanno partecipato alle operazioni della guerra civile di Spagna.**
+
+IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+
+In virtu' dei poteri di Capo provvisorio dello stato, conferitigli dall'art. 2, quarto comma, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98;
+
+Visto il regio decreto-legge 21 ottobre 1937, n. 2179, che estende ai militari in servizio non isolato all'estero le provvidenze in vigore per i reduci della guerra 1915-1918, convertito nella legge 31 marzo 1938, n. 610;
+
+Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151;
+
+Visto il decreto legislativo Presidenziale 19 giugno 1946, n. 1;
+
+Previo concerto con i Ministri per il tesoro e per la guerra;
+
+Vista la deliberazione del Consiglio dei Ministri;
+
+HA SANZIONATO E PROMULGA:
+
+## Articolo unico
+
+Le disposizioni del regio decreto-legge 21 ottobre 1937, n. 2179, nella parte concernente le assunzioni e le carriere nei pubblici impieghi dei militari in servizio non isolato all'estero dopo il 5 maggio 1936, e dei e congiunti dei caduti a causa del servizio predetto, cessano di avere vigore.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
+
+Dato a Roma, addi' 25 giugno 1946
+
+DE GASPERI
+
+CORBINO - BROSIO
+
+Visto, il Guardasigilli: TOGLIATTI
+
+Registrato alla Corte dei conti, addi' 4 luglio 1946
+
+Atti del Governo, registro n. 1, foglio n. 10. - FRASCA

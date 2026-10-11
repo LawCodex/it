@@ -1,0 +1,65 @@
+---
+title: "REGIO DECRETO-LEGGE 03 febbraio 1936, n. 418 — Norme per l'uso degli apparecchi di radiodiffusione all'aperto e nei pubblici esercizi."
+identifier: "urn:nir:stato:regio.decreto.legge:1936-02-03;418"
+eli: "https://www.normattiva.it/eli/id/1936/03/24/036U0418/CONSOLIDATED/20091214"
+type: royal_decree_law
+jurisdiction: it
+language: it
+date: 1936-02-03
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 69 del 1936-03-24"
+codice_redazionale: "036U0418"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-02-03;418"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO-LEGGE 03 febbraio 1936, n. 418
+
+**Norme per l'uso degli apparecchi di radiodiffusione all'aperto e nei pubblici esercizi.**
+
+*Entrata in vigore del provvedimento: 08/04/1936. Regio Decreto-Legge convertito dalla L. 4 giugno 1936, n. 1521 (in G.U. 19/08/1936, n.191).*
+
+## Art. 1
+
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il R. decreto-legge 17 novembre 1927, n. 2207, convertito nella legge 17 maggio 1928, n. 1350;
+
+Visto il R. decreto-legge 26 settembre 1935-XIII, n. 1829, che sottopone le radiodiffusioni alla vigilanza del Ministero per la stampa e la propaganda;
+
+Visto l'art. 3, n. 2, della legge 31 gennaio 1926, n. 100;
+
+Riconosciuta la necessita' urgente ed assoluta di disciplinare le radiodiffusioni all'aperto;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la stampa e la propaganda, di concerto con i Ministri per l'interno, per la grazia e giustizia e per le comunicazioni;
+
+Abbiamo decretato e decretiamo:
+
+Articolo unico. - E' vietato ai possessori di apparecchi radiofonici, compresi i gestori di pubblici esercizi, di farli funzionare, sia direttamente sia mediante altoparlanti, all'aperto su vie, piazze e altri luoghi pubblici.
+
+Le radiodiffusioni all'aperto di avvenimenti o discorsi che abbiano importanza nazionale dovranno essere di volta in volta autorizzate dal Prefetto previo nulla osta del Ministero per la stampa e la propaganda (Ispettorato del teatro).
+
+I contravventori alle disposizioni precedenti sono puniti con l'ammenda da L. 50 a L. 200 salvo, in quanto siano applicabili, le maggiori sanzioni previste dall'articolo 659 del Codice penale.
+
+Il presente decreto andra' in vigore 15 giorni dopo la sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge; il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 febbraio 1936 - Anno XIV
+
+VITTORIO EMANUELE
+
+Mussolini - Ciano - Solmi - Benni.
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato alla Corte dei conti, addi' 18 marzo 1936 - Anno XIV
+
+Atti del Governo, registro 370, foglio 110. - MANCINI.
