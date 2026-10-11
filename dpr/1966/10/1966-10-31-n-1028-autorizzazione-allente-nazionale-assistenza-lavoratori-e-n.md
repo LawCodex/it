@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966, n. 1028 — Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1966-10-31;1028"
+eli: "https://www.normattiva.it/eli/id/1966/12/06/066U1028/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1966-10-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 307 del 1966-12-06"
+codice_redazionale: "066U1028"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-10-31;1028"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966, n. 1028
+
+**Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.**
+
+## Art. 1
+
+N. 1028. Decreto del Presidente della Repubblica 31 ottobre 1966, col quale, Sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza-Lavoratori (E.N.A.L.) viene autorizzato ad accettare una donazione consistente in un appezzamento di terreno, della estensione di mq. 560, sito in Rovereto, frazione Marco, disposta dal sig. Vaccari Saverio-Ermanno, con atto a rogito dott. Rolando Munari, notaio in Rovereto (Trento) in data 28 settembre 1962, n. 9794 di rep., n. 2380 di raccolta, per essere destinato a sede di un locale circolo dell'ENAL.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 28 novembre 1966
+
+Atti del Governo, registro n. 207, foglio n. 78. - VILLA

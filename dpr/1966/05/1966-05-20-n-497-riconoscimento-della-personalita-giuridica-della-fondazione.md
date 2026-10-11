@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966, n. 497 — Riconoscimento della personalita' giuridica della Fondazione di religione \"Giovanardi Elena ved. Ghisellini\", nel comune di Modena."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-20;497"
+eli: "https://www.normattiva.it/eli/id/1966/07/07/066U0497/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1966-05-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 165 del 1966-07-07"
+codice_redazionale: "066U0497"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-20;497"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966, n. 497
+
+**Riconoscimento della personalita' giuridica della Fondazione di religione "Giovanardi Elena ved. Ghisellini", nel comune di Modena.**
+
+## Art. 1
+
+N. 497. Decreto del Presidente della Repubblica 20 maggio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Fondazione di religione "Giovanardi Elena vedova Ghisellini", con sede in frazione Cittanova del comune di Modena, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 30 giugno 1966
+
+Atti del Governo, registro n. 204, foglio n. 18. - DI PRETORO

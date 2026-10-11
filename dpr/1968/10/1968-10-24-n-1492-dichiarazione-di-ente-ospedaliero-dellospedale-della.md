@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1968, n. 1492 — Dichiarazione di ente ospedaliero dell'ospedale \"della Misericordia\", con sede in Grosseto."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-24;1492"
+eli: "https://www.normattiva.it/eli/id/1969/03/21/068U1492/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1968-10-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 73 del 1969-03-21"
+codice_redazionale: "068U1492"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-24;1492"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1968, n. 1492
+
+**Dichiarazione di ente ospedaliero dell'ospedale "della Misericordia", con sede in Grosseto.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 12 febbraio 1968, n. 132, recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
+
+Visto il decreto del medico provinciale di Grosseto in data 2 maggio 1968, con il quale, sentito il consiglio provinciale di sanita', l'ospedale "della Misericordia" di Grosseto e' stato classificato ospedale generale provinciale a norma degli articoli 19; 20, 22 e 54 della citata legge n. 132;
+
+Visti gli articoli 3, 4, 9 e 54 della legge stessa e l'art. 2 dello statuto dell'ente;
+
+Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno;
+
+Decreta:
+
+L'ospedale "della Misericordia", con sede in Grosseto, di cui alle premesse, e' dichiarato ente ospedaliero.
+
+Il consiglio di amministrazione dell'ente ospedaliero suddetto e' composto come segue:
+
+cinque membri eletti dal consiglio provinciale di Grosseto;
+
+due membri eletti dal consiglio comunale di Grosseto;
+
+due membri in rappresentanza degli originari interessi dell'ente, designati e nominali ai sensi dello statuto dell'ente, approvato con decreto del Presidente della Repubblica 19 settembre 1952, modificato con decreto del Presidente della Repubblica 31 gennaio 1957 e con decreto del Presidente della Repubblica 5 aprile 1961.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 ottobre 1968
+
+SARAGAT
+
+ZELIOLI LANZINI - RESTIVO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 13 marzo 1969
+
+Atti del Governo, registro n. 225, foglio n. 142. - CARUSO

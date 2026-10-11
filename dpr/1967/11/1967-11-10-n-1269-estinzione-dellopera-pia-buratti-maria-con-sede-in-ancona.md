@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1967, n. 1269 — Estinzione dell'opera pia \"Buratti Maria\", con sede in Ancona."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1967-11-10;1269"
+eli: "https://www.normattiva.it/eli/id/1968/01/04/067U1269/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1967-11-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 3 del 1968-01-04"
+codice_redazionale: "067U1269"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-11-10;1269"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1967, n. 1269
+
+**Estinzione dell'opera pia "Buratti Maria", con sede in Ancona.**
+
+## Art. 1
+
+N. 1269. Decreto del Presidente della Repubblica 10 novembre 1967, col quale, sulla proposta del Ministro per l'interno, viene dichiarata l'estinzione dell'opera pia "Buratti Maria", con sede in Ancona, e la devoluzione del relativo patrimonio al locale E.C.A.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 19 dicembre 1967
+
+Atti del Governo, registro n. 216, foglio n. 75. - GRECO

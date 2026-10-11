@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966, n. 123 — Autorizzazione all'Automobile Club d'Italia, con sede in Roma, e all'Automobile Club di Gorizia ad acquistare in comproprieta' un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1966-02-18;123"
+eli: "https://www.normattiva.it/eli/id/1966/03/28/066U0123/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1966-02-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 77 del 1966-03-28"
+codice_redazionale: "066U0123"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-02-18;123"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966, n. 123
+
+**Autorizzazione all'Automobile Club d'Italia, con sede in Roma, e all'Automobile Club di Gorizia ad acquistare in comproprieta' un immobile.**
+
+## Art. 1
+
+N. 123. Decreto del Presidente della Repubblica 18 febbraio 1%6, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Gorizia vengono autorizzati ad acquistare in comproprieta', dalla Provincia di Gorizia, per il prezzo di L. 3.668.000 l'appezzamento di terreno, esteso metri quadrati 1048, sito in Gorizia alla via Roma n. 12, censito al foglio n. 15, numeri 380/1, 383/1 e 380/5, per la costruzione di locali da adibire a nuova sede dei propri uffici.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 18 marzo 1966
+
+Atti del Governo, registro n. 202, foglio n. 59. - VILLA

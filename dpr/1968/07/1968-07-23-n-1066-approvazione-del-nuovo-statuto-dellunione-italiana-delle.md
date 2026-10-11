@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968, n. 1066 — Approvazione del nuovo statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-23;1066"
+eli: "https://www.normattiva.it/eli/id/1968/10/17/068U1066/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1968-07-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 265 del 1968-10-17"
+codice_redazionale: "068U1066"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-23;1066"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968, n. 1066
+
+**Approvazione del nuovo statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura.**
+
+## Art. 1
+
+N. 1066. Decreto del Presidente della Repubblica 23 luglio 1968, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene approvato il nuovo statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 11 ottobre 1968
+
+Atti del Governo, registro n. 223, foglio n. 24. - GRECO

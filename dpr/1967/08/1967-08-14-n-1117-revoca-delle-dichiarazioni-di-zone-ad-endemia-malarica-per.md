@@ -1,0 +1,50 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967, n. 1117 — Revoca delle dichiarazioni di zone ad endemia malarica per tutti i comuni della provincia di Frosinone, ad eccezione per i comuni di Sant'Ambrogio sul Garigliano e Sant'Andrea sul Garigliano."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-14;1117"
+eli: "https://www.normattiva.it/eli/id/1967/12/06/067U1117/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1967-08-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 304 del 1967-12-06"
+codice_redazionale: "067U1117"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-14;1117"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967, n. 1117
+
+**Revoca delle dichiarazioni di zone ad endemia malarica per tutti i comuni della provincia di Frosinone, ad eccezione per i comuni di Sant'Ambrogio sul Garigliano e Sant'Andrea sul Garigliano.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la nota del 14 aprile 1966, n. 2633, con la quale il medico provinciale di Frosinone chiede la revoca delle dichiarazioni di zone ad endemia malarica contenute nel nostro decreto 22 dicembre 1954, n. 1511, per tutti i comuni di quella provincia ad eccezione dei comuni di Sant'Ambrogio sul Garigliano e Sant'Andrea sul Garigliano;
+
+Visto il parere espresso dal Consiglio provinciale di sanita' di Frosinone nella seduta del 22 gennaio 1966;
+
+Visto l'art. 313 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265 e l'art. 4 del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con regio decreto 28 gennaio 1935, n. 93;
+
+Vista la legge 13 marzo 1951, n. 296;
+
+Sulla proposta del Ministro per la sanita';
+
+Decreta:
+
+Le dichiarazioni di zone ad endemia malarica contenute nel nostro decreto 22 dicembre 1954, n. 1511, per i comuni della provincia di Frosinone sono revocate ad eccezione di quelle per i comuni di Sant'Ambrogio sul Garigliano e Sant'Andrea sul Garigliano.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 agosto 1967
+
+SARAGAT
+
+MARIOTTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 21 novembre 1967
+
+Atti del Governo, registro n. 215, foglio n. 22. - GRECO

@@ -1,0 +1,96 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968, n. 1218 — Modificazioni allo statuto dell'Universita' degli studi di Palermo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-18;1218"
+eli: "https://www.normattiva.it/eli/id/1968/12/12/068U1218/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1968-10-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 315 del 1968-12-12"
+codice_redazionale: "068U1218"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-18;1218"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968, n. 1218
+
+**Modificazioni allo statuto dell'Universita' degli studi di Palermo.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con regio decreto 14 ottobre 1926, n. 2412, e modificato con regio decreto 13 ottobre 1927, n. 2240 e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 18, relativo al corso di laurea in economia e commercio e' modificato nel senso che l'insegnamento complementare di "statistica aziendale" e' soppresso e sostituito da quello di "ricerca operativa";
+
+Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+
+Sociologia rurale (semestrale)
+
+Economia montana e forestale (semestrale)
+
+Storia dell'agricoltura (semestrale)
+
+Politica agraria comparata (semestrale)
+
+Cooperazione agricola (semestrale)
+
+Entomologia forestale (semestrale)
+
+Acarologia (semestrale)
+
+Nematologia (semestrale)
+
+Chimica delle fermentazioni (semestrale)
+
+Chimica e tecnologia degli alimenti (semestrale)
+
+Alimentazione del bestiame (semestrale)
+
+Agrumicoltura (semestrale)
+
+Meccanizzazione dell'agricoltura (semestrale)
+
+Virologia (semestrale)
+
+Chimica biologica (semestrale)
+
+Metodologia statistica in agricoltura (semestrale).
+
+Nel predetto corso di laurea gli insegnamenti complementari di "tecnica commerciale dei prodotti agricoli" e di "genetica" sono soppressi e sostituiti da quelli di "tecnica della conservazione dei prodotti agricoli" e di "genetica agraria".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 ottobre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 4 dicembre 1968
+
+Atti del Governo, registro n. 224, foglio n. 20. - GRECO

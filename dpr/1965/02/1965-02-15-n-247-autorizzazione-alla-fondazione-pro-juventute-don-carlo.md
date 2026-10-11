@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1965, n. 247 — Autorizzazione alla \"Fondazione Pro Juventute Don Carlo Gnocchi\", con sede in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1965-02-15;247"
+eli: "https://www.normattiva.it/eli/id/1965/04/16/065U0247/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1965-02-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 96 del 1965-04-16"
+codice_redazionale: "065U0247"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-02-15;247"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1965, n. 247
+
+**Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 247. Decreto del Presidente della Repubblica 15 febbraio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato, consistente nella somma di lire tremilioni, disposto dalla defunta signora Carolina Forzano vedova Guglielmi, con scheda testamentaria olografa del 14 gennaio 1960, pubblicata e depositata assieme ad altra scheda testamentaria olografa della "de cuius" del 12 febbraio 1959.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 8 aprile 1965
+
+Atti del Governo, registro n. 192, foglio n. 22. - VILLA

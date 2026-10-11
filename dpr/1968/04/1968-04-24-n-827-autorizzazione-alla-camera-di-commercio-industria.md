@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1968, n. 827 — Autorizzazione alla Camera di commercio, industria, artigianato e agricoltura di Sondrio a permutare alcuni terreni in comune di Ponte Valtellina."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-24;827"
+eli: "https://www.normattiva.it/eli/id/1968/07/26/068U0827/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1968-04-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 189 del 1968-07-26"
+codice_redazionale: "068U0827"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-04-24;827"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1968, n. 827
+
+**Autorizzazione alla Camera di commercio, industria, artigianato e agricoltura di Sondrio a permutare alcuni terreni in comune di Ponte Valtellina.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 20 settembre 1934, n. 2011, che approva il testo unico delle leggi su consigli e sugli uffici provinciali dell'economia, modificato con regio decreto-legge 3 settembre 1936, n. 1900, convertito nella legge 3 giugno 1937, n. 1000, e con regio decreto-legge 28 aprile 1937, n. 524, convertito nella legge 7 giugno 1937, n. 1387;
+
+Visto il decreto legislativo luogotenenziale 21 settembre 1944, n. 315, sulla soppressione dei consigli e degli uffici provinciali dell'economia e la ricostituzione delle camere di commercio, industria e agricoltura, nonche' degli uffici provinciali del commercio e dell'industria;
+
+Vista la legge 5 giugno 1850, n. 1037, ed il regio decreto 26 giugno 1864, n. 1817;
+
+Vista la legge 26 settembre 1966, n. 792;
+
+Vista la deliberazione n. 53 del 17 febbraio 1967, con la quale la Camera di commercio, industria, artigianato e agricoltura di Sondrio ha stabilito di permutare alcuni terreni di proprieta' camerale, siti in Ponte Valtellina, con altri di proprieta' della signora Anita Tavelli di Chiuro, per rettificare i confini di un fondo destinato a sperimentazioni agricole;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per l'industria, il commercio e l'artigianato;
+
+Decreta:
+
+## Articolo unico
+
+La Camera di commercio, industria, artigianato e agricoltura di Sondrio e' autorizzata a permutare i terreni descritti in catasto del comune di Ponte Valtellina al foglio n. 29, mappale n. 45 di mq. 2 e mappale n. 46 di mq. 145 con i terreni di proprieta' della signora Anita Tavelli descritti al foglio n. 29, mappale n. 321, di mq. 110, alle condizioni previste alla deliberazione n. 53 del 17 febbraio 1967.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 aprile 1968
+
+SARAGAT
+
+ANDREOTTI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 12 luglio 1968
+
+Atti del Governo, registro n. 221, foglio n. 17. - GRECO

@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968, n. 440 — Autorizzazione all'Universita' degli studi di Perugia ad accettare una eredita' per la costituzione della fondazione \"Francesco Rebucci\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-02;440"
+eli: "https://www.normattiva.it/eli/id/1968/04/20/068U0440/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1968-02-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 101 del 1968-04-20"
+codice_redazionale: "068U0440"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-02;440"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968, n. 440
+
+**Autorizzazione all'Universita' degli studi di Perugia ad accettare una eredita' per la costituzione della fondazione "Francesco Rebucci".**
+
+## Art. 1
+
+N. 440. Decreto del Presidente della Repubblica 2 febbraio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad accettare l'eredita' disposta, con i testamenti olografi in data 12 settembre 1930 e 13 maggio 1960, pubblicati con verbale del dott. Francesco Duranti, in data 5 e 7 agosto 1963, repertorio nn. 25821/660 e 25830/6609, dalla defunta signora Velia Bittoni, vedova Rebucci.
+
+Con lo stesso decreto, viene, altresi', eretta in ente morale la fondazione "Francesco Rebucci", con sede presso l'Universita' di Perugia e ne e' approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 5 aprile 1968
+
+Atti del Governo, registro n. 218, foglio n. 117. - GRECO

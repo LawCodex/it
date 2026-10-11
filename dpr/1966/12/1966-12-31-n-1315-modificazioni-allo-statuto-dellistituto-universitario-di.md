@@ -1,0 +1,78 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966, n. 1315 — Modificazioni allo statuto dell'Istituto universitario di magistero \"Maria SS. Assunta\", di Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-31;1315"
+eli: "https://www.normattiva.it/eli/id/1967/02/20/066U1315/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1966-12-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 45 del 1967-02-20"
+codice_redazionale: "066U1315"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-31;1315"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966, n. 1315
+
+**Modificazioni allo statuto dell'Istituto universitario di magistero "Maria SS. Assunta", di Roma.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'istituto universitario di Magistero "Maria SS. Assunta" di Roma, approvato con regio decreto 26 ottobre 1939, n. 1760 e modificato con decreto del Presidente della Repubblica 20 maggio 1958, n. 648 e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 7 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio, superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Istituto universitario di Magistero "Ma SS Assunta", di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 1 e' abrogato e sostituito dal seguente:
+
+"E' istituito in Roma l'Istituto universitario di Magistero "Maria SS. Assunta", il quale ha lo scopo di conferire alle religiose e alle appartenenti ad associazioni religiose, in possesso di uno dei titoli di studio richiesti per l'ammissione alle Facolta' di magistero, le lauree e il diploma, di cui ai numeri 11, 12, 13 e 14 della tabella F delle disposizioni sull'ordinamento didattico universitario (regio decreto 30 settembre 1938, n. 1652) e precisamente:
+
+Laurea in materie letterarie;
+
+Laurea in pedagogia;
+
+Laurea in lingue e letterature straniere;
+
+Diploma di abilitazione alla vigilanza, nelle scuole elementari".
+
+L'art. 36 e' abrogato e sostituito dal seguente:
+
+"All'Istituto universitario di magistero "Maria SS.
+
+Assunta" possono iscriversi soltanto le religiose e le appartenenti ad associazioni religiose.
+
+La domanda di ammissione all'esame di concorso deve essere accompagnata, per le prime, da una lettera di richiesta della superiora, che attesti in pari, tempo lo stato religioso della richiedente; e per le seconde, da un documento che attesti l'appartenenza ad una associazione religiosa, rilasciato dai dirigenti responsabili della Associazione stessa".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 dicembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 10 febbraio 1967
+
+Atti del Governo, registro n. 209, foglio n. 34. - VILLA

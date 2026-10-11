@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1965, n. 131 — Riconoscimento, agli effetti civili, del cambiamento del titolo della Parrocchia di San Gregorio Barbarigo in quello di San Lorenzo Giustiniani in Venezia-Mestre."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1965-01-31;131"
+eli: "https://www.normattiva.it/eli/id/1965/03/17/065U0131/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1965-01-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 69 del 1965-03-17"
+codice_redazionale: "065U0131"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965-01-31;131"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1965, n. 131
+
+**Riconoscimento, agli effetti civili, del cambiamento del titolo della Parrocchia di San Gregorio Barbarigo in quello di San Lorenzo Giustiniani in Venezia-Mestre.**
+
+## Art. 1
+
+N. 131. Decreto del Presidente della Repubblica 31 gennaio 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Venezia in data 1 settembre 1963, relativo al cambiamento del titolo della Parrocchia di San Gregorio Barbarigo in quello di San Lorenzo Giustiniani, in Venezia-Mestre. Viene inoltre, riconosciuta la personalita' giuridica della Chiesa di San Lorenzo Giustiniani, sede della Parrocchia stessa.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 10 marzo 1965
+
+Atti del Governo, registro n. 191, foglio n. 67. - VILLA

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1966, n. 857 — Riconoscimento, agli effetti civili, della erezione della Parrocchia di Sant'Elena Imperatrice, nel comune di San Giovanni Suergiu (Cagliari)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1966-09-21;857"
+eli: "https://www.normattiva.it/eli/id/1966/10/24/066U0857/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1966-09-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 265 del 1966-10-24"
+codice_redazionale: "066U0857"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-09-21;857"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1966, n. 857
+
+**Riconoscimento, agli effetti civili, della erezione della Parrocchia di Sant'Elena Imperatrice, nel comune di San Giovanni Suergiu (Cagliari).**
+
+## Art. 1
+
+N. 857. Decreto del Presidente della Repubblica 21 settembre 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Iglesias in data 15 luglio 1965, integrato con altro decreto di pari data e con dichiarazione del 10 febbraio 1966, relativo alla erezione della Parrocchia di Sant'Elena Imperatrice, in frazione Mazzacara del comune di San Giovanni Suergiu (Cagliari).
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 19 ottobre 1966
+
+Atti del Governo, registro n. 206, foglio n. 96. - VILLA

@@ -1,0 +1,77 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1966, n. 304 — Prelevamento di L. 106.876.352 dal \"Fondo di riserva per le spese impreviste\" dell'Ammistrazione delle ferrovie dello Stato per l'esercizio finanziario 1 luglio-31 dicembre 1964."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1966-03-01;304"
+eli: "https://www.normattiva.it/eli/id/1966/05/27/066U0304/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1966-03-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 129 del 1966-05-27"
+codice_redazionale: "066U0304"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1966-03-01;304"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1966, n. 304
+
+**Prelevamento di L. 106.876.352 dal "Fondo di riserva per le spese impreviste" dell'Ammistrazione delle ferrovie dello Stato per l'esercizio finanziario 1 luglio-31 dicembre 1964.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 61 della legge 28 giugno 1964, n. 444, con il quale furono approvati gli stati di previsione dell'entrata e della spesa dell'Amministrazione delle ferrovie dello Stato per il periodo 1 luglio-31 dicembre 1964;
+
+Visto l'art. 10 del regio decreto-legge 21 giugno 1941, n. 571, convertito nella legge 14 settembre 1941, numero 1115 e l'art. 1 della legge 11 aprile 1953, n. 308, concernenti la costituzione del "Fondo di riserva per le spese Impreviste" dell'Amministrazione delle ferrovie dello Stato ed i relativi prelievi;
+
+Considerato che il "Fondo di riserva per le spese Impreviste" dell'Amministrazione delle ferrovie dello Stato presenta, al 31 dicembre 1964, una disponibilita' di lire 230.260.438;
+
+Sulla proposta del Ministro per i trasporti e per la aviazione civile, 4 concerto con il Ministro per il tesoro;
+
+Decreta:
+
+Dal "Fondo di riserva per le spese impreviste" dell'Amministrazione delle ferrovie dello Stato e' autorizzato, per il periodo 1 luglio-31 dicembre 1964, il prelevamento di lire 106.876.352 (centoseimilioniottocentosettantaseimilatrecentocinquantadue) da imputare al capitolo 22 "Prelevamenti dal Fondo di riserva per le spese impreviste, destinati alla parte ordinaria" dello stato di previsione dell'entrata dell'Amministrazione medesima per il periodo predetto e da portarsi in aumento degli stanziamenti iscritti ai seguenti capitoli dello stato di previsione della spesa:
+
+Cap. n. 9. - Indennizzi per perdite,
+
+avarie, ritardata resa di spedizioni e
+
+passivita per tasse di trasporto, ri-
+
+maste totalmente o parzialmente sco-
+
+perte ................................ L. 76.182.297 Cap. n. 33. - Spese per prestazioni
+
+sanitarie (regio decreto 31 dicembre
+
+1923, n. 2918, e regio decreto-legge 8
+
+gennaio 1925, n. 34, convertito nella
+
+legge 21 marzo 1926, n. 507).......... " 14.025.024 Cap. n. 48. - Spese giudiziali e
+
+contenziose........................... " 7.486.038 Cap. n. 53. - Spese per la sorve-
+
+glianza del trasporti................. " 9.182.993
+
+```text
+ ----------- L. 106.876.352
+ -----------
+```
+
+Il presente decreto sara' allegato al rendiconto della Amministrazione delle ferrovie dello Stato per il periodo 1 luglio-31 dicembre 1964.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 marzo 1966
+
+SARAGAT
+
+SCALFARO - COLOMBO
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 21 maggio 1966
+
+Atti del Governo, registro n. 203, foglio n. 43. - VILLA

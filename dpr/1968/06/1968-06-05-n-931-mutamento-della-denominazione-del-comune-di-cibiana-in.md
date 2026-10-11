@@ -1,0 +1,48 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968, n. 931 — Mutamento della denominazione del comune di Cibiana in quello di \"Cibiana di Cadore\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-05;931"
+eli: "https://www.normattiva.it/eli/id/1968/09/03/068U0931/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1968-06-05
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 224 del 1968-09-03"
+codice_redazionale: "068U0931"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-05;931"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968, n. 931
+
+**Mutamento della denominazione del comune di Cibiana in quello di "Cibiana di Cadore".**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la deliberazione del consiglio comunale di Cibiana (Belluno) in data 13 gennaio 1968, n. 7, con la quale e' stato chiesto che l'attuale denominazione del comune stesso sia mutata in quella di "Cibiana di Cadore";
+
+Vista la deliberazione del consiglio provinciale di Belluno in data 2 maggio 1968, n. 19/505, con la quale detto consesso ha espresso il richiesto parere;
+
+Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+La denominazione del comune di Cibiana, in provincia di Belluno, e' mutata in quella di "Cibiana di Cadore".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 luglio 1968
+
+SARAGAT
+
+RESTIVO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 27 agosto 1968
+
+Atti del Governo, registro n. 222, foglio n. 107. - DI PRETORO

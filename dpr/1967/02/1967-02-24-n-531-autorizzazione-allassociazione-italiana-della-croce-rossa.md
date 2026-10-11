@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967, n. 531 — Autorizzazione all'Associazione italiana della Croce Rossa ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-24;531"
+eli: "https://www.normattiva.it/eli/id/1967/07/13/067U0531/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1967-02-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 174 del 1967-07-13"
+codice_redazionale: "067U0531"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-24;531"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967, n. 531
+
+**Autorizzazione all'Associazione italiana della Croce Rossa ad accettare un legato.**
+
+## Art. 1
+
+N. 531. Decreto del Presidente della Repubblica 24 febbraio 1967, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa viene autorizzata ad accettare il legato, disposto in suo favore dalla signora Ada Cameo Sinigaglia con testamento e codicillo olografi a rogito notaio Pierantoni di Roma, repertorio 94557, consistente in 500 azioni della Societa' Edison per un valore complessivo di L. 1.500.000.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 3 luglio 1967
+
+Atti del Governo, registro n. 212, foglio n. 13. - GRECO
