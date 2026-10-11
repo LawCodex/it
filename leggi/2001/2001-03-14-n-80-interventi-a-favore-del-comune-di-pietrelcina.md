@@ -1,0 +1,53 @@
+---
+title: "LEGGE 14 marzo 2001, n. 80 — Interventi a favore del comune di Pietrelcina."
+identifier: "urn:nir:stato:legge:2001-03-14;80"
+eli: "https://www.normattiva.it/eli/id/2001/03/30/001G0137/CONSOLIDATED/20040228"
+type: act
+jurisdiction: it
+language: it
+date: 2001-03-14
+last_amended: 2004-02-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 75 del 2001-03-30"
+codice_redazionale: "001G0137"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-14;80"
+retrieved: 2026-10-11
+---
+
+# LEGGE 14 marzo 2001, n. 80
+
+**Interventi a favore del comune di Pietrelcina.**
+
+*Entrata in vigore della legge: 14-4-2001*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Ai fini della predisposizione di idonei servizi e di locali di accoglienza dei pellegrini, nonche' del miglioramento delle strutture necessarie per l'accesso dei visitatori, e' autorizzato per il comune di Pietrelcina un contributo di lire 5 miliardi per ciascuno degli anni 2001 e 2002.
+
+2\. All'onere derivante dall'attuazione del comma 1, pari a lire 5 miliardi per ciascuno degli anni 2001 e 2002, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dei lavori pubblici.
+
+3\. In sede di ripartizione dei contributi erariali agli enti locali, sulla eventuale quota di incremento annuale dei contributi stessi e' riservato, ((per ciascuno degli anni dal 2001 al 2006)), al comune di Pietrelcina un contributo integrativo annuo non superiore a lire 3 miliardi.
+
+La presente legge munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 14 marzo 2001
+
+Il Presidente del Senato della Repubblica nell'esercizio
+
+delle funzioni del Presidente della Repubblica,
+
+ai sensi dell'articolo 86 della Costituzione
+
+MANCINO
+
+Amato, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Fassino

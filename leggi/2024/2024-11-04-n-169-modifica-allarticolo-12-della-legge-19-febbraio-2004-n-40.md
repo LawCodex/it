@@ -1,0 +1,72 @@
+---
+title: "LEGGE 04 novembre 2024, n. 169 — Modifica all'articolo 12 della legge 19 febbraio 2004, n. 40, in materia di perseguibilita' del reato di surrogazione di maternita' commesso all'estero da cittadino italiano."
+identifier: "urn:nir:stato:legge:2024-11-04;169"
+eli: "https://www.normattiva.it/eli/id/2024/11/18/24G00187/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2024-11-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 270 del 2024-11-18"
+codice_redazionale: "24G00187"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-04;169"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 novembre 2024, n. 169
+
+**Modifica all'articolo 12 della legge 19 febbraio 2004, n. 40, in materia di perseguibilita' del reato di surrogazione di maternita' commesso all'estero da cittadino italiano.**
+
+*Entrata in vigore del provvedimento: 03/12/2024*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Al comma 6 dell'articolo 12 della legge 19 febbraio 2004, n. 40, e' aggiunto, in fine, il seguente periodo: «Se i fatti di cui al periodo precedente, con riferimento alla surrogazione di maternita', sono commessi all'estero, il cittadino italiano e' punito secondo la legge italiana».
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 novembre 2024
+
+MATTARELLA
+
+Meloni, Presidente del Consiglio dei ministri
+
+Visto, il Guardasigilli: Nordio
+
+> NOTE
+
+> Avvertenza:
+
+> Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 2, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge, modificate. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+> Note all'art. 1:
+
+> \- Si riporta il testo dell'art. 12 della legge 19 febbraio 2004, n. 40 recante: «Norme in materia di procreazione medicalmente assistita», pubblicata nella Gazzetta Ufficiale n. 45 del 24 febbraio 2004, come modificato dalla presente legge:
+
+> «Art. 12 (Divieti generali e sanzioni). - 1. Chiunque a qualsiasi titolo utilizza a fini procreativi gameti di soggetti estranei alla coppia richiedente, in violazione di quanto previsto dall'articolo 4, comma 3, e' punito con la sanzione amministrativa pecuniaria da 300.000 a 600.000 euro.
+
+> 2\. Chiunque a qualsiasi titolo, in violazione dell'articolo 5, applica tecniche di procreazione medicalmente assistita a coppie i cui componenti non siano entrambi viventi o uno dei cui componenti sia minorenne ovvero che siano composte da soggetti dello stesso sesso o non coniugati o non conviventi e' punito con la sanzione amministrativa pecuniaria da 200.000 a 400.000 euro.
+
+> 3\. Per l'accertamento dei requisiti di cui al comma 2 il medico si avvale di una dichiarazione sottoscritta dai soggetti richiedenti. In caso di dichiarazioni mendaci si applica l'articolo 76, commi 1 e 2, del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
+> 4\. Chiunque applica tecniche di procreazione medicalmente assistita senza avere raccolto il consenso secondo le modalita' di cui all'articolo 6 e' punito con la sanzione amministrativa pecuniaria da 5.000 a 50.000 euro.
+
+> 5\. Chiunque a qualsiasi titolo applica tecniche di procreazione medicalmente assistita in strutture diverse da quelle di cui all'articolo 10 e' punito con la sanzione amministrativa pecuniaria da 100.000 a 300.000 euro.
+
+> 6\. Chiunque, in qualsiasi forma, realizza, organizza o pubblicizza la commercializzazione di gameti o di embrioni o la surrogazione di maternita' e' punito con la reclusione da tre mesi a due anni e con la multa da 600.000 a un milione di euro. Se i fatti di cui al periodo precedente, con riferimento alla surrogazione di maternita', sono commessi all'estero, il cittadino italiano e' punito secondo la legge italiana.
+
+> 7\. Chiunque realizza un processo volto ad ottenere un essere umano discendente da un'unica cellula di partenza, eventualmente identico, quanto al patrimonio genetico nucleare, ad un altro essere umano in vita o morto, e' punito con la reclusione da dieci a venti anni e con la multa da 600.000 a un milione di euro. Il medico e' punito, altresi', con l'interdizione perpetua dall'esercizio della professione.
+
+> 8\. Non sono punibili l'uomo o la donna ai quali sono applicate le tecniche nei casi di cui ai commi 1, 2, 4 e 5.
+
+> 9\. E' disposta la sospensione da uno a tre anni dall'esercizio professionale nei confronti dell'esercente una professione sanitaria condannato per uno degli illeciti di cui al presente articolo, salvo quanto previsto dal comma 7.
+
+> 10\. L'autorizzazione concessa ai sensi dell'articolo 10 alla struttura al cui interno e' eseguita una delle pratiche vietate ai sensi del presente articolo e' sospesa per un anno. Nell'ipotesi di piu' violazioni dei divieti di cui al presente articolo o di recidiva l'autorizzazione puo' essere revocata.».

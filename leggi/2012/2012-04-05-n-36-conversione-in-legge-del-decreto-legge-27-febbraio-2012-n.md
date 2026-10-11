@@ -1,0 +1,52 @@
+---
+title: "LEGGE 05 aprile 2012, n. 36 — Conversione in legge del decreto-legge 27 febbraio 2012, n. 15, recante disposizioni urgenti per le elezioni amministrative del maggio 2012."
+identifier: "urn:nir:stato:legge:2012-04-05;36"
+eli: "https://www.normattiva.it/eli/id/2012/04/10/012G0060/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2012-04-05
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 84 del 2012-04-10"
+codice_redazionale: "012G0060"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-05;36"
+retrieved: 2026-10-11
+---
+
+# LEGGE 05 aprile 2012, n. 36
+
+**Conversione in legge del decreto-legge 27 febbraio 2012, n. 15, recante disposizioni urgenti per le elezioni amministrative del maggio 2012.**
+
+*Entrata in vigore del provvedimento: 11/04/2012*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. E' convertito in legge il decreto-legge 27 febbraio 2012, n. 15, recante disposizioni urgenti per le elezioni amministrative del maggio 2012.
+
+2\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 5 aprile 2012
+
+NAPOLITANO
+
+Monti, Presidente del Consiglio dei Ministri
+
+Cancellieri, Ministro dell'interno
+
+Visto, il Guardasigilli: Severino
+
+> Avvertenza:
+
+> Il decreto-legge 27 febbraio 2012, n. 15, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 48 del 27 febbraio 2012.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 83.

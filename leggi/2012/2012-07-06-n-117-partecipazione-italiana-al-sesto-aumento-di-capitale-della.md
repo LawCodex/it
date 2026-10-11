@@ -1,0 +1,60 @@
+---
+title: "LEGGE 06 luglio 2012, n. 117 — Partecipazione italiana al sesto aumento di capitale della banca di sviluppo del Consiglio d'Europa."
+identifier: "urn:nir:stato:legge:2012-07-06;117"
+eli: "https://www.normattiva.it/eli/id/2012/07/30/012G0130/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2012-07-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 176 del 2012-07-30"
+codice_redazionale: "012G0130"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-07-06;117"
+retrieved: 2026-10-11
+---
+
+# LEGGE 06 luglio 2012, n. 117
+
+**Partecipazione italiana al sesto aumento di capitale della banca di sviluppo del Consiglio d'Europa.**
+
+*Entrata in vigore del provvedimento: 14/08/2012*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. La partecipazione italiana al capitale della Banca di sviluppo del Consiglio d'Europa, di seguito denominata «CEB», pari ad euro 549.691.654, e' elevata ad euro 915.770.000, conformemente alla risoluzione n. 386 del 4 febbraio 2011 adottata dal Consiglio di direzione della Banca, ai sensi dell'articolo IX, sezione 3, numero 2, del nuovo statuto della CEB, relativa al sesto aumento di capitale della predetta Banca.
+
+2\. La partecipazione all'aumento di capitale di cui al comma 1 viene attuata:
+
+a) mediante sottoscrizione, senza obbligo di versamento immediato, di nuovi titoli di partecipazione dell'ammontare di euro 325.114.000;
+
+b) con l'attribuzione supplementare di titoli di partecipazione dell'ammontare di euro 40.964.000, pari alla quota italiana di riserve da incorporare nel capitale.
+
+3\. La quota di capitale corrispondente ai nuovi titoli di partecipazione sottoscritti dall'Italia sara' versata, su richiesta della CEB, avanzata in maniera eguale per tutti i Paesi partecipanti, solo se necessaria per far fronte ad obbligazioni di restituzione di prestiti contratti conformemente agli articoli V e VI dello statuto della CEB.
+
+4\. Agli eventuali oneri derivanti dal versamento della quota di capitale sottoscritta, relativa alla partecipazione italiana al sesto aumento di capitale della CEB, si provvede a norma dell'articolo 31 della legge 31 dicembre 2009, n. 196, con imputazione nell'ambito del programma «Incentivi alle imprese per interventi di sostegno» della missione «Competitivita' e sviluppo delle imprese» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2012, e nell'ambito dei corrispondenti programmi per gli anni successivi.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 6 luglio 2012
+
+NAPOLITANO
+
+Monti, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Severino
+
+> Avvertenza:
+
+> Il testo della nota qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n.1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio. Resta invariato il valore e l'efficacia dell' atto legislativo qui trascritto.
+
+> Note all'art. 1:
+
+> Il testo dell'art. 31 della legge 31 dicembre 2009, n. 196, recante legge di contabilita' e finanza pubblica e' il seguente: «Art. 31(Garanzie statali) - 1. In allegato allo stato di previsione della spesa del Ministero dell'economia e delle finanze sono elencate le garanzie principali e sussidiarie prestate dallo Stato a favore di enti o altri soggetti.».

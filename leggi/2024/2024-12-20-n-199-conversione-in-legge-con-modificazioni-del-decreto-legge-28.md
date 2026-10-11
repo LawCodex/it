@@ -1,0 +1,223 @@
+---
+title: "LEGGE 20 dicembre 2024, n. 199 — Conversione in legge, con modificazioni, del decreto-legge 28 ottobre 2024, n. 160, recante disposizioni urgenti in materia di lavoro, universita', ricerca e istruzione per una migliore attuazione del Piano nazionale di ripresa e resilienza."
+identifier: "urn:nir:stato:legge:2024-12-20;199"
+eli: "https://www.normattiva.it/eli/id/2024/12/27/24G00217/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2024-12-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 302 del 2024-12-27"
+codice_redazionale: "24G00217"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-20;199"
+retrieved: 2026-10-11
+---
+
+# LEGGE 20 dicembre 2024, n. 199
+
+**Conversione in legge, con modificazioni, del decreto-legge 28 ottobre 2024, n. 160, recante disposizioni urgenti in materia di lavoro, universita', ricerca e istruzione per una migliore attuazione del Piano nazionale di ripresa e resilienza.**
+
+*Entrata in vigore del provvedimento: 28/12/2024*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 28 ottobre 2024, n. 160, recante disposizioni urgenti in materia di lavoro, universita', ricerca e istruzione per una migliore attuazione del Piano nazionale di ripresa e resilienza, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 20 dicembre 2024
+
+MATTARELLA
+
+Meloni, Presidente del Consiglio dei ministri
+
+Calderone, Ministro del lavoro e delle politiche sociali
+
+Bernini, Ministro dell'universita' e della ricerca
+
+Valditara, Ministro dell'istruzione e del merito
+
+Giorgetti, Ministro dell'economia e delle finanze
+
+Visto, il Guardasigilli: Nordio
+
+> Avvertenza:
+
+> Il decreto-legge 28 ottobre 2024, n. 160, e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 253 del 28 ottobre 2024.
+
+> A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 55.
+
+## Allegati
+
+## Allegato
+
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 28 OTTOBRE 2024, N. 160
+
+All'articolo 1:
+
+al comma 2, le parole: «dell'INAIL» sono sostituite dalle seguenti: «dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL)»;
+
+al comma 3, capoverso 863, primo periodo, dopo le parole: «nel proprio sito» e' inserita la seguente: «internet»;
+
+al comma 4, capoverso 8, le parole: «dalla Procura della Repubblica» sono sostituite dalle seguenti: «dall'autorita' giudiziaria»;
+
+al comma 6, dopo le parole: «sono elaborati ai sensi» sono inserite le seguenti: «dell'articolo 10, comma 12, della legge 8 maggio 1998, n. 146, e»;
+
+al comma 7, le parole: «, nonche' sono stabilite» sono sostituite dalle seguenti: «e sono stabiliti»;
+
+al comma 10, le parole: «commi da 5 a 9» sono sostituite dalle seguenti: «commi da 5 a 8» e le parole: «Misura 5» sono sostituite dalle seguenti: «Missione 5»;
+
+al comma 11, capoverso 1-ter, le parole: «l'accessibilita'» sono sostituite dalle seguenti: «la possibilita' di accesso»;
+
+alla rubrica, le parole: «di contrasto al lavoro sommerso» sono sostituite dalle seguenti: «per il contrasto del lavoro sommerso».
+
+All'articolo 2:
+
+al comma 1, le parole: «della prestazioni erogata» sono sostituite dalle seguenti: «della prestazione erogata», le parole: «di cui all'art. 27 del decreto legislativo 14 settembre 2015, n. 148» sono sostituite dalle seguenti: «ai sensi dell'articolo 27 del medesimo decreto legislativo n. 148 del 2015», le parole: «tessile, dell'abbigliamento e calzaturiero (TAC), nonche' conciario» sono sostituite dalle seguenti: «tessile, della pelletteria, dell'abbigliamento e calzaturiero, nel settore conciario nonche', limitatamente alle attivita' svolte dagli addetti alle lavorazioni di montatura e saldatura di accessori della moda, nelle attivita' identificate dai codici ATECO indicati nella tabella A annessa al presente decreto e dal codice ATECO 25.62.00» e le parole: «corrispondente al periodo che decorre dall'entrata in vigore del presente decreto fino al 31 dicembre 2024» sono sostituite dalle seguenti: «pari a dodici settimane fino al 31 gennaio 2025»;
+
+al comma 2, le parole: «a normativa vigente» sono sostituite dalle seguenti: «dalla normativa vigente»;
+
+al comma 3, quarto periodo, le parole: «art. 7, comma 5 bis» sono sostituite dalle seguenti: «articolo 7, comma 5-bis»;
+
+al comma 4, primo periodo, le parole: «nel limite di spesa di 64,6 milioni di euro per l'anno 2024» sono sostituite dalle seguenti: «nei limiti di spesa di 73,6 milioni di euro per l'anno 2024 e di 36,8 milioni di euro per l'anno 2025» e le parole: «del predetto limite di spesa» sono sostituite dalle seguenti: «dei predetti limiti di spesa»;
+
+al comma 7, le parole: «64,6 milioni di euro per l'anno 2024» sono sostituite dalle seguenti: «73,6 milioni di euro per l'anno 2024 e a 36,8 milioni di euro per l'anno 2025,»;
+
+alla rubrica, le parole: «settore moda» sono sostituite dalle seguenti: «settore della moda».
+
+All'articolo 3:
+
+al comma 1, capoverso 6-bis, le parole: «ivi incluso il rifinanziamento della misura» sono sostituite dalle seguenti: «ivi compreso il rifinanziamento degli interventi».
+
+All'articolo 4:
+
+al comma 1, primo periodo, dopo le parole: «personale docente» sono inserite le seguenti: «delle universita'», le parole: «dell'articolo 26, comma 7, del decreto-legge 24 febbraio 2023, n. 13, convertito, con modificazioni, dalla legge 21 aprile 2023, n. 41» sono sostituite dalle seguenti: «dell'articolo 18, comma 4-ter, della legge 30 dicembre 2010, n. 240» e le parole: «legge 30 dicembre 2010, n. 240» sono sostituite dalle seguenti: «medesima legge n. 240 del 2010»;
+
+al comma 2, dopo le parole: «organico dei docenti» e' inserita la seguente: «universitari»;
+
+dopo il comma 2 e' aggiunto il seguente:
+
+«2-bis. All'articolo 16, comma 1, della legge 30 dicembre 2010, n. 240, le parole: "nove anni" sono sostituite dalle seguenti: "dodici anni"».
+
+All'articolo 6:
+
+al comma 1, lettera b), capoverso 4-bis, le parole: «del target» sono sostituite dalle seguenti: «dell'obiettivo» e le parole: «ivi incluso» sono sostituite dalle seguenti: «ivi compresi»;
+
+dopo il comma 1 sono aggiunti i seguenti:
+
+«1-bis. All'articolo 1-quater, comma 1, della legge 14 novembre 2000, n. 338, sono aggiunte, in fine, le seguenti parole: "o dalle specifiche normative regionali e statali, fermo restando il rispetto della normativa in materia di sicurezza e di requisiti igienico-sanitari".
+
+1-ter. Al fine di assicurare il raggiungimento degli obiettivi M4C1-27 e M4C1-30, riforma 1.7 della Missione 4, Componente 1, del PNRR, l'articolo 1-ter della legge 14 novembre 2000, n. 338, e' abrogato»;
+
+alla rubrica, le parole: «del target M4C1-30» sono sostituite dalle seguenti: «degli obiettivi M4C1-27 e M4C1-30».
+
+All'articolo 7:
+
+al comma 1, dopo le parole: «Campus del Politecnico» sono inserite le seguenti: «di Milano denominato» e le parole: «a Bovisa Milano» sono sostituite dalle seguenti: «, situato nel quartiere della Bovisa del comune di Milano».
+
+All'articolo 8:
+
+al comma 1, lettera a), le parole: «attivati all'estero,» sono sostituite dalle seguenti: «attivati all'estero previsti nell'ambito dei piani triennali di programmazione delle attivita' formative adottati dalle regioni,»;
+
+al comma 2:
+
+al primo periodo, le parole: «ITS Academy» sono sostituite dalle seguenti: «Istituti tecnologici superiori (ITS Academy), di cui alla legge 15 luglio 2022, n. 99,», le parole: «e' autorizzata» sono sostituite dalle seguenti: «sono autorizzate» e le parole: «della offerta formativa di cui al presente periodo» sono sostituite dalle seguenti: «dell'offerta formativa connessa ai processi di cui al presente periodo»;
+
+al secondo periodo, le parole: «dell'autorizzazione di spesa di cui all'articolo 1, comma 2, lettera p), numero 3), della legge 3 agosto 2007, n. 123,» sono sostituite dalle seguenti: «delle risorse dell'autorizzazione di spesa di cui all'articolo 1, comma 7-bis, della legge 3 agosto 2007, n. 123, iscritte nello stato di previsione del Ministero dell'istruzione e del merito per le finalita' di cui all'articolo 1, comma 2, lettera p), numero 3), della medesima legge n. 123 del 2007» e dopo le parole: «1 milione di euro per l'anno 2024» e' inserito il seguente segno di interpunzione: «,».
+
+Dopo l'articolo 8 e' inserito il seguente:
+
+«Art. 8-bis (Disposizioni urgenti per l'avvio del percorso liceale del made in Italy). - 1. All'articolo 18, comma 4, della legge 27 dicembre 2023, n. 206, sono apportate le seguenti modificazioni:
+
+a) al primo periodo, le parole da: "; contestualmente" fino alla fine del periodo sono soppresse;
+
+b) al secondo periodo, dopo le parole: "legge 15 luglio 2011, n. 111," sono inserite le seguenti: "nonche' dell'organico dell'autonomia del personale docente e dell'organico del personale amministrativo, tecnico e ausiliario previsti a legislazione vigente,"».
+
+L'articolo 9 e' sostituito dal seguente:
+
+«Art. 9 (Modifiche all'articolo 18-bis del decreto legislativo 13 aprile 2017, n. 59, in materia di riforma del reclutamento degli insegnanti tecnico-pratici). - 1. All'articolo 18-bis, comma 4, del decreto legislativo 13 aprile 2017, n. 59, sono apportate le seguenti modificazioni:
+
+a) al primo periodo, dopo le parole: "su posto comune" sono inserite le seguenti: "e su posto di insegnante tecnico-pratico" e dopo le parole: "di cui al comma 1" sono inserite le seguenti: "del presente articolo, nonche' i vincitori del concorso su posto di insegnante tecnico-pratico, che vi abbiano partecipato con i requisiti di cui all'articolo 22, comma 2, secondo periodo";
+
+b) al secondo periodo, dopo le parole: "ultimo periodo," sono inserite le seguenti: "nonche' i vincitori di concorso su posto di insegnante tecnico-pratico che vi abbiano partecipato con i requisiti di cui all'articolo 22, comma 2, secondo periodo,"».
+
+All'articolo 10:
+
+al comma 1, secondo periodo, le parole: «a mediante corrispondente» sono sostituite dalle seguenti: «mediante corrispondente».
+
+E' aggiunta, in fine, la seguente tabella:
+
+«Tabella A
+
+(articolo 2, comma 1)
+
+```text
+ ===============================================
+           |Codice ATECO 2007| Descrizione codice ATECO  |
+           +=================+===========================+
+           |                 |Fabbricazione di frustini e|
+           |15.12.01         |scudisci per equitazione   |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di prodotti  |
+           |                 |chimici vari per uso       |
+           |                 |industriale (inclusi i     |
+           |                 |preparati antidetonanti e  |
+           |20.59.40         |antigelo)                  |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di altri     |
+           |                 |articoli in materie        |
+           |22.29.09         |plastiche n.c.a.           |
+           +-----------------+---------------------------+
+           |                 |Produzione di metalli      |
+           |24.41.00         |preziosi e semilavorati    |
+           +-----------------+---------------------------+
+           |                 |Trattamento e rivestimento |
+           |25.61.00         |dei metalli                |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di stampi,   |
+           |                 |portastampi, sagome, forme |
+           |25.73.20         |per macchine               |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di altri     |
+           |                 |articoli metallici e       |
+           |25.99.99         |minuteria metallica n.c.a. |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di apparecchi|
+           |                 |per depurare e filtrare    |
+           |                 |liquidi e gas per uso non  |
+           |28.29.91         |domestico                  |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di macchine  |
+           |28.49.01         |per la galvanostegia       |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di macchine  |
+           |                 |tessili, di macchine e di  |
+           |                 |impianti per il trattamento|
+           |                 |ausiliario dei tessili, di |
+           |                 |macchine per cucire e per  |
+           |                 |maglieria (incluse parti e |
+           |28.94.10         |accessori)                 |
+           +-----------------+---------------------------+
+           |                 |Fabbricazione di macchine e|
+           |                 |apparecchi per l'industria |
+           |                 |delle pelli, del cuoio e   |
+           |                 |delle calzature (incluse   |
+           |28.94.20         |parti e accessori)         |
+           +-----------------+---------------------------+
+```
+
+».

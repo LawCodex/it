@@ -1,0 +1,65 @@
+---
+title: "LEGGE 16 marzo 2001, n. 72 — Interventi a tutela del patrimonio storico e culturale delle comunita' degli esuli italiani dall'Istria, da Fiume e dalla Dalmazia."
+identifier: "urn:nir:stato:legge:2001-03-16;72"
+eli: "https://www.normattiva.it/eli/id/2001/03/28/001G0127/CONSOLIDATED/20170624"
+type: act
+jurisdiction: it
+language: it
+date: 2001-03-16
+last_amended: 2017-06-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 73 del 2001-03-28"
+codice_redazionale: "001G0127"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-16;72"
+retrieved: 2026-10-11
+---
+
+# LEGGE 16 marzo 2001, n. 72
+
+**Interventi a tutela del patrimonio storico e culturale delle comunita' degli esuli italiani dall'Istria, da Fiume e dalla Dalmazia.**
+
+*Entrata in vigore della legge: 12-4-2001*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Ai fini di cui all'articolo 9 della Costituzione, la Repubblica tutela le tradizioni storiche, culturali e linguistiche italiane delle comunita' istriane, fiumane e dalmate residenti in Italia, con riferimento agli usi, ai costumi ed alle espressioni artistiche, letterarie e musicali che ne costituiscono il patrimonio culturale popolare ed il legame storico con le terre di origine.
+
+2\. Nell'ambito delle finalita' di cui al comma 1 vengono sostenuti progetti specifici aventi ad oggetto:
+
+a) organizzazione di convegni, mostre e seminari di studio;
+
+b) istituzione e potenziamento di centri di documentazione sulle terre di origine e sulle vicende dell'esodo dalle medesime e dell'inserimento dei profughi giuliano-dalmati nella vita nazionale o nei Paesi di emigrazione ((, nonche' restauro di monumenti relativi alle medesime vicende));
+
+c) iniziative tese alla valorizzazione e alla divulgazione, anche tramite stampa periodica, della storia, della cultura, delle arti plastiche e figurative, della musica, delle tradizioni linguistiche e dialettali neolatine, dell'artigianato e del costume delle regioni di provenienza;
+
+d) organizzazione di manifestazioni e di incontri, volti a favorire il mantenimento di contatti culturali con le terre di origine.
+
+d-bis) ((erogazione di borse di studio)).
+
+3\. Ai fini di cui ai commi 1 e 2 e' autorizzata la spesa di lire 9 miliardi per il periodo 2001-2003, in ragione di lire 3 miliardi per ciascun anno, da iscrivere in apposito capitolo dello stato di previsione del Ministero degli affari esteri. All'onere derivante dall'attuazione del presente articolo si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
+
+4\. Lo stanziamento di cui al comma 3 e' utilizzato mediante apposita convenzione da stipulare tra il Ministero degli affari esteri, il Ministero per i beni e le attivita' culturali ((, l'universita' popolare di Trieste)) e la Federazione delle associazioni degli esuli istriani, fiumani e dalmati, sentita la Presidenza del Consiglio dei ministri, previa adeguata consultazione con associazioni e centri culturali, esistenti alla data del 31 maggio 2000, promossi dagli esuli dai detti territori e che si pongano come fine statutario preminente lo studio e la ricerca sul patrimonio storico culturale dell'Istria, del Quarnaro e della Dalmazia. La convenzione stabilisce annualmente le modalita' di accesso ai finanziamenti e di erogazione degli stessi, le procedure per i controlli sulle spese ad essi connesse e i termini di presentazione delle relative domande. ((L'universita' popolare di Trieste svolge le attivita' di supporto amministrativo e gestionale, anche sulla base di atti integrativi alle convenzioni, stipulate ai sensi della presente legge, gia' in essere alla data di entrata in vigore della presente disposizione)). Per le iniziative di cui al comma 2 deve essere sentita anche l'Unione Italiana, rappresentativa degli italiani residenti nei territori di origine appartenenti alla Slovenia e alla Croazia. Alla ripartizione delle somme stanziate provvede annualmente il Ministro per i beni e le attivita' culturali, con proprio decreto, di concerto con il Ministro degli affari esteri.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 16 marzo 2001
+
+Il Presidente del Senato della Repubblica
+
+nell'esercizio delle funzioni del Presidente della Repubblica
+
+ai sensi dell'articolo 86 della Costituzione
+
+MANCINO
+
+Amato, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Fassino

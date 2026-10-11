@@ -1,0 +1,69 @@
+---
+title: "LEGGE 08 maggio 2012, n. 65 — Disposizione per la valorizzazione e la promozione turistica delle valli e dei comuni montani sede dei siti dei Giochi olimpici invernali «Torino 2006»."
+identifier: "urn:nir:stato:legge:2012-05-08;65"
+eli: "https://www.normattiva.it/eli/id/2012/05/28/012G0086/CONSOLIDATED/20241213"
+type: act
+jurisdiction: it
+language: it
+date: 2012-05-08
+last_amended: 2024-12-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 123 del 2012-05-28"
+codice_redazionale: "012G0086"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-05-08;65"
+retrieved: 2026-10-11
+---
+
+# LEGGE 08 maggio 2012, n. 65
+
+**Disposizione per la valorizzazione e la promozione turistica delle valli e dei comuni montani sede dei siti dei Giochi olimpici invernali «Torino 2006».**
+
+*Entrata in vigore del provvedimento: 12/06/2012*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Le risorse finanziarie iscritte nel bilancio dello Stato sino al termine di cui all'articolo 3, comma 25, della legge 24 dicembre 2007, n. 244, come prorogato dall'articolo 2, comma 5-octies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, assegnate all'Agenzia per lo svolgimento dei Giochi olimpici «Torino 2006» ai sensi dell'articolo 10, commi 1, ultimo periodo, e 2, della legge 9 ottobre 2000, n. 285, e successive modificazioni, sono destinate, al netto delle risorse necessarie alla chiusura definitiva di tutti i contenziosi pendenti derivanti dall'attivita' posta in essere dalla predetta Agenzia e al pagamento di ogni altro onere a carico della gestione liquidatoria, all'esecuzione di interventi di manutenzione straordinaria e riqualificazione degli impianti di cui all'allegato 1 della citata legge 9 ottobre 2000, n. 285, tra cui, prioritariamente, quelli siti nei territori montani interessati dai Giochi olimpici invernali «Torino 2006».
+
+2\. Ai fini dell'attuazione del comma 1 del presente articolo, la Fondazione 20 marzo 2006 individua, sentiti il commissario liquidatore dell'Agenzia Torino 2006 e i rappresentanti dei comuni dei territori montani ove sono localizzati gli impianti di cui all'allegato 1 della legge 9 ottobre 2000, n. 285, la tipologia e la priorita' degli interventi, la cui esecuzione e' demandata, quale stazione appaltante, sotto la sua esclusiva responsabilita' e con oneri integralmente a suo carico, alla societa' di committenza Regione Piemonte Spa, di cui alla legge regionale della regione Piemonte 6 agosto 2007, n. 19, ((o alle stazioni appaltanti dei comuni o delle unioni montane interessati dagli interventi, iscritte all'Anagrafe unica delle stazioni appaltanti)) previa intesa con lo stesso commissario liquidatore dell'Agenzia Torino 2006 in ordine alle risorse finanziarie da mettere a disposizione per ciascun intervento.
+
+3\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+
+## Art. 2
+
+1\. Ai fini della realizzazione degli obiettivi della presente legge, all'articolo 2 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+
+a) ai commi 272 e 273, le parole: «l'Associazione Ciclismo di Marca» sono sostituite dalle seguenti: «la Federazione ciclistica italiana»;
+
+b) al comma 273, le parole: «L'80 per cento» sono sostituite dalle seguenti: «Il 95 per cento» e le parole da: «con il Ministro» fino alla fine del comma sono sostituite dalle seguenti: «con l'Ufficio per lo sport della Presidenza del Consiglio dei ministri»;
+
+c) al comma 274, le parole: «dall'Associazione Ciclismo di Marca» sono sostituite dalle seguenti: «dalla Federazione ciclistica italiana».
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 8 maggio 2012
+
+NAPOLITANO
+
+Monti, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Severino
+
+> Note all'art. 2:
+
+> \- Il testo dell'articolo 2, commi 272, 273 e 274, della citata legge n. 244 del 2007, come modificati dalla presente legge, e' il seguente:
+
+> "Art. 2 (Omissis). - 272. Per la realizzazione degli impianti sportivi e di servizio funzionali allo svolgimento dei campionati del mondo di ciclismo su pista del 2012 in provincia di Treviso e' autorizzato un contributo quindicennale di 2 milioni di euro a decorrere dal 2008 quale concorso dello Stato agli oneri derivanti dalla contrazione di mutui o altre operazioni finanziarie che la Federazione ciclistica italiana e' autorizzata ad effettuare.
+
+> 273\. Il 95 per cento del contributo quindicennale di cui al comma 272 e' destinato alla realizzazione di un velodromo nel territorio della provincia di Treviso, diretto a consentire un adeguato allenamento degli atleti italiani sul territorio nazionale. Ai fini della definizione delle modalita' di finanziamento e di realizzazione del velodromo e delle restanti infrastrutture funzionali allo svolgimento della manifestazione sportiva, la Federazione ciclistica italiana stipula un apposito accordo di programma quadro, ai sensi dell'articolo 2, comma 203, lettera c), della legge 23 dicembre 1996, n. 662, con l'Ufficio per lo sport della Presidenza del Consiglio dei ministri.
+
+> 274\. Le somme relative ad eventuali economie, derivanti dalle risorse attivate mediante la contrazione di mutui o altre operazioni finanziarie effettuate dalla Federazione ciclistica italiana per la realizzazione degli interventi a valere sul contributo quindicennale di cui al comma 272, possono essere destinate alla copertura di altre spese preventivamente autorizzate dall'Associazione medesima per la realizzazione dell'evento.
+
+> (Omissis).".

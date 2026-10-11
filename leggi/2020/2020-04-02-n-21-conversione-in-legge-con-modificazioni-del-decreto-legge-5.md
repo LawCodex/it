@@ -1,0 +1,82 @@
+---
+title: "LEGGE 02 aprile 2020, n. 21 — Conversione in legge, con modificazioni, del decreto-legge 5 febbraio 2020, n. 3, recante misure urgenti per la riduzione della pressione fiscale sul lavoro dipendente."
+identifier: "urn:nir:stato:legge:2020-04-02;21"
+eli: "https://www.normattiva.it/eli/id/2020/04/04/20G00038/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2020-04-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 90 del 2020-04-04"
+codice_redazionale: "20G00038"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-04-02;21"
+retrieved: 2026-10-11
+---
+
+# LEGGE 02 aprile 2020, n. 21
+
+**Conversione in legge, con modificazioni, del decreto-legge 5 febbraio 2020, n. 3, recante misure urgenti per la riduzione della pressione fiscale sul lavoro dipendente.**
+
+*Entrata in vigore del provvedimento: 05/04/2020*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 5 febbraio 2020, n. 3, recante misure urgenti per la riduzione della pressione fiscale sul lavoro dipendente, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 2 aprile 2020
+
+MATTARELLA
+
+Conte, Presidente del Consiglio dei ministri
+
+Gualtieri, Ministro dell'economia e delle finanze
+
+Visto, il Guardasigilli: Bonafede
+
+> Avvertenza:
+
+> Il decreto-legge 5 febbraio 2020, n. 3, e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 29 del 5 febbraio 2019.
+
+> A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+> Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 68.
+
+## Allegati
+
+## Allegato
+
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE
+
+AL DECRETO-LEGGE 5 FEBBRAIO 2020, N. 3
+
+All'art. 1:
+
+al comma 3:
+
+al primo periodo, dopo la parola: «riconoscono» sono inserite le seguenti: «in via automatica» e dopo le parole: «il trattamento integrativo» sono inserite le seguenti: «di cui al comma 1»;
+
+al terzo periodo, le parole: «in quattro rate» sono sostituite dalle seguenti: «in otto rate»;
+
+al comma 4, le parole: «il credito erogato ai sensi del comma 1 mediante l'istituto di cui» sono sostituite dalle seguenti: «il credito maturato per effetto dell'erogazione del trattamento integrativo di cui al comma 1, mediante l'istituto della compensazione di cui».
+
+All'art. 2:
+
+al comma 3:
+
+al primo periodo, dopo le parole: «l'ulteriore detrazione» sono inserite le seguenti: «di cui al comma 1»;
+
+al terzo periodo, le parole: «in quattro rate» sono sostituite dalle seguenti: «in otto rate».

@@ -1,0 +1,559 @@
+---
+title: "LEGGE 27 dicembre 2001, n. 459 — Norme per l'esercizio del diritto di voto dei cittadini italiani residenti all'estero."
+identifier: "urn:nir:stato:legge:2001-12-27;459"
+eli: "https://www.normattiva.it/eli/id/2002/01/05/002G0004/CONSOLIDATED/20220703"
+type: act
+jurisdiction: it
+language: it
+date: 2001-12-27
+last_amended: 2022-07-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 4 del 2002-01-05"
+codice_redazionale: "002G0004"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-27;459"
+retrieved: 2026-10-11
+---
+
+# LEGGE 27 dicembre 2001, n. 459
+
+**Norme per l'esercizio del diritto di voto dei cittadini italiani residenti all'estero.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. I cittadini italiani residenti all'estero, iscritti nelle liste elettorali di cui all'articolo 5, comma 1, votano nella circoscrizione Estero, di cui all'articolo 48 della Costituzione, per l'elezione delle Camere e per i referendum previsti dagli articoli 75 e 138 della Costituzione, nei limiti e nelle forme previsti dalla presente legge.
+
+2\. Gli elettori di cui al comma 1 votano per corrispondenza.
+
+3\. Gli elettori di cui al comma 1 possono esercitare il diritto di voto in Italia, e in tale caso votano nella circoscrizione del territorio nazionale relativa alla sezione elettorale in cui sono iscritti, previa opzione da esercitare per ogni votazione e valida limitatamente ad essa.
+
+> Avvertenza:
+
+> Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+> Nota all'art. 1, comma 1:
+
+> \- Si riporta il testo degli articoli 48, 75 e 138 della Costituzione:
+
+> "Art. 48. - Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore eta'.
+
+> Il voto e' personale ed eguale, libero e segreto. Il suo esercizio e' dovere civico.
+
+> La legge stabilisce requisiti e modalita' per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettivita'. A tale fine e' istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge.
+
+> Il diritto di voto non puo' essere limitato se non per incapacita' civile o per effetto di sentenza penale irrevocabile o nei casi di indegnita' morale indicati dalla legge".
+
+> "Art. 75. - E' indetto referendum popolare per deliberare l'abrogazione, totale o parziale, di una legge o di un atto avente valore di legge, quando lo richiedono cinquecentomila elettori o cinque Consigli regionali.
+
+> Non e' ammesso il referendum per le leggi tributarie e di bilancio, di amnistia e di indulto, di autorizzazione a ratificare trattati internazionali.
+
+> Hanno diritto di partecipare al referendum tutti i cittadini chiamati ad eleggere la Camera dei deputati.
+
+> La proposta soggetta a referendum e' approvata se ha partecipato alla votazione la maggioranza degli aventi diritto, e se e' raggiunta la maggioranza dei voti validamente espressi.
+
+> La legge determina le modalita' di attuazione del referendum".
+
+> "Art. 138. - Le leggi di revisione della Costituzione e le altre leggi costituzionali sono adottate da ciascuna Camera con due successive deliberazioni ad intervallo non minore di tre mesi, e sono approvate a maggioranza assoluta dei componenti di ciascuna Camera nella seconda votazione.
+
+> Le leggi stesse sono sottoposto a referendum popolare quando, entro tre mesi dalla loro pubblicazione, ne facciano domanda un quinto dei membri di una Camera o cinquecentomila elettori o cinque Consigli regionali. La legge sottoposta a referendum non e' promulgata se non e' approvata dalla maggioranza dei voti validi.
+
+> Non si fa luogo a referendum se la legge e' stata approvata nella seconda votazione da ciascuna delle Camere a maggioranza di due terzi dei suoi componenti".
+
+## Art. 2
+
+1\. Le rappresentanze diplomatiche e consolari provvedono ad informare periodicamente gli elettori di cui all'articolo 1, comma 1, delle norme contenute nella presente legge, con riferimento alle modalita' di voto per corrispondenza e all'esercizio del diritto di opzione di cui all'articolo 1, comma 3, utilizzando a tale fine tutti gli idonei strumenti di informazione, sia in lingua italiana che nella lingua degli Stati di residenza.
+
+2\. Entro un anno dalla data di entrata in vigore della presente legge le rappresentanze diplomatiche e consolari inviano a ciascun elettore un plico contenente un apposito modulo per l'aggiornamento dei dati anagrafici e di residenza all'estero che lo riguardano e una busta affrancata con l'indirizzo dell'ufficio consolare competente. Gli elettori rispediscono la busta contenente il modulo con i dati aggiornati entro trenta giorni dalla data di ricezione.
+
+## Art. 3
+
+1\. Ai fini della presente legge con l'espressione "uffici consolari" si intendono gli uffici di cui all'articolo 29 della legge 24 gennaio 1979, n. 18, e successive modificazioni.
+
+> Nota all'art. 3:
+
+> \- Si riporta il testo dell'art. 29 della legge 24 gennaio 1979, n. 18, e successive modificazioni:
+
+> "Art. 29. - Agli effetti della applicazione delle norme del presente titolo, l'espressione "uffici consolari" comprende i consolati generali di 1a categoria, i consolati di 1a categoria, i vice consolati di 1a categoria e le agenzie consolari di 1a categoria. Le relative circoscrizioni comprendono quelle degli uffici consolari che saranno ad essi aggregati con decreto del Ministro degli affari esteri. Nei Paesi della Comunita' in cui non esistono gli uffici consolari di 1a categoria sopra indicati, le funzioni elettorali previste dal presente titolo sono svolte dalle ambasciate".
+
+## Art. 4
+
+1\. In occasione di ogni consultazione elettorale l'elettore puo' esercitare l'opzione per il voto in Italia di cui all'articolo 1, comma 3, dandone comunicazione scritta alla rappresentanza diplomatica o consolare operante nella circoscrizione consolare di residenza entro il 31 dicembre dell'anno precedente a quello previsto per la scadenza naturale della legislatura.
+
+2\. In caso di scioglimento anticipato delle Camere o di indizione di referendum popolare, l'elettore puo' esercitare l'opzione per il voto in Italia entro il decimo giorno successivo alla indizione delle votazioni.((1))
+
+3\. Il Ministero degli affari esteri comunica, senza ritardo, al Ministero dell'interno i nominativi degli elettori che hanno esercitato il diritto di opzione per il voto in Italia, ai sensi dei commi 1 e 2. Almeno trenta giorni prima della data stabilita per le votazioni in Italia il Ministero dell'interno comunica i nominativi degli elettori che hanno esercitato l'opzione per il voto in Italia ai comuni di ultima residenza in Italia. I comuni adottano le conseguenti misure necessarie per l'esercizio del voto in Italia.
+
+4\. Entro un anno dalla data di entrata in vigore della presente legge le rappresentanze diplomatiche e consolari, sulla base delle istruzioni impartite a tale fine dal Ministero degli affari esteri, informano, con apposita comunicazione, l'elettore della possibilita' di esercitare l'opzione per il voto in Italia specificando in particolare che l'eventuale opzione e' valida esclusivamente per una consultazione elettorale o referendaria e che deve essere esercitata nuovamente in occasione della successiva consultazione.
+
+5\. L'elettore che intenda esercitare l'opzione per il voto in Italia per la prima consultazione elettorale o referendaria successiva alla data di entrata in vigore della presente legge lo comunica, entro il sessantesimo giorno dalla ricezione della comunicazione, alla rappresentanza diplomatica o consolare operante nella circoscrizione consolare di residenza e comunque entro il 31 dicembre dell'anno precedente a quello previsto per la scadenza naturale della legislatura.
+
+-----------------
+
+AGGIORNAMENTO (1)
+
+Il D.L. 15 febbraio 2008, n. 24, convertito con modificazioni dalla L. 27 febbraio 2008, n. 30, ha disposto (con l'art. 1, comma 1-bis) che "Il termine per esercitare l'opzione per il voto in Italia di cui all'articolo 4, comma 2, della legge 27 dicembre 2001, n. 459, decorre, con riferimento allo svolgimento delle elezioni politiche ed amministrative nell'anno 2008, dalla data di entrata in vigore della legge di conversione del presente decreto."
+
+## Art. 4-bis
+
+1\. Possono votare per corrispondenza nella circoscrizione Estero, previa opzione valida per un'unica consultazione elettorale, i cittadini italiani che, per motivi di lavoro, studio o cure mediche, si trovano, per un periodo di almeno tre mesi nel quale ricade la data di svolgimento della medesima consultazione elettorale, in un Paese estero in cui non sono anagraficamente residenti ai sensi della legge 27 ottobre 1988, n. 470. Con le stesse modalita' possono votare i familiari conviventi con i cittadini di cui al primo periodo.
+
+2\. L'opzione di cui al comma 1, redatta su carta libera, sottoscritta dall'elettore e corredata di copia di valido documento di identita', deve pervenire al comune di iscrizione elettorale ((entro il trentaduesimo giorno antecedente la data di svolgimento della consultazione elettorale)). La richiesta e' revocabile entro il medesimo termine ed e' valida per un'unica consultazione. Essa deve contenere l'indirizzo postale al quale inviare il plico elettorale e una dichiarazione attestante il possesso dei requisiti di cui al comma 1, resa ai sensi degli articoli 46 e 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
+L'elettore residente all'estero deve contestualmente revocare l'opzione eventualmente espressa ai sensi dell'articolo 1.
+
+3\. Ricevuta la comunicazione di opzione di cui al comma 2, il comune trasmette immediatamente in via informatica al Ministero dell'interno le generalita' e l'indirizzo all'estero degli elettori che hanno esercitato l'opzione di cui al comma 1, annotandola sulle liste sezionali. Entro il ventottesimo giorno antecedente la data di svolgimento della consultazione elettorale, il Ministero dell'interno comunica l'elenco dei suddetti elettori al Ministero degli affari esteri e della cooperazione internazionale per la trasmissione agli uffici consolari competenti, che inseriscono i nominativi degli elettori in elenchi speciali finalizzati a garantire l'esercizio del voto per corrispondenza nella circoscrizione Estero con le modalita' previste dalla presente legge.
+
+4\. Le schede votate per corrispondenza dagli elettori di cui al presente articolo sono scrutinate congiuntamente a quelle degli elettori di cui all'articolo 1, comma 2.
+
+5\. Per gli elettori appartenenti alle Forze armate ed alle Forze di polizia temporaneamente all'estero nello svolgimento di missioni internazionali, sono definite, in considerazione delle particolari situazioni locali e di intesa tra il Ministero della difesa e i Ministeri degli affari esteri e della cooperazione internazionale e dell'interno, le modalita' tecnico-organizzative di formazione dei plichi, del recapito agli elettori e della raccolta dei plichi stessi a cura del Ministero della difesa. Tali intese regolano l'esercizio del diritto di voto degli elettori di cui al presente comma anche nel caso previsto dall'articolo 20, comma 1-bis.
+
+6\. Nel caso previsto dall'articolo 20, comma 1-bis, gli uffici consolari consentono l'esercizio del voto agli elettori di cui all'articolo 1, comma 9, lettera b), della legge 27 ottobre 1988, n. 470, con modalita' definite d'intesa tra il Ministero degli affari esteri e della cooperazione internazionale e il Ministero dell'interno.
+
+(2)
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 6 maggio 2015, n. 52 ha disposto (con l'art. 2, comma 35) che la presente modifica si applica per le elezioni della Camera dei deputati a decorrere dal 1° luglio 2016.
+
+## Art. 5
+
+1\. Il Governo, mediante unificazione dei dati dell'anagrafe degli italiani residenti all'estero e degli schedari consolari, provvede a realizzare l'elenco aggiornato dei cittadini italiani residenti all'estero finalizzato alla predisposizione delle liste elettorali, distinte secondo le ripartizioni di cui all'articolo 6, per le votazioni di cui all'articolo 1, comma 1.
+
+2\. Sono ammessi ad esprimere il proprio voto in Italia solo i cittadini residenti all'estero che hanno esercitato l'opzione di cui all'articolo 1, comma 3.
+
+## Art. 6
+
+1\. Nell'ambito della circoscrizione Estero sono individuate le seguenti ripartizioni comprendenti Stati e territori afferenti a:
+
+a) Europa, compresi i territori asiatici della Federazione russa e della Turchia;
+
+b) America meridionale;
+
+c) America settentrionale e centrale;
+
+d) Africa, Asia, Oceania e Antartide.
+
+2\. In ciascuna delle ripartizioni di cui al comma 1 e' eletto un deputato e un senatore, mentre gli altri seggi sono distribuiti tra le stesse ripartizioni in proporzione al numero dei cittadini italiani che vi risiedono, secondo l'elenco di cui all'articolo 5, comma 1, sulla base dei quozienti interi e dei piu' alti resti.
+
+## Art. 7
+
+1\. Presso la corte di appello di Roma, entro tre giorni dalla data di pubblicazione nella Gazzetta Ufficiale del decreto di convocazione dei comizi elettorali, e' istituito l'ufficio centrale per la circoscrizione Estero composto da sei magistrati, dei quali uno con funzioni di presidente ed uno con funzioni di vicepresidente vicario, scelti dal presidente della Corte di appello. L'ufficio opera con la presenza di almeno tre componenti, tra cui il presidente o il vicepresidente.
+
+1-bis. Entro il termine di cui al comma 1 e' istituito presso le Corti di appello di Milano, Bologna, Firenze e Napoli un ufficio decentrato per la circoscrizione Estero, composto da tre magistrati, dei quali uno con funzioni di presidente, scelti dal presidente della Corte di appello.
+
+1-ter. Per le operazioni demandate agli uffici di cui ai commi 1 e 1-bis le Corti di appello presso cui sono istituiti i seggi si avvalgono del personale in servizio presso tutti gli uffici giudiziari del relativo distretto, ((individuato)) dal presidente della Corte d'appello, previo apposito interpello.
+
+1-quater. I seggi costituiti presso l'ufficio centrale per la circoscrizione Estero e quelli costituiti presso gli uffici decentrati sono competenti per lo spoglio dei voti provenienti dagli Stati e dai territori afferenti alle ripartizioni di seguito indicate:
+
+a) ufficio centrale: gli Stati e i territori afferenti alla ripartizione di cui all'articolo 6, comma 1, lettera b);
+
+b) uffici decentrati di Milano, Bologna e Firenze: gli Stati e i territori afferenti alla ripartizione di cui all'articolo 6, comma 1, lettera a);
+
+c) ufficio decentrato di Napoli: gli Stati e i territori afferenti alle ripartizioni di cui all'articolo 6, comma 1, lettere c) e d).
+
+1-quinquies. Con decreto del Ministro dell'interno, di concerto con il Ministro degli affari esteri e della cooperazione internazionale ((e con il Ministro)) della giustizia, adottato entro il 31 gennaio di ogni anno, e' pubblicato il numero dei cittadini italiani residenti nelle singole ripartizioni, sulla base dei dati dell'elenco aggiornato di cui all'articolo 5 riferiti al 31 dicembre dell'anno precedente. Con il medesimo decreto gli Stati e i territori afferenti alla ripartizione di cui all'articolo 6, comma 1, lettera a), sono suddivisi tra gli uffici decentrati di Milano, Bologna e Firenze, in maniera tale da distribuire in modo omogeneo il numero di cittadini italiani residenti nella ripartizione. Eventuali Stati o territori non contemplati dal decreto sono assegnati all'ufficio decentrato di Milano.
+
+## Art. 8
+
+1\. Ai fini della presentazione dei contrassegni e delle liste per l'attribuzione dei seggi da assegnare nella circoscrizione Estero, si osservano, in quanto compatibili, le norme di cui agli articoli da 14 a 26 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, e in ogni caso le seguenti disposizioni:
+
+a) le liste di candidati sono presentate per ciascuna delle ripartizioni di cui al comma 1 dell'articolo 6;
+
+((b) gli elettori residenti in Italia possono essere candidati in una sola ripartizione della circoscrizione Estero; gli elettori residenti all'estero possono essere candidati solo nella ripartizione di residenza della circoscrizione Estero;))
+
+c) la presentazione di ciascuna lista deve essere sottoscritta da almeno 500 e da non piu' di 1000 elettori residenti nella relativa ripartizione;
+
+d) le liste dei candidati devono essere presentate alla cancelleria della corte di appello di Roma dalle ore 8 del trentacinquesimo giorno alle ore 20 del trentaquattresimo giorno antecedenti quello delle votazioni.
+
+2\. Piu' partiti o gruppi politici possono presentare liste comuni di candidati. In tale caso, le liste devono essere contrassegnate da un simbolo composito, formato dai contrassegni di tutte le liste interessate.
+
+3\. Le liste sono formate da un numero di candidati almeno pari al numero dei seggi da assegnare nella ripartizione e non superiore al doppio di esso. Nessun candidato puo' essere incluso in piu' liste, anche se con il medesimo contrassegno.
+
+4\. Gli elettori residenti all'estero che non hanno esercitato l'opzione di cui all'articolo 1, comma 3, non possono essere candidati nelle circoscrizioni del territorio nazionale.
+
+((4-bis. Gli elettori che ricoprono o che hanno ricoperto nei cinque anni precedenti la data delle elezioni cariche di Governo o cariche politiche elettive a qualsiasi livello o incarichi nella magistratura o nelle Forze armate in uno Stato estero non possono essere candidati per le elezioni della Camera dei deputati o del Senato della Repubblica nella circoscrizione Estero)).
+
+## Art. 9
+
+1\. I commi secondo e terzo dell'articolo 7 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, sono sostituiti dai seguenti:
+
+"Le cause di ineleggibilita' di cui al primo comma sono riferite anche alla titolarita' di analoghe cariche, ove esistenti, rivestite presso corrispondenti organi in Stati esteri.
+
+Le cause di ineleggibilita', di cui al primo e al secondo comma, non hanno effetto se le funzioni esercitate siano cessate almeno centottanta giorni prima della data di scadenza del quinquennio di durata della Camera dei deputati.
+
+Per cessazione dalle funzioni si intende l'effettiva astensione da ogni atto inerente all'ufficio rivestito, preceduta, nei casi previsti alle lettere a), b) e c) del primo comma e nei corrispondenti casi disciplinati dal secondo comma, dalla formale presentazione delle dimissioni e, negli altri casi, dal trasferimento, dalla revoca dell'incarico o del comando ovvero dal collocamento in aspettativa".
+
+> Nota all'art. 9, comma 1:
+
+> \- Si riporta il testo dell'art. 7 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, come modificato dalla presente legge:
+
+> "Art. 7 (Testo unico 5 febbraio 1948, n. 26, art. 6, e legge 16 maggio 1956, n. 493, art. 2). - 1. Non sono eleggibili:
+
+> a) i deputati regionali o consiglieri regionali (2);
+
+> b) i presidenti delle giunte provinciali;
+
+> c) i sindaci dei comuni con popolazione superiore ai 20.000 abitanti;
+
+> d) il capo e vice capo della polizia e gli ispettori generali di pubblica sicurezza;
+
+> e) i capi di Gabinetto dei Ministri;
+
+> f) il rappresentante del Governo presso la regione autonoma della Sardegna il Commissario dello Stato nella Regione siciliana, i commissari del Governo per le regioni a statuto ordinario, il commissario del Governo per la regione Friuli-Venezia Giulia, il presidente della Commissione di coordinamento per la regione Valle d'Aosta, i commissari del Governo per le province di Trento e Bolzano, i prefetti e coloro che fanno le veci nelle predette cariche;
+
+> g) i viceprefetti e i funzionari di pubblica sicurezza;
+
+> h) gli ufficiali generali, gli ammiragli e gli ufficiali superiori delle Forze armate dello Stato, nella circoscrizione del loro comando territoriale.
+
+> 2\. Le cause di ineleggibilita' di cui al primo comma sono riferite anche alla titolarila' di analoghe cariche, ove esistenti, rivestite presso corrispondenti organi in Stati esteri.
+
+> (2) La Corte costituzionale, con sentenza 11 giugno - 28 luglio 1993, n. 344, ha dichiarato l'illegittimita' costituzionale dell'art. 7, primo comma, lettera a).
+
+> 2-bis Le cause di ineleggibilita', di cui al primo e secondo comma, non hanno effetto se le finzioni esercitate siano cessate almeno centottanta giorni prima della data di scadenza del quinquennio di durata della Camera dei deputati.
+
+> 3\. Per cessazione dalle funzioni si intende l'effettiva astensione da ogni atto inerente all'ufficio rivestito, preceduta, nei casi previsti alle lettere a), b) e c) del primo comma, dalla formale presentazione delle dimissioni e, negli altri casi, dal trasferimento, dalla revoca dell'incarico o del comando ovvero dal collocamento in aspettativa.
+
+> 4\. L'accettazione della candidatura comporta in ogni caso la decadenza dalle cariche di cui alle predette lettere a), b) e c).
+
+> 5\. Il quinquennio decorre dalla data della prima riunione dell'Assemblea, di cui ai secondo comma del successivo art. 11.
+
+> 6\. In caso di scioglimento anticipato della Camera dei deputati, le cause di ineleggibilita' anzidette non hanno effetto se le funzioni esercitate siano cessate entro i sette giorni successivi alla data di pubblicazione del decreto di scioglimento nella Gazzetta Ufficiale della Repubblica italiana.
+
+## Art. 10
+
+1\. Dopo l'articolo 1 della legge 13 febbraio 1953, n. 60, e' inserito il seguente:
+
+"Art. 1-bis. 1. L'ufficio di deputato o di senatore o di componente del Governo e' incompatibile con l'ufficio di componente di assemblee legislative o di organi esecutivi, nazionali o regionali, in Stati esteri".
+
+> Nota all'art. 10:
+
+> \- Si riporta il testo dell'art. 1 della legge 13 febbraio 1953, n. 60 (Incompatibilita' parlamentari):
+
+> "I membri del Parlamento non possono ricoprire cariche o uffici di qualsiasi specie in enti pubblici o privati, per nomina o designazione del Governo o di organi dell'Amministrazione dello Stato.
+
+> Sono escluse dal divieto le cariche in enti culturali, assistenziali, di culto e in enti-fiera nonche' quelle conferite nelle Universita' degli studi o negli Istituti di istruzione superiore a seguito di designazione elettiva dei Corpi accademici, salve le disposizioni dell'art. 2 della legge 9 agosto 1948, n. 1102.
+
+> Sono parimenti escluse le nomine compiute dal Governo, in base a norma di legge, su designazione delle organizzazioni di categoria".
+
+## Art. 11
+
+1\. L'assegnazione dei seggi tra le liste concorrenti e' effettuata in ragione proporzionale per ciascuna ripartizione, con le modalita' previste dagli articoli 15 e 16.
+
+2\. Le schede sono di carta consistente, di colore diverso per ciascuna votazione e per ciascuna ripartizione; sono fornite, sotto la responsabilita' del Ministero degli affari esteri, attraverso le rappresentanze diplomatiche e consolari, con le caratteristiche essenziali del modello di cui alle tabelle A, B, C e D allegate alla presente legge e riproducono in facsimile i contrassegni di tutte le liste di candidati presentate nella ripartizione. L'ordine dei contrassegni e' stabilito secondo le modalita' previste per le liste di candidati dall'articolo 24, n. 2), del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni. Accanto ad ogni contrassegno, nell'ambito degli stessi spazi, sono stampate le righe per l'attribuzione del voto di preferenza.
+
+3\. L'elettore vota tracciando un segno sul contrassegno corrispondente alla lista da lui prescelta o comunque sul rettangolo che lo contiene. Ciascun elettore puo' inoltre esprimere due voti di preferenza nelle ripartizioni alle quali sono assegnati due o piu' deputati o senatori e un voto di preferenza nelle altre. Il voto di preferenza e' espresso scrivendo il cognome del candidato nella apposita riga posta accanto al contrassegno votato. E' nullo il voto di preferenza espresso per un candidato incluso in altra lista. Il voto di preferenza espresso validamente per un candidato e' considerato quale voto alla medesima lista se l'elettore non ha tracciato altro segno in altro spazio della scheda.
+
+> Nota all'art. 11, comma 2:
+
+> \- Per il testo dell'art. 24 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, si veda nella nota all'art. 8, comma 1.
+
+## Art. 12
+
+1\. Il Ministero dell'interno consegna al Ministero degli affari esteri le liste dei candidati e i modelli delle schede elettorali non piu' tardi del ventiseiesimo giorno antecedente la data delle votazioni.
+
+2\. Sulla base delle istruzioni fornite dal Ministero degli affari esteri, le rappresentanze diplomatiche e consolari preposte a tale fine dallo stesso Ministero provvedono alla stampa del materiale elettorale da inserire nel plico di cui al comma 3 e per i casi di cui al comma 5.
+
+3\. Non oltre diciotto giorni prima della data stabilita per le votazioni in Italia, gli uffici consolari inviano, con il sistema postale piu' affidabile e, ove possibile, con posta raccomandata, o con altro mezzo di analoga affidabilita', agli elettori ammessi al voto per corrispondenza ai sensi della presente legge il plico contenente il certificato elettorale, la scheda elettorale e la relativa busta ed una busta affrancata recante l'indirizzo dell'ufficio consolare competente; il plico contiene, altresi', un foglio con le indicazioni delle modalita' per l'espressione del voto e le liste dei candidati nella ripartizione di appartenenza di cui all'articolo 6. (2)
+
+4\. Nel caso in cui le schede elettorali siano piu' di una per ciascun elettore, esse sono spedite nello stesso plico e sono inviate dall'elettore in unica busta. Un plico non puo' contenere i documenti elettorali di piu' di un elettore.
+
+5\. Gli elettori di cui al presente articolo che, a quattordici giorni dalla data delle votazioni in Italia, non abbiano ricevuto al proprio domicilio il plico di cui al comma 3 possono farne richiesta al capo dell'ufficio consolare; questi puo' rilasciare, previa annotazione su apposito registro, un altro certificato elettorale munito di apposito sigillo e una seconda scheda elettorale che deve comunque essere inviata secondo le modalita' di cui ai commi 4 e 6 del presente articolo. (2)
+
+6\. Una volta espresso il proprio voto sulla scheda elettorale, l'elettore introduce nell'apposita busta la scheda o le schede elettorali, sigilla la busta, la introduce nella busta affrancata unitamente al tagliando staccato dal certificato elettorale comprovante l'esercizio del diritto di voto e la spedisce non oltre il decimo giorno precedente la data stabilita per le votazioni in Italia. Le schede e le buste che le contengono non devono recare alcun segno di riconoscimento.
+
+7\. I responsabili degli uffici consolari inviano, senza ritardo, all'ufficio centrale per la circoscrizione Estero le buste comunque pervenute non oltre le ore 16, ora locale, del giovedi' antecedente la data stabilita per le votazioni in Italia, unitamente agli elenchi degli elettori ammessi al voto per corrispondenza ai sensi della presente legge. Le buste sono inviate con una spedizione unica, per via aerea e con valigia diplomatica. (2)
+
+((7-bis. L'ufficio centrale per la circoscrizione Estero invia agli uffici decentrati di cui all'articolo 7, previa apposizione di un nuovo sigillo, i plichi provenienti dagli Stati e territori a ciascuno di essi assegnati, e a tal fine si avvale della collaborazione del Ministero dell'interno, Dipartimento della pubblica sicurezza, per l'effettuazione dei servizi di scorta dei predetti plichi.))
+
+8\. I responsabili degli uffici consolari provvedono, dopo l'invio dei plichi in Italia, all'immediato incenerimento delle schede pervenute dopo la scadenza del termine di cui al comma 7 e di quelle stampate per i casi di cui al comma 5 e non utilizzate. Di tali operazioni viene redatto apposito verbale, che viene trasmesso al Ministero degli affari esteri.
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 6 maggio 2015, n. 52 ha disposto (con l'art. 2, comma 35) che le presenti modifiche si applicano per le elezioni della Camera dei deputati a decorrere dal 1° luglio 2016.
+
+## Art. 13
+
+1\. Presso l'ufficio centrale per la circoscrizione Estero ((e presso ciascuno degli uffici decentrati)) e' costituito un seggio elettorale per un minimo di duemila ed un massimo di tremila elettori ammessi al voto per corrispondenza ai sensi della presente legge, con il compito di provvedere alle operazioni di spoglio e di scrutinio dei voti inviati dagli elettori. Ciascun seggio elettorale e' competente per lo spoglio dei voti provenienti da un'unica ripartizione di cui all'articolo 6, comma 1. L'assegnazione delle buste contenenti le schede ai singoli seggi e' effettuata a cura dell'ufficio centrale per la circoscrizione Estero ((e dei singoli uffici decentrati)). (2)
+
+2\. Per la costituzione dei seggi, per l'onorario da corrispondere ai rispettivi componenti e per le modalita' di effettuazione dello spoglio e dello scrutinio dei voti si applicano, in quanto compatibili, le disposizioni dell'articolo 6 del decreto-legge 24 giugno 1994, n. 408, convertito, con modificazioni, dalla legge 3 agosto 1994, n. 483, intendendosi sostituito il riferimento all'ufficio elettorale con il riferimento all'ufficio centrale per la circoscrizione Estero.
+
+3\. L'ufficio elettorale costituito presso ciascun seggio e' composto dal presidente, dal segretario e da quattro scrutatori, di cui uno assume, a scelta del presidente, le funzioni di vicepresidente. Il presidente, prima dell'insediamento dell'ufficio elettorale, sceglie il segretario tra gli elettori in possesso di titolo di studio non inferiore al diploma di istruzione secondaria di secondo grado.
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 6 maggio 2015, n. 52 ha disposto (con l'art. 2, comma 35) che la presente modifica si applica per le elezioni della Camera dei deputati a decorrere dal 1° luglio 2016.
+
+## Art. 14
+
+1\. Le operazioni di scrutinio, cui partecipano i rappresentanti di lista, avvengono contestualmente alle operazioni di scrutinio dei voti espressi nel territorio nazionale.
+
+2\. Insieme al plico contenente le buste inviate dagli elettori, l'ufficio centrale ((o l'ufficio decentrato)) per la circoscrizione Estero consegna al presidente del seggio copia autentica degli elenchi di cui all'articolo 12, comma 7, dei cittadini aventi diritto all'espressione del voto per corrispondenza nella ripartizione assegnata. (2)
+
+3\. Costituito il seggio elettorale, il presidente procede alle operazioni di apertura dei plichi e delle buste assegnati al seggio dall'ufficio centrale ((o dall'ufficio decentrato)) per la circoscrizione Estero e, successivamente, alle operazioni di scrutinio. A tale fine il presidente, coadiuvato dal vicepresidente e dal segretario:
+
+a) accerta che il numero delle buste ricevute corrisponda al numero delle buste indicate nella lista compilata e consegnata insieme alle buste medesime dall'ufficio centrale ((o dall'ufficio decentrato)) per la circoscrizione Estero;
+
+b) accerta contestualmente che le buste ricevute provengano soltanto da un'unica ripartizione elettorale estera;
+
+c) procede successivamente all'apertura di ciascuna delle buste esterne compiendo per ciascuna di esse le seguenti operazioni:
+
+1\) accerta che la busta contenga il tagliando del certificato elettorale di un solo elettore e la seconda busta nella quale deve essere contenuta la scheda o, in caso di votazione contestuale per l'elezione della Camera dei deputati e del Senato della Repubblica, le schede con l'espressione del voto;
+
+2\) accerta che il tagliando incluso nella busta appartenga ad elettore incluso nell'elenco di cui al comma 2;
+
+3\) accerta che la busta contenente la scheda o le schede con l'espressione del voto sia chiusa, integra e non rechi alcun segno di riconoscimento e la inserisce nell'apposita urna sigillata;
+
+4\) annulla, senza procedere allo scrutinio del voto, le schede incluse in una busta che contiene piu' di un tagliando del certificato elettorale, o un tagliando di elettore che ha votato piu' di una volta, o di elettore non appartenente alla ripartizione elettorale assegnata, o infine contenute in una busta aperta, lacerata o che reca segni di riconoscimento; in ogni caso separa dal relativo tagliando di certificato elettorale la busta recante la scheda annullata in modo tale che non sia possibile procedere alla identificazione del voto;
+
+d) completata l'apertura delle buste esterne e l'inserimento nell'urna sigillata di tutte le buste interne recanti la scheda con l'espressione del voto, procede alle operazioni di spoglio. A tale fine:
+
+1\) il vicepresidente del seggio estrae successivamente dall'urna ciascuna delle buste contenenti la scheda che reca l'espressione del voto; aperta la busta imprime il bollo della sezione sul retro di ciascuna scheda, nell'apposito spazio;
+
+2\) il presidente, ricevuta la scheda, enuncia ad alta voce la votazione per la quale tale voto e' espresso e, in caso di votazione contestuale per l'elezione della Camera dei deputati e del Senato della Repubblica, enuncia la votazione per la quale il voto e' espresso e consegna la scheda al segretario;
+
+3\) il segretario enuncia ad alta voce i voti espressi e prende nota dei voti di ciascuna lista e di ciascun candidato; pone quindi le schede scrutinate entro scatole separate per ciascuna votazione.
+
+4\. Tutte le operazioni di cui al comma 3 sono compiute nell'ordine indicato; del compimento e del risultato di ciascuna di esse e' fatta menzione nel verbale.
+
+5\. Alle operazioni di scrutinio, spoglio e vidimazione delle schede si applicano le disposizioni recate dagli articoli 45, 67 e 68 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, in quanto non diversamente disposto dal presente articolo.
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 6 maggio 2015, n. 52 ha disposto (con l'art. 2, comma 35) che la presente modifica si applica per le elezioni della Camera dei deputati a decorrere dal 1° luglio 2016.
+
+## Art. 15
+
+01\. ((Al termine delle operazioni di scrutinio, gli uffici decentrati per la circoscrizione Estero inviano all'ufficio centrale i verbali dei seggi.))
+
+1\. Concluse le operazioni di scrutinio ((e ricevuti i verbali inviati dagli uffici decentrati)), l'ufficio centrale per la circoscrizione Estero per ciascuna delle ripartizioni di cui all'articolo 6:
+
+a) determina la cifra elettorale di ciascuna lista. La cifra elettorale della lista e' data dalla somma dei voti di lista validi ottenuti nell'ambito della ripartizione;
+
+b) determina la cifra elettorale individuale di ciascun candidato. La cifra elettorale individuale e' data dalla somma dei voti di preferenza riportati dal candidato nella ripartizione;
+
+c) procede all'assegnazione dei seggi tra le liste di cui alla lettera a). A tale fine divide la somma delle cifre elettorali di tutte le liste presentate nella ripartizione per il numero dei seggi da assegnare in tale ambito; nell'effettuare tale divisione, trascura la eventuale parte frazionaria del quoziente. Il risultato costituisce il quoziente elettorale della ripartizione. Divide, quindi, la cifra elettorale di ciascuna lista per tale quoziente. La parte intera del risultato di tale divisione rappresenta il numero di seggi da assegnare a ciascuna lista. I seggi che rimangono eventualmente ancora da attribuire sono assegnati alle liste per le quali le divisioni abbiano dato i maggiori resti e, in caso di parita' di resti, alla lista con la piu' alta cifra elettorale;
+
+d) proclama quindi eletti in corrispondenza dei seggi attribuiti a ciascuna lista, i candidati della lista stessa secondo l'ordine delle rispettive cifre elettorali. A parita' di cifra sono proclamati eletti coloro che precedono nell'ordine della lista.
+
+## Art. 16
+
+1\. Il seggio attribuito ai sensi dell'articolo 15 che rimanga vacante, per qualsiasi causa, anche sopravvenuta, e' attribuito nell'ambito della medesima ripartizione al candidato che nella lista segue immediatamente l'ultimo degli eletti nella graduatoria delle cifre elettorali individuali o, in assenza di questi, nell'ordine della lista.
+
+## Art. 17
+
+1\. Lo svolgimento della campagna elettorale e' regolato da apposite forme di collaborazione che lo Stato italiano conclude, ove possibile, con gli Stati nel cui territorio risiedono gli elettori di cittadinanza italiana.
+
+2\. I partiti, i gruppi politici e i candidati si attengono alle leggi vigenti nel territorio italiano sulla base delle forme di collaborazione di cui al comma 1.
+
+3\. Le rappresentanze diplomatiche e consolari italiane adottano iniziative atte a promuovere la piu' ampia comunicazione politica sui giornali quotidiani e periodici italiani editi e diffusi all'estero e sugli altri mezzi di informazione in lingua italiana o comunque rivolti alle comunita' italiane all'estero, in conformita' ai principi recati dalla normativa vigente nel territorio italiano sulla parita' di accesso e di trattamento e sull'imparzialita' rispetto a tutti i soggetti politici.
+
+## Art. 18
+
+1\. Chi commette in territorio estero taluno dei reati previsti dal testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, e' punito secondo la legge italiana. Le sanzioni previste all'articolo 100 del citato testo unico, in caso di voto per corrispondenza si intendono raddoppiate.
+
+2\. Chiunque, in occasione delle elezioni delle Camere e dei referendum, vota sia per corrispondenza che nel seggio di ultima iscrizione in Italia, ovvero vota piu' volte per corrispondenza e' punito con la reclusione da uno a tre anni e con la multa da 52 euro a 258 euro.
+
+> Nota all'art. 18, comma 1:
+
+> \- Si riporta il testo dell'art. 100 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni:
+
+> "Art. 100 (Testo unico 5 febbraio 1948, n. 26, art. 74). - 1. Chiunque, con minacce o con atti di violenza, turba il regolare svolgimento delle adunanze elettorali, impedisce il libero esercizio del diritto di voto o in qualunque modo altera il risultato della votazione, e' punito con la reclusione da due a cinque anni e con la multa da L. 600.000 a L. 4.000.000.
+
+> 2\. Chiunque forma falsamente, in tutto o in parte, liste di elettori o di candidati, schede od altri atti dal presente testo unico destinati alle operazioni elettorali o altera uno di tali atti veri, o sostituisce, sopprime o distrugge in tutto o in parte uno degli atti medesimi e' punito con la reclusione da uno a sei anni. E' punito con la stessa pena chiunque fa scientemente uso degli atti falsiticati, alterati o sostituiti, anche se non abbia concorso alla consumazione del fatto.
+
+> 3\. Se il fatto e' commesso da chi appartiene all'Ufficio elettorale, la pena e' della reclusione da due a otto anni e della multa da L. 2.000.000 a L. 4.000.000".
+
+## Art. 19
+
+((ARTICOLO ABROGATO DALLA L. 6 MAGGIO 2015, N. 52)) ((2))
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 6 maggio 2015, n. 52 ha disposto (con l'art. 2, comma 35) che la presente abrogazione si applica per le elezioni della Camera dei deputati a decorrere dal 1° luglio 2016.
+
+## Art. 20
+
+1\. Sono abolite le agevolazioni di viaggio previste dall'articolo 117 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, e dall'articolo 26 del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al decreto legislativo 20 dicembre 1993, n. 533, nonche', limitatamente alle elezioni della Camera dei deputati e del Senato della Repubblica, quelle previste dall'articolo 2 della legge 26 maggio 1969, n. 241.
+
+((1-bis. Fatto salvo quanto disposto dal comma 5 dell'articolo 4-bis, non e' ammesso il voto per corrispondenza negli Stati con cui l'Italia non intrattiene relazioni diplomatiche, nonche' negli Stati nei quali la situazione politica o sociale non garantisce neanche temporaneamente che l'esercizio del voto per corrispondenza si svolga in condizioni di eguaglianza, di liberta' e di segretezza, ovvero che nessun pregiudizio possa derivare per il posto di lavoro e per i diritti individuali degli elettori e degli altri cittadini italiani in conseguenza della loro partecipazione a tutte le attivita' previste dalla presente legge)). ((2))
+
+2\. Gli elettori residenti negli Stati ((di cui al comma 1-bis)), hanno diritto al rimborso del 75 per cento del costo del biglietto di viaggio. A tale fine l'elettore deve presentare apposita istanza all'ufficio consolare della circoscrizione di residenza o, in assenza di tale ufficio nello Stato di residenza, all'ufficio consolare di uno degli Stati limitrofi, corredata del certificato elettorale e del biglietto di viaggio. ((2))
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La L. 6 maggio 2015, n. 52 ha disposto (con l'art. 2, comma 35) che le presenti modifiche si applicano per le elezioni della Camera dei deputati a decorrere dal 1° luglio 2016.
+
+## Art. 21
+
+1\. Il primo comma dell'articolo 55 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e' sostituito dal seguente:
+
+"Gli elettori non possono farsi rappresentare ne', qualora votino in Italia, inviare il voto per iscritto".
+
+> Nota all'art. 21:
+
+> \- Si riporta il testo dell'art. 55 del testo unico delle leggi recante norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni:
+
+> "Art. 55 (Testo unico 5 febbraio 1956, n. 26, art. 39).
+
+> \- Gli elettori non possono farsi rappresentare ne', qualora votino in Italia, inviare il voto per iscritto.
+
+> I ciechi, gli amputati delle mani, gli affetti da paralisi o da altro impedimento di analoga gravita' esercitano il diritto elettorale con l'aiuto di un elettore della propria famiglia o, in mancanza, di un altro elettore, che sia stato volontariamente scelto come accompagnatore, purche' l'uno o l'altro sia iscritto nel comune.
+
+> Nessun elettore puo' esercitare la funzione di accompagnatore per piu' di un invalido. Sul suo certificato elettorale e' fatta apposita annotazione dal presidente del seggio, nel quale ha assolto tale compito.
+
+> I presidenti di seggio devono richiedere agli accompagnatori il certificato elettorale, per constatare se hanno gia' in precedenza esercitato la funzione predetta.
+
+> L'accompagnatore consegna il certificato dell'elettore accompagnato; il presidente del seggio accerta, con apposita interpellazione, se l'elettore abbia scelto liberamente il suo accompagnatore e ne conosca il nome e cognome, e registra nel verbale, a parte, questo modo di votazione, indicando il motivo specifico di questa assistenza nella votazione, il nome dell'autorita' sanitaria che abbia eventualmente accertato l'impedimento ed il nome e cognome dell'accompagnatore.
+
+> Il certificato medico eventualmente esibito e' allegato al verbale.".
+
+## Art. 22
+
+1\. Al fine di individuare nelle circoscrizioni della Camera dei deputati i seggi da attribuire alla circoscrizione Estero, si applica l'articolo 56, quarto comma, della Costituzione, fermi restando i collegi uninominali di ciascuna circoscrizione gia' definiti in applicazione della legge elettorale vigente.
+
+2\. Al fine di individuare nelle regioni i seggi del Senato della Repubblica da attribuire alla circoscrizione Estero, si applicano i commi terzo e quarto dell'articolo 57 della Costituzione, fermi restando i collegi uninominali di ciascuna regione gia' definiti in applicazione della legge elettorale vigente.
+
+> Nota all'art. 22, comma 1:
+
+> \- Si riporta il testo dell'art. 56, comma 4 della Costituzione:
+
+> "La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentodiciotto e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei piu' alti resti".
+
+> Nota all'art. 22, comma 2:
+
+> \- Si riporta il testo dell'art. 57, commi 3 e 4 della Costituzione:
+
+> "3. Nessuna regione puo' avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d'Aosta uno.
+
+> 4\. La ripartizione dei seggi fra le regioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle regioni, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei piu' alti resti".
+
+## Art. 23
+
+1\. I cittadini italiani residenti all'estero di cui all'articolo 1, comma 1, partecipano alla richiesta di indizione dei referendum popolari previsti dagli articoli 75 e 138 della Costituzione.
+
+2\. Ai fini di cui al comma 1, alla legge 25 maggio 1970, n. 352, sono apportate le seguenti modificazioni:
+
+a) all'articolo 7, primo comma, dopo le parole: "di un comune della Repubblica", sono inserite le seguenti: "o nell'elenco dei cittadini italiani residenti all'estero di cui alla legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero";
+
+b) all'articolo 8, secondo comma, sono aggiunte, in fine, le seguenti parole: "ovvero, per i cittadini italiani residenti all'estero, la loro iscrizione nelle liste elettorali dell'anagrafe unica dei cittadini italiani residenti all'estero";
+
+c) all'articolo 8, terzo comma, dopo il primo periodo, e' inserito il seguente: "Per i cittadini elettori residenti all'estero l'autenticazione e' fatta dal console d'Italia competente";
+
+d) all'articolo 8, sesto comma, primo periodo, dopo le parole: "elettorali dei comuni medesimi", sono aggiunte le seguenti: "ovvero, per i cittadini italiani residenti all'estero, la loro iscrizione nell'elenco dei cittadini italiani residenti all'estero di cui alla legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero";
+
+e) all'articolo 50, sono aggiunte, in fine, le seguenti parole: "nonche', per i cittadini italiani residenti all'estero, le disposizioni della legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero".
+
+> Nota all'art. 23, comma 1:
+
+> \- Per il testo degli articoli 75 e 138 della Costituzione si veda nella nota all'art. 1, comma 1.
+
+> Nota all'art. 23, comma 2:
+
+> \- Si riporta il testo degli articoli 7, 8 e 50 della legge 25 maggio 1970, n. 352 (Norme sui referendum previsti dalla Costituzione e sulla iniziativa legislativa del popolo), come modificati dalla presente legge:
+
+> "Art. 7. - Al fine di raccogliere le firme necessarie a promuovere da almeno 500.000 elettori la richiesta prevista dall'art. 4, i promotori della raccolta, in numero non inferiore a dieci, devono presentarsi, muniti di certificati comprovanti la loro iscrizione nelle liste elettorali di un comune della Repubblica o nell'elenco dei cittadini italiani residenti all'estero di cui alla legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero, alla cancelleria della Corte di cassazione, che ne da' atto con verbale, copia del quale viene rilasciata ai promotori.
+
+> Di ciascuna iniziativa e' dato annuncio nella Gazzetta Ufficiale del giorno successivo a cura dell'ufficio stesso; in esso vengono riportate le indicazioni prescritte dall'art. 4.
+
+> Per la raccolta delle firme devono essere usati fogli di dimensioni uguali a quelli della carta bollata ciascuno dei quali deve contenereall'inizio di ogni facciata, a stampa o con stampigliatura, la dichiarazione della richiesta del referendum, con le indicazioni prescritte dal citato art. 4.
+
+> Successivamente alla pubblicazione nella Gazzetta Ufficiale dell'annuncio di cui al primo comma, i fogli previsti dal comma precedente devono essere presentati a cura dei promotori, o di qualsiasi elettore, alle segreterie comunali o alle cancellerie degli uffici giudiziari. Il funzionario preposto agli uffici suddetti appone ai fogli il bollo dell'ufficio, la data della propria firma e li restituisce ai presentatori entro due giorni dalla presentazione".
+
+> "Art. 8. - La richiesta di referendum viene effettuata con la firma da parte degli elettori dei fogli di cui all'articolo precedente.
+
+> Accanto alle firme debbono essere indicati per esteso il nome, cognome, luogo e data di nascita del sottoscrittore e il comune nelle cui liste elettorali questi e' iscritto ovvero, per i cittadini italiani residenti all'estero, la loro iscrizione nelle liste elettorali dell'anagrafe unica dei cittadini italiani residenti all'estero.
+
+> Le firme stesse debbono essere autenticate da un notaio o da un cancelliere della pretura o del tribunale nella cui circoscrizione e' compreso il comune dove e' iscritto, nelle liste elettorali, l'elettore la cui firma e' autenticata, ovvero dal giudice conciliatore, o dal segretario di detto comune. Per i cittadini elettori residenti all'estero l'autenticazione e' fatta dal console d'Italia competente. L'autenticazione deve recare l'indicazione della data in cui avviene e puo' essere anche collettiva, foglio per foglio; in questo caso, oltre alla data, deve indicare il numero di firme contenute nel foglio.
+
+> Il pubblico ufficiale che procede alle autenticazioni da' atto della manifestazione di volonta' dell'elettore analfabeta o comunque impedito di apporre la propria firma.
+
+> Per le prestazioni del notaio, del cancelliere, del giudice conciliatore e del segretario comunale, sono dovuti gli onorari stabiliti dall'art. 20, comma quinto, delle testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e dalla tabella D allegata alla legge 8 giugno 1962, n. 604.
+
+> Alla richiesta di referendum debbono essere allegati i certificati, anche collettivi, dei sindaci dei singoli comuni, ai quali appartengono i sottoscrittori, che ne attestano la iscrizione nelle liste elettorali dei comuni medesimi ovvero, per i cittadini italiani residenti all'estero, la loro iscrizione nell'elenco dei cittadini italiani residenti all'estero di cui alla legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero. I sindaci debbono rilasciare tali certificati entro 48 ore dalla relativa richiesta".
+
+> "Art. 50. - Per tutto cio' che non e' disciplinato nella presente legge si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361 nonche', per i cittadini italiani residenti all'estero, le disposizioni della legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero".
+
+## Art. 24
+
+1\. All'onere derivante dall'attuazione della presente legge si provvede a carico del "Fondo da ripartire per fronteggiare le spese derivanti dalle elezioni politiche, amministrative, del Parlamento europeo e dall'attuazione dei referendum", iscritto nell'ambito dell'unita' previsionale di base 7.1.3.2 "Spese elettorali" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica.
+
+## Art. 25
+
+1\. Per tutto cio' che non e' disciplinato dalla presente legge, si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni.
+
+## Art. 26
+
+1\. Con regolamento adottato ai sensi dell'articolo 17, comma 1, lettera b), della legge 23 agosto 1988, n. 400, sono disciplinate le modalita' di attuazione della presente legge.
+
+2\. Lo schema di regolamento di cui al comma 1 e' trasmesso alla Camera dei deputati e al Senato della Repubblica perche' su di esso sia espresso, entro sessanta giorni dalla data di trasmissione, il parere delle Commissioni competenti per materia. Decorso inutilmente tale termine il regolamento e' emanato anche in mancanza del parere parlamentare.
+
+> Nota all'art. 26, comma 1:
+
+> \- Si riporta il testo dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):
+
+> "Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
+
+> a) l'esecuzione delle leggi e dei decreti legislativi;
+
+> b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+
+> c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+
+> d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
+
+> e) l'organizzazione del lavoro ed i rapporti di lavoro dei pubblici dipendenti in base agli accordi sindacali".
+
+## Art. 27
+
+1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 27 dicembre 2001
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Tremaglia, Ministro per gli italiani nel Mondo
+
+Visto, il Guardasigilli: Castelli
+
+## Allegati
+
+## Tabella A
+
+Tabella A
+
+Parte di provvedimento in formato grafico
+
+Tabella B
+
+((Parte di provvedimento in formato grafico))
+
+Tabella C
+
+Parte di provvedimento in formato grafico
+
+Tabella D
+
+((Parte di provvedimento in formato grafico))

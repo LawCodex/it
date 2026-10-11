@@ -1,0 +1,86 @@
+---
+title: "LEGGE 09 dicembre 2009, n. 183 — Distacco dei comuni di Busnago, Caponago, Cornate d'Adda, Lentate sul Seveso e Roncello dalla provincia di Milano e loro aggregazione alla provincia di Monza e della Brianza, ai sensi dell'articolo 133, primo comma, della Costituzione."
+identifier: "urn:nir:stato:legge:2009-12-09;183"
+eli: "https://www.normattiva.it/eli/id/2009/12/17/009G0191/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2009-12-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 293 del 2009-12-17"
+codice_redazionale: "009G0191"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-09;183"
+retrieved: 2026-10-11
+---
+
+# LEGGE 09 dicembre 2009, n. 183
+
+**Distacco dei comuni di Busnago, Caponago, Cornate d'Adda, Lentate sul Seveso e Roncello dalla provincia di Milano e loro aggregazione alla provincia di Monza e della Brianza, ai sensi dell'articolo 133, primo comma, della Costituzione.**
+
+*Entrata in vigore del provvedimento: 18/12/2009*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+Distacco dei comuni di Busnago, Caponago, Cornate d'Adda, Lentate sul Seveso e Roncello dalla provincia di Milano e loro aggregazione alla provincia di Monza e della Brianza
+
+1\. I comuni di Busnago, Caponago, Cornate d'Adda, Lentate sul Seveso e Roncello sono distaccati dalla provincia di Milano e aggregati alla provincia di Monza e della Brianza.
+
+> Avvertenza:
+
+> Il testo della nota qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+
+## Art. 2
+
+Adempimenti amministrativi
+
+1\. Le province di Milano e di Monza e della Brianza provvedono agli adempimenti di rispettiva competenza necessari all'attuazione dell'articolo 1. Ove gli adempimenti richiedano il concorso di entrambe le province, queste provvedono d'intesa tra loro e con il commissario nominato ai sensi del comma 2.
+
+2\. Entro trenta giorni dalla data di entrata in vigore della presente legge, il Ministro dell'interno, con proprio decreto, nomina un commissario con il compito di promuovere gli adempimenti necessari all'attuazione dell'articolo 1. Il commissario e' nominato d'intesa con la provincia di Monza e della Brianza, anche al fine di individuare l'amministrazione che, nell'ambito dei propri stanziamenti di bilancio, dovra' sostenere gli oneri derivanti dall'attivita' del commissario stesso.
+
+3\. L'assemblea dei sindaci dei comuni di cui all'articolo 1, ove costituita, designa, secondo le modalita' stabilite con determinazione dell'assemblea medesima, un coordinatore delegato a partecipare, con funzioni consultive, alle attivita' di cui al comma 1 del presente articolo.
+
+4\. Le province di Milano e di Monza e della Brianza provvedono agli adempimenti di cui al comma 1 entro centottanta giorni dalla data di entrata in vigore della presente legge. Ove uno o piu' tra tali adempimenti non siano stati espletati entro il predetto termine, il commissario di cui al comma 2 fissa un ulteriore congruo termine; agli adempimenti che risultino non ancora espletati allo scadere di tale ulteriore termine provvede il commissario stesso, con proprio atto, in ogni caso assicurando che tutti gli adempimenti necessari siano posti in essere entro un anno dalla data di entrata in vigore della presente legge.
+
+5\. Entro centottanta giorni dalla data di entrata in vigore della presente legge sono rideterminate le tabelle delle circoscrizioni dei collegi elettorali delle province di Milano e di Monza e della Brianza, ai sensi dell'articolo 9 della legge 8 marzo 1951, n. 122, e successive modificazioni.
+
+6\. Gli atti e gli affari amministrativi pendenti presso organi e uffici dello Stato costituiti nell'ambito della provincia di Milano e relativi a cittadini o enti compresi nel territorio dei comuni di cui all'articolo 1 sono attribuiti alla competenza dei rispettivi organi e uffici costituiti nell'ambito della provincia di Monza e della Brianza a decorrere dalla data del loro insediamento.
+
+7\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica ne' deroghe ai vincoli stabiliti dal patto di stabilita' interno.
+
+> Note all'art. 2:
+
+> \- Si riporta il il testo dell'art. 9 della legge 8 marzo 1951, n. 122:
+
+> «Art. 9. - In ogni Provincia sono costituiti tanti collegi quanti sono i consiglieri provinciali ad essa assegnati.
+
+> A nessun Comune possono essere assegnati piu' della meta' dei collegi spettanti alla Provincia.
+
+> Le sezioni elettorali che interessano due o piu' collegi si intendono assegnate al collegio nella cui circoscrizione ha sede l'ufficio elettorale di sezione.
+
+> La tabella delle circoscrizioni dei collegi sara' stabilita, su proposta del Ministro dell'interno con decreto del Presidente della Repubblica, da pubblicarsi nella Gazzetta Ufficiale.
+
+> Il decreto del Prefetto che fissa la data delle elezioni provinciali a norma dell'art. 19 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1 non puo' essere emanato se non siano decorsi almeno quindici giorni dalla pubblicazione del decreto del Presidente della Repubblica previsto dal comma precedente.».
+
+## Art. 3
+
+Entrata in vigore
+
+1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 9 dicembre 2009
+
+NAPOLITANO
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Alfano

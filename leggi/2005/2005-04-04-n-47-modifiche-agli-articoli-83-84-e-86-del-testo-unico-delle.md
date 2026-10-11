@@ -1,0 +1,52 @@
+---
+title: "LEGGE 04 aprile 2005, n. 47 — Modifiche agli articoli 83, 84 e 86 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di attribuzione di seggi nell'elezione della Camera dei deputati."
+identifier: "urn:nir:stato:legge:2005-04-04;47"
+eli: "https://www.normattiva.it/eli/id/2005/04/12/005G0071/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2005-04-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 84 del 2005-04-12"
+codice_redazionale: "005G0071"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-04;47"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 aprile 2005, n. 47
+
+**Modifiche agli articoli 83, 84 e 86 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di attribuzione di seggi nell'elezione della Camera dei deputati.**
+
+*Entrata in vigore del provvedimento: 27/4/2005*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. All'articolo 83, comma 1, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, dopo il numero 1) e' inserito il seguente:
+
+"1-bis) determina l'appartenenza delle liste ai gruppi politici organizzati secondo quanto dispone l'articolo 84, comma 1, nono periodo;".
+
+2\. All'articolo 84, comma 1, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, sono aggiunti, in fine, i seguenti periodi: "Qualora, al termine delle proclamazioni effettuate ai sensi dei periodi precedenti, rimangano ancora da attribuire dei seggi ad una lista, l'Ufficio centrale nazionale assegna tali seggi alle circoscrizioni alle quali erano stati inizialmente assegnati e nelle quali non e' stato possibile procedere alle proclamazioni ai sensi del primo, secondo, terzo e quarto periodo per insufficienza di candidature; l'Ufficio centrale nazionale procede alla assegnazione ponendo tali circoscrizioni secondo l'ordine decrescente dei resti di cui all'ultimo periodo dell'articolo 83, comma 1, numero 4) ed assegna un seggio in successione a ciascuna di esse, procedendo secondo l'ordine della graduatoria, sino a concorrenza dei seggi inizialmente non assegnati in ciascuna di esse e ad esaurimento dei seggi che spettano alla lista. L'Ufficio centrale circoscrizionale, ricevuta comunicazione delle assegnazioni di cui al sesto periodo, proclama eletti, sino a concorrenza del numero dei seggi spettanti alla lista e seguendo l'ordine decrescente delle rispettive cifre individuali, i candidati non eletti nei collegi uninominali nell'ambito della medesima circoscrizione che appartengono al gruppo politico organizzato di cui fa parte la lista; qualora risultino da attribuire piu' seggi assegnati a diverse liste appartenenti al medesimo gruppo politico organizzato, si procede alla proclamazione degli eletti partendo dalla lista con la cifra elettorale piu' elevata.
+
+L'appartenenza dei candidati nei collegi uninominali al gruppo politico organizzato si desume dall'aver essi contraddistinto la propria candidatura uninominale anche con il contrassegno del gruppo politico organizzato. L'appartenenza della lista al gruppo politico organizzato si desume dal fatto che almeno un candidato di tale lista si e' presentato anche in un collegio uninominale di una qualsiasi circoscrizione, distinguendo la propria candidatura uninominale anche con il contrassegno del gruppo politico organizzato. Qualora, al termine delle proclamazioni effettuate ai sensi del settimo periodo, rimangano ancora da attribuire dei seggi alla lista, il presidente dell'Ufficio centrale circoscrizionale ne da' comunicazione all'Ufficio centrale nazionale affinche' si proceda con le medesime modalita' di cui al settimo, ottavo e nono periodo, nelle circoscrizioni ove la lista abbia ottenuto i maggiori resti".
+
+3\. All'articolo 86, comma 5, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, le parole: "e quinto periodo" sono sostituite dalle seguenti: ", quinto, sesto, settimo, ottavo, nono e decimo periodo".
+
+4\. Nella XIV legislatura le disposizioni recate dalla presente legge si applicano esclusivamente ai fini dell'attribuzione dei seggi che si siano resi vacanti a seguito di dimissioni, di morte o di decadenza per cause di ineleggibilita' o di incompatibilita'.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 aprile 2005
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Castelli

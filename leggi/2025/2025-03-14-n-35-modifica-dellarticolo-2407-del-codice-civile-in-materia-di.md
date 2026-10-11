@@ -1,0 +1,50 @@
+---
+title: "LEGGE 14 marzo 2025, n. 35 — Modifica dell'articolo 2407 del codice civile, in materia di responsabilita' dei componenti del collegio sindacale."
+identifier: "urn:nir:stato:legge:2025-03-14;35"
+eli: "https://www.normattiva.it/eli/id/2025/03/28/25G00042/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2025-03-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 73 del 2025-03-28"
+codice_redazionale: "25G00042"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-03-14;35"
+retrieved: 2026-10-11
+---
+
+# LEGGE 14 marzo 2025, n. 35
+
+**Modifica dell'articolo 2407 del codice civile, in materia di responsabilita' dei componenti del collegio sindacale.**
+
+*Entrata in vigore del provvedimento: 12/04/2025*
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. L'articolo 2407 del codice civile e' sostituito dal seguente:
+
+«Art. 2407 (Responsabilita'). - I sindaci devono adempiere i loro doveri con la professionalita' e la diligenza richieste dalla natura dell'incarico; sono responsabili della verita' delle loro attestazioni e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza per ragione del loro ufficio.
+
+Al di fuori delle ipotesi in cui hanno agito con dolo, anche nei casi in cui la revisione legale e' esercitata dal collegio sindacale a norma dell'articolo 2409-bis, secondo comma, i sindaci che violano i propri doveri sono responsabili per i danni cagionati alla societa' che ha conferito l'incarico, ai suoi soci, ai creditori e ai terzi nei limiti di un multiplo del compenso annuo percepito, secondo i seguenti scaglioni: per i compensi fino a 10.000 euro, quindici volte il compenso; per i compensi da 10.000 a 50.000 euro, dodici volte il compenso; per i compensi maggiori di 50.000 euro, dieci volte il compenso.
+
+All'azione di responsabilita' contro i sindaci si applicano, in quanto compatibili, le disposizioni degli articoli 2393, 2393-bis, 2394, 2394-bis e 2395.
+
+L'azione di responsabilita' verso i sindaci si prescrive nel termine di cinque anni dal deposito della relazione di cui all'articolo 2429 concernente l'esercizio in cui si e' verificato il danno».
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 14 marzo 2025
+
+MATTARELLA
+
+Meloni, Presidente del Consiglio dei ministri
+
+Visto, il Guardasigilli: Nordio

@@ -1,0 +1,76 @@
+---
+title: "LEGGE 22 giugno 2000, n. 192 — Modifica dell'articolo 13 della legge 15 maggio 1997, n. 127, e dell'articolo 473 del codice civile."
+identifier: "urn:nir:stato:legge:2000-06-22;192"
+eli: "https://www.normattiva.it/eli/id/2000/07/12/000G0240/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2000-06-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 161 del 2000-07-12"
+codice_redazionale: "000G0240"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-22;192"
+retrieved: 2026-10-11
+---
+
+# LEGGE 22 giugno 2000, n. 192
+
+**Modifica dell'articolo 13 della legge 15 maggio 1997, n. 127, e dell'articolo 473 del codice civile.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. L'articolo 13 della legge 15 maggio 1997, n. 127, e' sostituito dal seguente:
+
+"Art. 13 (Abrogazione delle disposizioni che prevedono il riconoscimento o autorizzazioni per accettare lasciti e donazioni e per acquistare beni stabili). - 1. L'articolo 17 del codice civile e la legge 21 giugno 1896, n. 218, sono abrogati. Sono altresi' abrogati l'articolo 600, il quarto comma dell'articolo 782 e l'articolo 786 del codice civile, nonche' le altre disposizioni che prescrivono autorizzazioni per l'acquisto di immobili o per accettazione di donazioni, eredita' e legati da parte di persone giuridiche, ovvero il riconoscimento o autorizzazioni per l'acquisto di immobili o per accettazione di donazioni, eredita' e legati da parte delle associazioni, fondazioni e di ogni altro ente non riconosciuto.
+
+2\. Le disposizioni di cui al comma 1 si applicano anche alle acquisizioni deliberate o verificatesi in data anteriore a quella di entrata in vigore della presente legge".
+
+2\. L'articolo 473 del codice civile e' sostituito dal seguente:
+
+"Art. 473 (Eredita' devolute a persone giuridiche o ad associazioni, fondazioni ed enti non riconosciuti). - L'accettazione delle eredita' devolute alle persone giuridiche o ad associazioni, fondazioni ed enti non riconosciuti non puo' farsi che col beneficio d'inventario.
+
+Il presente articolo non si applica alle societa'".
+
+> Avvertenza:
+
+> Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
+> Nota al titolo:
+
+> \- Per l'art. 13 della legge 15 maggio 1997, n. 127, e l'art. 473 del codice civile, vedasi note all'art. 1.
+
+> Note all'art. 1:
+
+> \- La legge 15 maggio 1997, n. 127, reca "Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo".
+
+> \- La legge 21 giugno 1896, n. 218, recava: "Competenza dei prefetti ad autorizzare le province, i comuni e le istituzioni pubbliche di beneficenza ad accettare lasciti e donazioni e ad acquistare beni stabili".
+
+> \- Il testo dell'art. 782 del codice civile, come modificato dalla legge qui pubblicata, e' il seguente:
+
+> "Art. 782 (Forma della donazione). - La donazione deve essere fatta per atto pubblico, sotto pena di nullita'. Se ha per oggetto cose mobili, essa non e' valida che per quelle specificate con indicazione del loro valore nell'atto medesimo della donazione, ovvero in una nota a parte sottoscritta dal donante, dal donatario e dal notaio.
+
+> L'accettazione puo' essere fatta nell'atto stesso o con atto pubblico posteriore. In questo caso la donazione non e' perfetta se non dal momento in cui l'atto di accettazione e' notificato al donante.
+
+> Prima che la donazione sia perfetta, tanto il donante quanto il donatario possono revocare la loro dichiarazione. (comma abrogato)".
+
+## Art. 2
+
+1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 22 giugno 2000
+
+CIAMPI
+
+Amato, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Fassino

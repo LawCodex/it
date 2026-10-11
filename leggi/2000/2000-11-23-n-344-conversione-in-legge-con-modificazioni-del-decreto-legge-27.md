@@ -1,0 +1,66 @@
+---
+title: "LEGGE 23 novembre 2000, n. 344 — Conversione in legge, con modificazioni, del decreto-legge 27 settembre 2000, n. 266, recante disposizioni urgenti in materia di contributi alle imprese del settore dell'editoria per le spedizioni postali."
+identifier: "urn:nir:stato:legge:2000-11-23;344"
+eli: "https://www.normattiva.it/eli/id/2000/11/27/000G0394/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 2000-11-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 277 del 2000-11-27"
+codice_redazionale: "000G0394"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-23;344"
+retrieved: 2026-10-11
+---
+
+# LEGGE 23 novembre 2000, n. 344
+
+**Conversione in legge, con modificazioni, del decreto-legge 27 settembre 2000, n. 266, recante disposizioni urgenti in materia di contributi alle imprese del settore dell'editoria per le spedizioni postali.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+promulga
+
+la seguente legge:
+
+## Art. 1
+
+1\. Il decreto-legge 27 settembre 2000, n. 266, recante disposizioni urgenti in materia di contributi alle imprese del settore dell'editoria per le spedizioni postali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 23 novembre 2000
+
+CIAMPI
+
+Amato, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Fassino
+
+Avvertenza:
+
+Il decreto-legge 27 settembre 2000, n. 266, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 227 del 28 settembre 2000.
+
+A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.
+
+Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 35.
+
+## Allegati
+
+## Allegato
+
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 27 SETTEMBRE 2000, N. 266.
+
+L'articolo 1 e' sostituito dal seguente:
+
+"Art. 1 (Tariffe postali agevolate). - 1. Il termine di cui all'articolo 27, comma 7, della legge 23 dicembre 1999, n. 488, relativo all'avvio del regime di contribuzione diretta per le spedizioni postali, e' prorogato al 1o gennaio 2002. I decreti di cui all'articolo 41, comma 2, della legge 23 dicembre 1998, n. 448, sono emanati entro il lo settembre 2001.
+
+2\. Le autorizzazioni di spesa di cui all'articolo 27, comma 7, della legge 23 dicembre 1999, n. 488, relative al periodo 1o ottobre 2000-31 dicembre 2001, sono destinate al rimborso delle riduzioni tariffarie applicate nel medesimo periodo dalla societa' Poste italiane S.p.a. alle spedizioni postali di cui all'articolo 41, comma 1, della legge 23 dicembre 1998, n. 448.
+
+3\. La societa' Poste italiane S.p.a. e' tenuta a presentare un rendiconto quadrimestrale dei costi sostenuti per l'erogazione dei servizi a tariffa agevolata, in attuazione di quanto previsto dal contratto di programma stipulato con il Ministero delle comunicazioni, che svolge i compiti di autorita' di vigilanza e controllo sul sistema postale".
