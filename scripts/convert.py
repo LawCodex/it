@@ -476,8 +476,11 @@ def main():
                     num = slugify(str(md.get("numDoc") or "0"), 20)
                     slug = slugify(clean_title(md.get("titoloDoc")), 60)
                     sub = year
-                    if big_years.get(code, {}).get(year, 0) > 900:
-                        sub = f"{year}/{date[5:7]}"
+                    ny = big_years.get(code, {}).get(year, 0)
+                    if ny > 3000:
+                        sub = f"{year}/{date[5:10]}"   # one directory per day
+                    elif ny > 900:
+                        sub = f"{year}/{date[5:7]}"    # one directory per month
                     rel = f"{tdir}/{sub}/{date}-n-{num}-{slug}.md"
                 fm, htitle, title = front_matter(d, code, key, ftype)
                 body = render_doc(d)
