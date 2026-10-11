@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 25 novembre 1888, n. MMMCLXVI — Che erige in corpo morale il ricovero Foraboschi in Perugia per i poveri virtuosi di musica della provincia dell'Umbria, l'autorizza ad accettare l'eredita' disposta dal testatore e ne approva lo statuto. (8803166R)"
+identifier: "urn:nir:stato:regio.decreto:1888-11-25;3166"
+eli: "https://www.normattiva.it/eli/id/1888/12/27/8803166R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-11-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1888-12-27"
+codice_redazionale: "8803166R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-11-25;3166"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 25 novembre 1888, n. MMMCLXVI
+
+**Che erige in corpo morale il ricovero Foraboschi in Perugia per i poveri virtuosi di musica della provincia dell'Umbria, l'autorizza ad accettare l'eredita' disposta dal testatore e ne approva lo statuto. (8803166R)**
+
+*Entrata in vigore del provvedimento: 11/01/1889*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Visto il testamento olografo in data 15 gennaio 1883, con cui il fu Foraboschi prof. Giuseppe dispose di tutti i suoi beni per un valore di L. 192,078.53 per la fondazione in Perugia di un ricovero per i poveri virtuosi di musica della provincia dell'Umbria;
+
+Vista l'istanza con cui gli esecutori testamentari ed amministratori dell'eredita' Foraboschi chiedono che il ricovero suddetto sia eretto in ente morale e sia approvato il relativo statuto organico;
+
+Visto lo statuto suddetto;
+
+Visto il voto emesso dalla deputazione provinciale di Perugia in seduta del 19 marzo 1888;
+
+Viste le leggi 3 agosto 1862 sulle opere pie e 5 giugno 1850 sulla capacita' di acquistare dei corpi morali;
+
+Visto il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Il ricovero Foraboschi in Perugia per i poveri virtuosi di musica della provincia dell'Umbria e' eretto in corpo morale con autorizzazione ad accettare l'eredita' del fondatore, ed approvato il relativo statuto organico in data 12 dicembre 1887, composto di trenta articoli, il quale sara' visto e sottoscritto, per ordine Nostro, dal ministro proponente, nessun conto tenuto dei reclami dei parenti del fondatore.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 novembre 1888.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 15 dicembre 1888
+
+Reg. 166. Atti del Governo a f. 93. Mazzucchelli.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.
+
+F. CRISPI.

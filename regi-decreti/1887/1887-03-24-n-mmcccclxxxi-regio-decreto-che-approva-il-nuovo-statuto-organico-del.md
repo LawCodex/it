@@ -1,0 +1,68 @@
+---
+title: "REGIO DECRETO 24 marzo 1887, n. MMCCCCLXXXI — Regio Decreto che approva il nuovo statuto organico del regio conservatorio dei poveri orfani di Pisa. (8702481R)"
+identifier: "urn:nir:stato:regio.decreto:1887-03-24;2481"
+eli: "https://www.normattiva.it/eli/id/1887/04/18/8702481R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-03-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 90 del 1887-04-18"
+codice_redazionale: "8702481R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-03-24;2481"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 24 marzo 1887, n. MMCCCCLXXXI
+
+**Regio Decreto che approva il nuovo statuto organico del regio conservatorio dei poveri orfani di Pisa. (8702481R)**
+
+*Entrata in vigore del provvedimento: 03/05/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione 23 ottobre 1886 con cui il consiglio comunale di Pisa, secondando analoghe proposte del regio delegato straordinario per la interinale amministrazione del locale conservatorio dei poveri orfani, diviso' di presentare alla Nostra approvazione un sistema di riforme da introdursi nell'ordinamento di quel pio istituto consistenti:
+
+1° nell'istituire in luogo del soprintendente una commissione direttiva composta di cinque membri, compreso il presidente, tutti a nomina del consiglio comunale;
+
+2° nel restringere dai 7 ai 12 anni il limite della eta' entro cui puo' farsi luogo all'ammissione degli orfani nel conservatorio;
+
+3° nel prorogare di un anno la dimora nell'istituto, fissata sino agli anni 18 per gli orfani ricoverati;
+
+4° nel sopprimere nel ruolo degli stipendiati i posti di aiuto maestro e di cuoco;
+
+5° nell'istituire, a norma dei mezzi di cui l'istituto potra' disporre, officine nell'interno di esso, ove addestrare gli orfani nelle arti e nei mestieri.
+
+Visto il disegno di statuto organico analogamente deliberato dallo stesso consiglio comunale di Pisa nella citata adunanza, da sostituirsi all'attuale regolamento organico del conservatorio approvato con risoluzione governativa del 2 novembre 1860;
+
+Vista la deliberazione 3 gennaio 1887 della deputazione provinciale di Pisa;
+
+Visti gli articoli 23 e 24 della legge 3 agosto 1862, n. 753 sulle opere pie;
+
+Visto il parere favorevole del consiglio di Stato in data 16 febbraio 1887;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Sono approvate le suddivisate riforme da introdursi nell'ordinamento del regio conservatorio dei poveri orfani di Pisa, quali risultano dal nuovo statuto organico di quel pio istituto in data 10 marzo 1887, composto di trentotto articoli, che e' parimenti da Noi approvato, e sara', d'ordine Nostro, munito di visto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 marzo 1887.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 12 aprile 1887.
+
+Reg. 156. Atti del Governo a. f. 27. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli. D. TAJANI.
+
+DEPRETIS.

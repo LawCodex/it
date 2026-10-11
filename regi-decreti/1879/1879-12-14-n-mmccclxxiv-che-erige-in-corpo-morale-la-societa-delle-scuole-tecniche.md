@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 14 dicembre 1879, n. MMCCCLXXIV — Che erige in corpo morale la Societa' delle Scuole tecniche di S. Carlo in Torino, e ne approva lo statuto. (7902374R)"
+identifier: "urn:nir:stato:regio.decreto:1879-12-14;2374"
+eli: "https://www.normattiva.it/eli/id/1880/01/14/7902374R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1879-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 10 del 1880-01-14"
+codice_redazionale: "7902374R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-12-14;2374"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 14 dicembre 1879, n. MMCCCLXXIV
+
+**Che erige in corpo morale la Societa' delle Scuole tecniche di S. Carlo in Torino, e ne approva lo statuto. (7902374R)**
+
+*Entrata in vigore del provvedimento: 29/01/1880*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari di agricoltura, industria e commercio;
+
+Vista la deliberazione dell'adunanza generale della Societa' delle Scuole tecniche di S. Carlo di Torino, in data 9 novembre di quest' anno, colla quale si domanda che la societa' stessa venga eretta in corpo morale;
+
+Visto lo statuto organico della detta societa' sottoposto alla nostra approvazione;
+
+Udito il parere del consiglio di Stato;
+
+Visto l'articolo 2 del codice civile;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+La Societa' delle Scuole tecniche di S. Carlo in Torino e' eretta in corpo morale, e ne e' approvato lo statuto portante la data del 7 luglio 1872, composto di trentotto articoli, visto e sottoscritto d'ordine nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma addi' 14 dicembre 1879.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 24 dicembre 1879
+
+Reg. 104 Atti del Governo a f. 83. Ayres.
+
+Luogo dei Sigillo. V. Il Guardasigilli T. Villa.
+
+Miceli.

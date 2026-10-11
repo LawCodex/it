@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 26 agosto 1885, n. MDCCCXLVIII — Che costituisce in corpo morale l'asilo infantile fondato in Ramacca, e ne approva lo statuto. (8501848R)"
+identifier: "urn:nir:stato:regio.decreto:1885-08-26;1848"
+eli: "https://www.normattiva.it/eli/id/1885/10/06/8501848R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1885-08-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 240 del 1885-10-06"
+codice_redazionale: "8501848R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-08-26;1848"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 26 agosto 1885, n. MDCCCXLVIII
+
+**Che costituisce in corpo morale l'asilo infantile fondato in Ramacca, e ne approva lo statuto. (8501848R)**
+
+*Entrata in vigore del provvedimento: 21/10/1885*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la deliberazione 14 ottobre 1883 colla quale il consiglio comunale di Ramacca determino' di istituire un asilo infantile stanziando nel bilancio la somma di lire 3000 per le spese di primo impianto;
+
+Veduta la deliberazione successiva 11 novembre 1884, con cui il prefato consiglio vincolava il bilancio per il mantenimento dell'asilo con la somma di lire 3500 compreso il sussidio di Lire 1000 accordato dalla provincia;
+
+Veduta la deliberazione 1° aprite u.s. colla quale la deputazione provinciale di Catania ha approvato, nei rispetti della sua competenza, il vincolo al bilancio a tempo indeterminato spiegando inoltre avviso favorevole per l'approvazione dello statuto organico dell'asilo, discusso ed adottato dal consiglio comunale suddetto;
+
+Veduto detto statuto organico;
+
+Veduti la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'asilo infantile istituito dal comune di Ramacca e' eretto in corpo morale, ed e' approvato il corrispondente statuto organico in data 21 maggio 1885,
+
+composto di ventinove articoli, visto e sottoscritto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 26 agosto 1885.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 14 settembre l885.
+
+Reg. 144. Atti del Governo a f. 51. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli D. Tajani.
+
+Depretis.

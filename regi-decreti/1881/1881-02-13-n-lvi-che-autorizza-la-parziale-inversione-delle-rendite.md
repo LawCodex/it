@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 13 febbraio 1881, n. LVI — Che autorizza la parziale inversione delle rendite dell'opera pia Daverio-Pedrocchi in Vergiate (Milano) a favore di un asilo infantile da erigersi in detto comune. (8100056R)"
+identifier: "urn:nir:stato:regio.decreto:1881-02-13;56"
+eli: "https://www.normattiva.it/eli/id/1881/04/16/8100056R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1881-02-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 89 del 1881-04-16"
+codice_redazionale: "8100056R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-02-13;56"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 13 febbraio 1881, n. LVI
+
+**Che autorizza la parziale inversione delle rendite dell'opera pia Daverio-Pedrocchi in Vergiate (Milano) a favore di un asilo infantile da erigersi in detto comune. (8100056R)**
+
+*Entrata in vigore del provvedimento: 01/05/1881*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la domanda del consiglio comunale di Vergiate, deliberata in adunanza del 17 ottobre 1880, per la inversione di una terza parte all'incirca delle rendite dell'opera pia Daverio-Pedrocchi a favore di un asilo infantile da erigersi nell'anzidetto comune;
+
+Visto l'articolo 15 della convenzione 19 novembre 1852 intervenuta tra l'erede del fondatore di detta opera pia ed i comuni di Mercallo, Corgeno e Vergiate, il quale atto tiene luogo ad un tempo di tavole fondamentali e di norme statutarie dell'opera suddetta.
+
+Vista la deliberazione della deputazione provinciale di Milano in data 26 novembre 1880;
+
+Vista la legge 3 agosto 1862, sulle opere pie;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' autorizzata la suddetta parziale inversione delle rendite dell'opera pia Daverio-Pedrocchi nel comune di Vergiate a favore di un asilo infantile da erigersi nel comune medesimo.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 febbraio 1881.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 3 marzo 1881
+
+Reg. 112 Atti del Governo a f. 127. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli. T. Villa.
+
+Depretis.

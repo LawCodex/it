@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 13 giugno 1886, n. MMCCX — Che erige in corpo morale l'asilo infantile nel comune di Carcare, in provincia di Genova, e ne approva lo statuto. (8602210R)"
+identifier: "urn:nir:stato:regio.decreto:1886-06-13;2210"
+eli: "https://www.normattiva.it/eli/id/1886/07/27/8602210R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1886-06-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 173 del 1886-07-27"
+codice_redazionale: "8602210R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-06-13;2210"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 13 giugno 1886, n. MMCCX
+
+**Che erige in corpo morale l'asilo infantile nel comune di Carcare, in provincia di Genova, e ne approva lo statuto. (8602210R)**
+
+*Entrata in vigore del provvedimento: 11/08/1886*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda presentata dal comitato promotore dell'asilo infantile sorto nel comune di Carcare (Genova) diretta ad ottenere l'erezione in ente morale dell'asilo medesimo da intitolarsi dall'avv. Gio. Battista Mallarini e l'approvazione del relativo statuto organico;
+
+Ritenuto che il detto asilo e' gia' in possesso di un locale appositamente costrutto mediante offerte di privati, e che con la donazione di L. 20,000 al medesimo promessa per atto pubblico dalle sorelle Giuseppina e Luigia Mallarini, le obbligazioni di altri benefattori, i sussidi dei locali corpi morali e le rette da pagarsi pei bambini non poveri, il pio istituto avrebbe una rendita annua di circa L. 2698 e quindi ha mezzi sufficienti per vivere e prosperare;
+
+Visto lo statuto organico;
+
+Visto il voto favorevole della deputazione provinciale e gli altri atti;
+
+Vista la legge del 3 agosto 1862 ed il regolamento 27 novembre dello stesso anno sulle opere pie;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Il suaccennato asilo infantile nel comune di Carcare e' eretto in corpo morale.
+
+## Art. 2
+
+E' approvato il relativo statuto organico in data 4 marzo 1886 composto di 18 articoli visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 giugno 1886.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 19 luglio 1886.
+
+Reg. 150. Atti del Governo a f. 147. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli D. TAJANI.
+
+DEPRETIS.

@@ -1,0 +1,54 @@
+---
+title: "REGIO DECRETO 29 settembre 1885, n. 3457 — Col quale, a far tempo dal 1° ottobre 1885, la Scuola magistrale femminile di Bergamo e' convertita in Scuola normale superiore femminile governativa."
+identifier: "urn:nir:stato:regio.decreto:1885-09-29;3457"
+eli: "https://www.normattiva.it/eli/id/1885/11/09/085U3457/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1885-09-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 272 del 1885-11-09"
+codice_redazionale: "085U3457"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-09-29;3457"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 29 settembre 1885, n. 3457
+
+**Col quale, a far tempo dal 1° ottobre 1885, la Scuola magistrale femminile di Bergamo e' convertita in Scuola normale superiore femminile governativa.**
+
+*Entrata in vigore del provvedimento: 24/11/1885*
+
+## Art. 1
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la legge organica del 13 novembre 1859 e quella del 15 luglio 1877 sull'istruzione obbligatoria;
+
+Visto l'art. 2 del regolamento per le Scuole normali, approvato col Nostro decreto del 21 giugno 1883;
+
+Visto il R. decreto 17 febbraio 1884, n. 2016, che approva il testo unico della legge sull'amministrazione e contabilita' generale dello Stato;
+
+Veduta la domanda fatta dalla provincia di Bergamo per la istituzione di una Scuola normale femminile superiore in quella citta';
+
+Vista la deliberazione con la quale la provincia stessa si obbliga di concorrere nella spesa nella misura della meta' della media voluta dall' organico, in aggiunta agli altri oneri gia' per legge e regolamenti spettanti ai comuni, nei quali ha sede una Scuola normale;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione,
+
+Abbiamo decretato e decretiamo:
+
+E' convertita, a far tempo dal 1° ottobre del corrente anno, col concorso della provincia, in Scuola normale superiore femminile governativa la Scuola magistrale femminile provinciale di Bergamo.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 settembre 1885.
+
+UMBERTO.
+
+Coppino.
+
+Visto, Il Guardasigilli: Tajani.

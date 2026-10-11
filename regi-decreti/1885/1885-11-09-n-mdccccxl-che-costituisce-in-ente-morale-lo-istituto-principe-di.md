@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 09 novembre 1885, n. MDCCCCXL — Che costituisce in ente morale lo istituto Principe di Napoli, fondato nella citta' di Napoli per i poveri ciechi, e ne approva lo statuto. (8501940R)"
+identifier: "urn:nir:stato:regio.decreto:1885-11-09;1940"
+eli: "https://www.normattiva.it/eli/id/1885/12/15/8501940R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1885-11-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1885-12-15"
+codice_redazionale: "8501940R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-11-09;1940"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 09 novembre 1885, n. MDCCCCXL
+
+**Che costituisce in ente morale lo istituto Principe di Napoli, fondato nella citta' di Napoli per i poveri ciechi, e ne approva lo statuto. (8501940R)**
+
+*Entrata in vigore del provvedimento: 30/12/1885*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la istanza 6 ottobre 1882 con cui il commendatore Domenico Martuscelli, fondatore ed amministratore del pio istituto Principe di Napoli, esistente nella citta' di Napoli, per i poveri ciechi di ambo i sessi, chiede la erezione in ente morale dell'istituto medesimo e l'approvazione del relativo statuto organico;
+
+Visti gli atti e documenti prodotti a corredo, da cui risulta che l'istituto predetto fondato in Napoli fin dall'anno 1873, ha per iscopo di provvedere alla educazione in generale dei poveri ciechi ed al loro metodico avviamento ad una professione o ad un mestiere, e possiede redditi che gli assicurano il normale funzionamento;
+
+Visto lo schema di statuto organico presentato alla Nostra approvazione;
+
+Viste le deliberazioni 17 ottobre e 2 dicembre 1884 della deputazione provinciale di Napoli;
+
+Vista la legge 3 agosto 1862, n. 753 col relativo regolamento, approvato con regio decreto 27 novembre 1862, n. 1007, sulle opere pie;
+
+Udito il consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'istituto Principe di Napoli esistente nella citta' di Napoli, per i poveri ciechi d'ambo i sessi, e' eretto in ente morale ed e' approvato il relativo statuto organico in data 16 luglio 1884, composto di trentacinque articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 9 novembre 1885.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 7 dicembre 1885.
+
+Reg. 146. Atti del Governo a f. 36. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli D. TAJANI.
+
+Depretis.

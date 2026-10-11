@@ -1,0 +1,66 @@
+---
+title: "REGIO DECRETO 07 febbraio 1886, n. MMXXXIV — Che costituisce in corpo morale l'asilo infantile in Cermenate, e ne approva lo statuto. (8602034R)"
+identifier: "urn:nir:stato:regio.decreto:1886-02-07;2034"
+eli: "https://www.normattiva.it/eli/id/1886/03/03/8602034R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1886-02-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 51 del 1886-03-03"
+codice_redazionale: "8602034R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-02-07;2034"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 07 febbraio 1886, n. MMXXXIV
+
+**Che costituisce in corpo morale l'asilo infantile in Cermenate, e ne approva lo statuto. (8602034R)**
+
+*Entrata in vigore del provvedimento: 18/03/1886*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la istanza 5 agosto 1885 della commissione amministratrice dell'asilo infantile fondato in Cermenate per opera di alcuni benemeriti cittadini con la quale essa chiede l'erezione in corpo morale del pio istituto e la contemporanea approvazione dello statuto organico;
+
+Veduto detto statuto organico;
+
+Veduto l'atto 27 giugno 1882 col quale il consiglio comunale di Cermenate delibero' di portare da L. 400 a L. 600, il sussidio annuo all'asilo, e ritenuto, giusta gli altri atti prodotti, che l'asilo medesimo puo' fare assegnamento su una rendita annua che oltrepassa le L. 3000;
+
+Veduto inoltre il testamento 19 luglio 1882 col quale la fu Francesca Porro Vedova Rospini lego' al pio istituto suddetto la somma di L. 500;
+
+Veduta la deliberazione 5 agosto 1885 della deputazione provinciale di Como;
+
+Vedute le leggi 5 giugno 1850 e 3 agosto 1862;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile come sopra fondato in Cermenate e' eretto in corpo morale ed e' autorizzato ad accettare il legato a suo favore disposto dalla fu Francesca Porro vedova Rospini col succitato testamento.
+
+## Art. 2
+
+E' approvato il corrispondente statuto organico in data 15 ottobre 1885 composto di trentadue articoli, visto e sottoscritto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare
+
+Dato a Roma, addi' 7 febbraio 1886.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 8 febbraio 1886.
+
+Reg. 147. Atti del Governo a f. 110. Ayres.
+
+Luogo da Sigillo. V. Il Guardasigilli D. TAJANI.
+
+DEPRETIS.

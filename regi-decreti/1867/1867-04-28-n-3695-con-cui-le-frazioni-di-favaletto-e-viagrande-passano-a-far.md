@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 28 aprile 1867, n. 3695 — Con cui le frazioni di Favaletto e Viagrande passano a far parte del Comune di Trecasali, dal quale viene disgregato il quartiere Ronchi."
+identifier: "urn:nir:stato:regio.decreto:1867-04-28;3695"
+eli: "https://www.normattiva.it/eli/id/1867/05/19/067U3695/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1867-04-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 138 del 1867-05-19"
+codice_redazionale: "067U3695"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-04-28;3695"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 28 aprile 1867, n. 3695
+
+**Con cui le frazioni di Favaletto e Viagrande passano a far parte del Comune di Trecasali, dal quale viene disgregato il quartiere Ronchi.**
+
+*Entrata in vigore del provvedimento: 03/06/1867*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro dell'Interno;
+
+Vista la domanda sporta dalla maggioranza degli elettori delle frazioni Favaletto e Viagrande per ottenere che le frazioni stesse, staccandosi dal Comune di Sissa, siano aggregate a quello di Trecasali;
+
+Vista la domanda sporta dagli elettori del quartiere Ronchi per staccarsi da Trecasali ed unirsi a Sissa;
+
+Viste le deliberazioni emesse dal Consiglio provinciale di Parma nella adunanza 6 settembre 1860, e dai Consigli comunali di Sissa e Trecasali in data 18 febbraio e 3 marzo scorsi;
+
+Visto l'articolo 15, alinea, della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Le frazioni Favaletto e Viagrande, staccandosi dal Comune di Sissa, passano a far parte di quello di Trecasali, dal quale viene disgregato il quartiere Ronchi per unirlo al Comune predetto di Sissa;
+
+La nuova linea di confine fra i suddetti Comuni sara' in conseguenza quella tracciata in rosso nel tipo del geometra Corradi, in data 25 agosto 1860, che sara' d'ordine Nostro vidimata dal Ministro predetto.
+
+## Art. 2
+
+Nel piu' breve termine possibile si procedera' alla ricostituzione dei due Consigli comunali di Sissa e Trecasali, ed intanto le attuali Rappresentanze continueranno ad esercitare le loro attribuzioni, curando pero' di non vincolare l'azione dei futuri Consigli.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 28 aprile 1867.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 13 maggio 1867
+
+Reg. 40 Atti del Governo a c. 31. Ayres.
+
+Luogo del sigillo. V. Il Guardasigilli Tecchio.
+
+U. Rattazzi.

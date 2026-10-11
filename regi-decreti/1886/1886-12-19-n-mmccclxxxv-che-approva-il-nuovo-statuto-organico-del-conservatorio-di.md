@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 19 dicembre 1886, n. MMCCCLXXXV — Che approva il nuovo statuto organico del conservatorio di Sª. Maria delle Grazie in Sorrento. (8602385R)"
+identifier: "urn:nir:stato:regio.decreto:1886-12-19;2385"
+eli: "https://www.normattiva.it/eli/id/1887/01/10/8602385R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1886-12-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 6 del 1887-01-10"
+codice_redazionale: "8602385R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-12-19;2385"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 19 dicembre 1886, n. MMCCCLXXXV
+
+**Che approva il nuovo statuto organico del conservatorio di Sª. Maria delle Grazie in Sorrento. (8602385R)**
+
+*Entrata in vigore del provvedimento: 25/01/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno presidente del consiglio dei ministri;
+
+Visto il nuovo statuto organico del conservatorio di S. M. delle Grazie in Sorrento deliberato dal consiglio di quel comune nelle adunanze del 7 aprile 1885 e 30 marzo 1886;
+
+Visto il voto espresso dalla deputazione provinciale di Napoli nelle sedute del 30 giugno 1885 e 24 luglio 1886;
+
+Vista la legge 3 agosto 1862 sulle opere pie;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' approvato il nuovo statuto organico del conservatorio di S.
+
+Maria delle Grazie in Sorrento in data 10 aprile 1886 composto di sessanta articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 dicembre 1886.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 4 gennaio 1887.
+
+Reg. 154. Atti del Governo a f. 20. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli. D. TAJANI.
+
+DEPRETIS.

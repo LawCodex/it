@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 27 maggio 1869, n. 5124 — Che sopprime i Comuni di Montevecchio, Fenigli, Montesecco, Monterolo, San Vito e Montalfoglio, ed aggrega i quattro primi al Comune di Pergola, ed i due ultimi a quello di San Lorenzo."
+identifier: "urn:nir:stato:regio.decreto:1869-05-27;5124"
+eli: "https://www.normattiva.it/eli/id/1869/07/13/069U5124/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1869-05-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 189 del 1869-07-13"
+codice_redazionale: "069U5124"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-05-27;5124"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 27 maggio 1869, n. 5124
+
+**Che sopprime i Comuni di Montevecchio, Fenigli, Montesecco, Monterolo, San Vito e Montalfoglio, ed aggrega i quattro primi al Comune di Pergola, ed i due ultimi a quello di San Lorenzo.**
+
+*Entrata in vigore del provvedimento: 28/07/1869*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Ministro dell'Interno;
+
+Vista la deliberazione emessa dal Consiglio provinciale di Pesaro nell'adunanza in data 20 aprile 1868, e quelle dei Consigli comunali di Pergola, Montevecchio, Monterolo, Fenigli, Montesecco e Montalfoglio, in data 17, 20, 23, 27 agosto 1868, e 29 novembre stesso anno, e quelle di San Vito sul Cesano e San Lorenzo in Campo, in data 8 gennaio e 10 febbraio 1869;
+
+Visti gli articoli 14 e 13 della Legge sull'amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+A partire dal 1° agosto 1869, i Comuni di Montevecchio, Fenigli, Montesecco e Monterolo sono soppressi ed uniti a quello di Pergola.
+
+## Art. 2
+
+Sono parimente, a partire dal detto giorno, soppressi i Comuni di San Vito e di Montalfoglio ed uniti al Comune di San Lorenzo.
+
+## Art. 3
+
+Fino alla costituzione dei novelli Consigli comunali di Pergola e San Lorenzo, cui si procedera' a cura del Prefetto della Provincia, entro il mese di luglio prossimo, in base alle attuali liste amministrative, modificate, per quanto concerne i Comuni di Montevecchio, Monterolo, Fenigli, Montesecco, Montalfoglio, San Vito e San Lorenzo, a norma del 2° comma dell'articolo 17 della succitata Legge, le attuali Rappresentanze dei Comuni sovraccennati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 27 maggio 1869.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 17 giugno 1869
+
+Reg. 47 Atti del Governo a c. 86. Ayres.
+
+Luogo del sigillo. V. Il Guardasigilli Pironti.
+
+Luigi Ferraris.

@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 14 novembre 1882, n. DCCLXIV — Che erige in corpo morale l'educatorio delle sordo-mute povere in Torino e ne approva lo statuto. (8200764R)"
+identifier: "urn:nir:stato:regio.decreto:1882-11-14;764"
+eli: "https://www.normattiva.it/eli/id/1882/12/28/8200764R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1882-11-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 303 del 1882-12-28"
+codice_redazionale: "8200764R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-11-14;764"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 14 novembre 1882, n. DCCLXIV
+
+**Che erige in corpo morale l'educatorio delle sordo-mute povere in Torino e ne approva lo statuto. (8200764R)**
+
+*Entrata in vigore del provvedimento: 12/01/1883*
+
+## Art. 1
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda del professore De Leone Lorenzo Prinotti per ottenere che venga eretto in corpo morale un educatorio per le povere sordo-mute, dal medesimo fondato in Torino, e perche' sia approvato il relativo statuto organico;
+
+Viste le corrispondenti deliberazioni della deputazione provinciale;
+
+Vista la legge 3 agosto 1862 sulle opere pie;
+
+Udito l'avviso del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+E' eretto in corpo morale l'educatorio delle sordo-mute povere in Torino, fondato dal citato professore Prinotti, ed e' approvato il relativo statuto organico portante la data 8 dicembre 1881, composto di n. 35 articoli visto e sottoscritto d'ordine nostro dal ministro dell'interno.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 14 novembre 1882.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 29 novembre 1882
+
+Reg. 124 Atti del Governo a f. 91. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.
+
+Depretis.

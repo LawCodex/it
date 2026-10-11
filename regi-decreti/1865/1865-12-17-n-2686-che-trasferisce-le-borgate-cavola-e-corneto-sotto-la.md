@@ -1,0 +1,52 @@
+---
+title: "REGIO DECRETO 17 dicembre 1865, n. 2686 — Che trasferisce le Borgate Cavola e Corneto sotto la dipendenza del Comune di Carpineti."
+identifier: "urn:nir:stato:regio.decreto:1865-12-17;2686"
+eli: "https://www.normattiva.it/eli/id/1865/12/30/065U2686/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1865-12-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 337 del 1865-12-30"
+codice_redazionale: "065U2686"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-17;2686"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 17 dicembre 1865, n. 2686
+
+**Che trasferisce le Borgate Cavola e Corneto sotto la dipendenza del Comune di Carpineti.**
+
+*Entrata in vigore del provvedimento: 14/01/1866*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro dell'Interno;
+
+Visto l'art. 15, alinea, della nuova Legge sull'Amministrazione comunale, 20 marzo scorso;
+
+Viste le deliberazioni dei Consigli comunali di Carpineti e Toano in data 17 ottobre 1861, e 13 maggio 1862, nonche' quella del Consiglio provinciale di Reggio nell'Emilia;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+A partire dal 1.° gennaio 1866 le Borgate Cavola e Corneto, in Provincia di Reggio nell'Emilia, cessano di far parte del Comune di Toano per passare sotto la dipendenza del Comune di Carpineti.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 17 dicembre 1865.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 27 dicembre 1865
+
+Reg.° 34 Atti del Governo a c. 164. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli Cortese.
+
+Chiaves.

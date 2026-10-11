@@ -1,0 +1,118 @@
+---
+title: "REGIO DECRETO 10 agosto 1888, n. MMMLXIX — Che erige in ente morale l'istituto femminile delle Diaconesse di Kaiserswerth in Firenze, l'autorizza ad accettare la proprieta' dello stabile Disselhoff e ne approva lo statuto. (8803069R)"
+identifier: "urn:nir:stato:regio.decreto:1888-08-10;3069"
+eli: "https://www.normattiva.it/eli/id/1888/09/12/8803069R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-08-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 215 del 1888-09-12"
+codice_redazionale: "8803069R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-08-10;3069"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 10 agosto 1888, n. MMMLXIX
+
+**Che erige in ente morale l'istituto femminile delle Diaconesse di Kaiserswerth in Firenze, l'autorizza ad accettare la proprieta' dello stabile Disselhoff e ne approva lo statuto. (8803069R)**
+
+*Entrata in vigore del provvedimento: 27/09/1888*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la domanda fatta da Lisetta Niemann, direttrice ed amministratrice dell'istituto delle Diaconesse in Firenze, per la erezione di questo in ente morale e per l'approvazione del relativo statuto organico;
+
+Veduto l'atto notarile in data del 23 giugno 1888, col quale Giulio Disselhoff, mandatario generale dell'associazione delle Diaconesse di Kaiserswerth, proprietario dello stabile in cui ha sede il predetto istituto in Firenze, dichiara che lo stabile stesso passera' in proprieta' esclusiva dell'istituto, quando questo abbia acquistato la personalita' giuridica;
+
+Considerato che per la dichiarazione formale consacrata nell'atto predetto puo' dirsi assicurata la esistenza dell'istituto di cui trattasi;
+
+Veduto lo statuto organico predetto;
+
+Veduta la legge del 5 giugno 1850, n. 1037;
+
+Veduto il parere favorevole emesso dal consiglio di Stato nella sua adunanza del 13 luglio ultimo;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'istituto femminile delle Diaconesse di Kaiserswerth in Firenze, amministrato e diretto dalla postulante Lisetta Niemann, avente per iscopo la educazione civile, morale e religiosa delle giovanette, e' eretto in ente morale.
+
+## Art. 2
+
+L'istituto stesso e' autorizzato ad accettare la proprieta' dello stabile in cui ha sede, via Santa Monaca, n. 41, offertogli da Giulio Disselhoff nella qualita' suindicata.
+
+## Art. 3
+
+E' approvato lo statuto organico annesso al presente decreto, composto di nove articoli e firmato d'ordine Nostro dal ministro anzidetto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 10 agosto 1888.
+
+UMBERTO
+
+Registrato alla Corte dei conti, addi' 28 agosto 1888.
+
+Reg. 165. Atti del Governo a f. 40. Mazzucchelli.
+
+Luogo del Sigillo. V. Il Guardasigilli. G. ZANARDELLI.
+
+P. BOSELLI.
+
+## Allegati
+
+STATUTO ORGANICO
+
+per l'istituto femminile delle diaconesse di Kaiserwerth in Firenze
+
+## Art. 1
+
+L'istituto femminile delle diaconesse di Kaiserswerth, sito in Firenze, 41, via S. Monaca, ha per iscopo di offrire alle giovinette affidategli una istruzione solida, e una buona educazione cristiana, senza distinzione di confessione religiosa.
+
+## Art. 2
+
+Esso ha un convitto ed una scuola, in cui alle alunne interne ed esterne s'insegnano le materie di studio appartenenti al corso elementare ed al corso superiore.
+
+## Art. 3
+
+L'istituto e' proprietario dell'edificio, ove esso ha sede, presentemente, con l'annesso giardino.
+
+Esso e' riccamente fornito di tutto il materiale scolastico e della suppellettile necessaria al convitto.
+
+## Art. 4
+
+Amministratrice e direttrice dell'istituto e' presentemente la signora Niemann Lisetta, aiutata da altre signore, munite di regolare patente. Essa rappresenta legalmente l'istituto in tutti gli atti pubblici ed amministrativi.
+
+## Art. 5
+
+Un comitato locale composto di tre persone domiciliate a Firenze e interessate del buon andamento dell'istituto, designera', quando la presente direttrice per qualunque ragione venga a mancare, quella delle altre diaconesse che debba sostituirla.
+
+## Art. 6
+
+Il comitato rimane costituito nelle stesse persone, che presentemente lo compongono. L'ufficio loro e' a vita, e qualora una di esse venga a cessare, gli altri due membri procederanno alla nomina del terzo.
+
+## Art. 7
+
+L'insegnamento cosi' elementare come superiore sara' dato da maestre e professori tutti forniti di regolare diploma.
+
+## Art. 8
+
+L'istituto sara' sempre sottoposto alla vigilanza dell'autorita' scolastica della provincia.
+
+## Art. 9
+
+Un regolamento particolare da approvarsi dal consiglio scolastico provinciale di Firenze stabilira' le norme per applicare questo statuto, come pure quelle che governeranno la scuola ed il convitto.
+
+Visto d'ordine di S. M.
+
+Il ministro della pubblica istruzione
+
+P. BOSELLI.

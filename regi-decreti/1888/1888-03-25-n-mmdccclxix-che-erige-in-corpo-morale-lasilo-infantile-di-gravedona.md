@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 25 marzo 1888, n. MMDCCCLXIX — Che erige in corpo morale l'asilo infantile di Gravedona (Como) e ne approva lo statuto. (8802869R)"
+identifier: "urn:nir:stato:regio.decreto:1888-03-25;2869"
+eli: "https://www.normattiva.it/eli/id/1888/04/18/8802869R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-03-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 92 del 1888-04-18"
+codice_redazionale: "8802869R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-03-25;2869"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 25 marzo 1888, n. MMDCCCLXIX
+
+**Che erige in corpo morale l'asilo infantile di Gravedona (Como) e ne approva lo statuto. (8802869R)**
+
+*Entrata in vigore del provvedimento: 03/05/1888*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda dell'amministrazione dell'asilo infantile di Gravedona per ottenere l'erezione in corpo morale dello istituto e l'approvazione del corrispondente statuto organico;
+
+Visto detto statuto organico;
+
+Vista la deliberazione della deputazione provinciale di Como in data del 29 settembre 1887 e ritenuto che l'asilo si mantiene con le rendite di un proprio capitale di L. 4,200, con le azioni dei soci e col sussidio del comune formando un bilancio annuo di L. 2258;
+
+Vista la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile di Gravedona e' eretto in corpo morale.
+
+## Art. 2
+
+E' approvato il corrispondente statuto organico in data 29 febbraio 1888, composto di diciotto articoli visto e sottoscritto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 marzo 1888.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 6 aprile 1888.
+
+Reg. 162. Atti del Governo a f. 88. Zainy.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+F. CRISPI.

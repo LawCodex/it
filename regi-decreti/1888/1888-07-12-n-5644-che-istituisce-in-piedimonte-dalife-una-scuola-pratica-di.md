@@ -1,0 +1,72 @@
+---
+title: "REGIO DECRETO 12 luglio 1888, n. 5644 — Che istituisce in Piedimonte d'Alife una scuola pratica di agricoltura."
+identifier: "urn:nir:stato:regio.decreto:1888-07-12;5644"
+eli: "https://www.normattiva.it/eli/id/1888/09/01/088U5644/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-07-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 207 del 1888-09-01"
+codice_redazionale: "088U5644"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-12;5644"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 12 luglio 1888, n. 5644
+
+**Che istituisce in Piedimonte d'Alife una scuola pratica di agricoltura.**
+
+*Entrata in vigore del provvedimento: 16/09/1888*
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la legge 6 giugno 1885, N. 3141 (Serie 3ª);
+
+Viste le deliberazioni della Deputazione provinciale di Caserta in data 10 marzo 1887 e del Consiglio comunale di Piedimonte d'Alife in data 3 dicembre 1887;
+
+Vista la legge 30 giugno 1888, N. 5482 (Serie 3ª), che approva il bilancio di previsione della spesa per il Ministero d'Agricoltura, Industria e Commercio per l'esercizio 1888-89;
+
+Sulla proposta del Nostro Ministro d'Agricoltura, Industria e Commercio;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+E' istituita in Piedimonte d'Alife una Scuola pratica di agricoltura, ordinata secondo le prescrizioni della legge 6 giugno 1885, N. 3141.
+
+## Art. 2
+
+Alle spese d'istituzione della Scuola provvede la provincia di Caserta col contributo proprio di lire 10,800. Lo Stato contribuisce nella spesa suddetta con la somma di L. 16,200.
+
+## Art. 3
+
+Alle spese di annuo mantenimento della Scuola, provvederanno il Governo e la provincia nelle proporzioni fissate dalla suddetta legge organica 6 giugno 1885.
+
+## Art. 4
+
+Il Ruolo del personale della Scuola e' fissato nel modo seguente:
+
+professore di agricoltura; stipendio lire 2400 - indennita' di direzione lire 300;
+
+professore di scienze fisiche e naturali ed aiuto-direttore, stipendio lire 2000;
+
+maestro e censore di disciplina, insegnante di lingua italiana, di storia, di geografia, di aritmetica e computisteria generale, stipendio lire 1800.
+
+## Art. 5
+
+Alla spesa per il mantenimento della Scuola per la quota a carico dello Stato, si fara' fronte con i fondi stanziati nel capitolo 12 del bilancio del Ministero di Agricoltura, Industria e Commercio per il corrente esercizio e con quelli corrispondenti degli esercizi successivi.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 luglio 1888.
+
+UMBERTO.
+
+Grimaldi.
+
+Visto, Il Guardasigilli: Zanardelli.

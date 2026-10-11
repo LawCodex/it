@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 24 novembre 1889, n. MMMDCXXX — Che approva la riforma del pio istituto educativo comunale di Caiazzo ed il relativo statuto organico. (8903630R)"
+identifier: "urn:nir:stato:regio.decreto:1889-11-24;3630"
+eli: "https://www.normattiva.it/eli/id/1890/01/16/8903630R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1889-11-24
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 12 del 1890-01-16"
+codice_redazionale: "8903630R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-11-24;3630"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 24 novembre 1889, n. MMMDCXXX
+
+**Che approva la riforma del pio istituto educativo comunale di Caiazzo ed il relativo statuto organico. (8903630R)**
+
+*Entrata in vigore del provvedimento: 31/01/1890*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione 9 aprile 1889, con cui il consiglio comunale di Caiazzo, su conforme proposta del regio delegato straordinario per la provvisoria gestione del locale pio istituto educativo comunale, dviso' di proporre una riforma, per effetto della quale il pio istituto, mantenendosi nei rapporti della tutela amministrativa ed economica soggetto alle disposizioni della legge sulle opere pie, e conservando pure le sue funzioni di beneficenza mediante la creazione di due piazze gratuite e quattro semigratuite nell'annesso convitto, e di sei esterne intieramente gratuite, dovra' essere trasformato in una scuola normale di grado inferiore, da attivarsi, quanto al regime didattico, a termini dell'articolo 370 della legge 13 novembre 1859 e delle disposizioni vigenti per le scuole normali pareggiate;
+
+Visto il progetto di statuto organico redatto dal predetto regio delegato per l'attuazione della divisata riforma in data 10 settembre 1889;
+
+Vista la deliberazione 1° maggio 1889 della giunta provinciale amministrativa di Caserta;
+
+Visti gli atti relativi alla origine, allo scopo ed alla coesistenza patrimoniale del pio istituto di che trattasi, e ritenuta pienamente giustificata la proposta riforma cosi' dal lato della legalita' e della convenienza, come nei rapporti colla beneficenza e colla istruzione pubblica;
+
+Visti gli articoli 23 e 24 della legge 3 agosto 1862, n. 753, sulle opere pie;
+
+Avuto il parere favorevole del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri, e del ministro per la istruzione pubblica;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' approvata la suddivisata riforma del pio istituto educativo comunale di Caiazzo nei modi e termini stabiliti nel nuovo statuto organico suddetto, composto di 29 (ventinove) articoli, che viene similmente da Noi approvato, e sara', d'ordine Nostro, visto e sottoscritto dai Nostri ministri proponenti.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 novembre 1889.
+
+UMBERTO.
+
+Registrato alla Corte dei conti addi' 6 gennaio 1890.
+
+Reg. 172. Atti del Governo a f. 28. Mandillo.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+F. CRISPI.
+
+P. BOSELLI.

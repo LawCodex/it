@@ -1,0 +1,52 @@
+---
+title: "REGIO DECRETO 27 agosto 1885, n. 3348 — Che istituisce nella citta' di Oderzo una Scuola tecnica governativa di 3ª classe a cominciare dal 1° ottobre 1885."
+identifier: "urn:nir:stato:regio.decreto:1885-08-27;3348"
+eli: "https://www.normattiva.it/eli/id/1885/09/18/085U3348/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1885-08-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 222 del 1885-09-18"
+codice_redazionale: "085U3348"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-08-27;3348"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 27 agosto 1885, n. 3348
+
+**Che istituisce nella citta' di Oderzo una Scuola tecnica governativa di 3ª classe a cominciare dal 1° ottobre 1885.**
+
+*Entrata in vigore del provvedimento: 03/10/1885*
+
+## Art. 1
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la legge 13 novembre 1859, n. 3725;
+
+Veduta la deliberazione in data 29 aprile 1885, con la quale il Consiglio comunale di Oderzo si obbliga di versare annualmente all'Erario i 3/5 della spesa effettiva per il personale dirigente ed insegnante della scuola tecnica, oltre al provvedere alle altre spese spettanti ai comuni per le scuole tecniche, a sensi della predetta legge 13 novembre 1859;
+
+Veduta la deliberazione in data 18 giugno 1885, con la quale la Deputazione provinciale di Treviso, approvando la deliberazione presa dal Consiglio comunale di Oderzo, autorizza il conseguente vincolo nel bilancio del comune stesso;
+
+Veduta la legge del 28 giugno 1885, che approva il lancio di previsione del Ministero di Pubblica Istruzione per l'esercizio finanziario 1885-86;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione,
+
+Abbiamo decretato e decretiamo:
+
+A cominciare dal 1° ottobre 1885 e' instituita nella citta' di Oderzo una scuola tecnica governativa di 3ª classe.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 27 agosto 1885.
+
+UMBERTO.
+
+Coppino.
+
+Visto, Il Guardasigilli: Tajani.

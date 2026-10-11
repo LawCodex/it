@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 21 giugno 1883, n. DCCCCLXXXI — Che erige in corpo morale l'asilo infantile di Mariano Comense e ne approva lo statuto. (8300981R)"
+identifier: "urn:nir:stato:regio.decreto:1883-06-21;981"
+eli: "https://www.normattiva.it/eli/id/1883/07/21/8300981R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1883-06-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 170 del 1883-07-21"
+codice_redazionale: "8300981R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-06-21;981"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 21 giugno 1883, n. DCCCCLXXXI
+
+**Che erige in corpo morale l'asilo infantile di Mariano Comense e ne approva lo statuto. (8300981R)**
+
+*Entrata in vigore del provvedimento: 05/08/1883*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vedute le deliberazioni del consiglio comunale di Mariano Comense (Como) sotto le date del 10 ottobre 1882 e 30 marzo 1883, colle quali si provvede alla fondazione di un asilo infantile a favore dei bambini d'ambo i sessi appartenenti a famiglie indigenti del comune, e si vota il relativo statuto organico;
+
+Veduti gli altri atti prodotti, per dimostrare che l'istituto avrebbe rendite proprie, sussidi dal comune e da altri corpi morali, offerte volontarie e proventi eventuali diversi, da bastare al mantenimento ed al progressivo sviluppo del medesimo;
+
+Veduta la dimanda per ottenere la erezione in corpo morale di detto asilo e l'approvazione dello statuto organico;
+
+Veduta la deliberazione della deputazione provinciale in data 30 novembre 1882;
+
+Udito il consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'asilo infantile Giuseppe Garibaldi fondato nel comune di Mariano Comense e' eretto in corpo morale e se ne approva il corrispondente statuto organico, compilato in data 27 maggio 1881, e composto di numero trentaquattro articoli, il quale sara' visto e sottoscritto dal Nostro ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 giugno 1883.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 10 luglio 1883
+
+Reg. 128 Atti del Governo a f.° 133. Ayres
+
+Luogo del Sigillo. V. Il Guardasigilli SAVELLI.
+
+Depretis.

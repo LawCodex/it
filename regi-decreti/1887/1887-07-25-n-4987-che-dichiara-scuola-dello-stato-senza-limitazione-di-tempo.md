@@ -1,0 +1,54 @@
+---
+title: "REGIO DECRETO 25 luglio 1887, n. 4987 — Che dichiara Scuola dello Stato, senza limitazione di tempo, a cominciare dal 1° ottobre del corrente anno, la Scuola normale femminile superiore di Udine."
+identifier: "urn:nir:stato:regio.decreto:1887-07-25;4987"
+eli: "https://www.normattiva.it/eli/id/1887/10/21/087U4987/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-07-25
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 248 del 1887-10-21"
+codice_redazionale: "087U4987"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-25;4987"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 25 luglio 1887, n. 4987
+
+**Che dichiara Scuola dello Stato, senza limitazione di tempo, a cominciare dal 1° ottobre del corrente anno, la Scuola normale femminile superiore di Udine.**
+
+*Entrata in vigore del provvedimento: 05/11/1887*
+
+## Art. 1
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il R. decreto del 27 settembre 1883, col quale la Scuola magistrale femminile di Udine fu dichiarata Scuola normale governativa di grado superiore per la durata di un triennio;
+
+Veduto il Nostro decreto 9 ottobre 1886, col quale venne prorogato a tutto settembre p. v. il suaccennato Regio decreto;
+
+Vedute le deliberazioni 23 febbraio e 14 settembre 1886 del Consiglio provinciale di Udine, e la proposta di quella Deputazione provinciale in data del 12 aprile di detto anno;
+
+Veduta la deliberazione 27 maggio 1886 del Consiglio comunale di Udine;
+
+Veduta la legge del 13 novembre 1859 ed il regolamento per le Scuole normali approvato col Nostro decreto del 21 giugno 1883;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;
+
+Abbiamo decretato e decretiamo:
+
+La Scuola normale femminile superiore di Udine e' dichiarata Scuola dello Stato senza limitazione di tempo a cominciare dal 1° ottobre del corrente anno, concorrendo al mantenimento della medesima la provincia di Udine con un annuo contributo di lire quattromilacinquecento (Lire 4500) ed il comune di Udine coll'adempimento degli obblighi che gli spettano a tenore della legge e del regolamento, ed in conformita' alle suaccennate deliberazioni.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 25 luglio 1887.
+
+UMBERTO.
+
+Coppino.
+
+Visto, Il Guardasigilli: Zanardelli.

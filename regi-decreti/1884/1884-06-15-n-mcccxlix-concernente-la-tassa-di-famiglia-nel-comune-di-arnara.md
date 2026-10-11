@@ -1,0 +1,54 @@
+---
+title: "REGIO DECRETO 15 giugno 1884, n. MCCCXLIX — Concernente la tassa di famiglia nel comune di Arnara. (8401349R)"
+identifier: "urn:nir:stato:regio.decreto:1884-06-15;1349"
+eli: "https://www.normattiva.it/eli/id/1884/07/23/8401349R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1884-06-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 175 del 1884-07-23"
+codice_redazionale: "8401349R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-06-15;1349"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 15 giugno 1884, n. MCCCXLIX
+
+**Concernente la tassa di famiglia nel comune di Arnara. (8401349R)**
+
+*Entrata in vigore del provvedimento: 07/08/1884*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione 29 settembre 1883 del consiglio comunale di Arnara, approvata il 28 gennaio 1884 dalla deputazione provinciale di Roma, con la quale si e' stabilito in L. 200 il massimo della tassa di famiglia;
+
+Visto l'articolo 8 della legge 26 luglio 1868, numero 4513 e il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Roma;
+
+Udito il parere del consiglio di Stato;
+
+Sulla proposta del ministro delle finanze;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' autorizzato il comune di Arnara ad applicare nel biennio 1884-85 la tassa di famiglia col massimo di lire duecento.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 giugno 1884.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 20 giugno 1884
+
+Reg. 136. Atti del Governo a f. 109. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli N. FERRACCIU'.
+
+A.MAGLIANI.

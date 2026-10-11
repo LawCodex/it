@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 03 aprile 1887, n. 4457 — Che istituisce un Museo nazionale in Este col titolo di Museo Atestino."
+identifier: "urn:nir:stato:regio.decreto:1887-04-03;4457"
+eli: "https://www.normattiva.it/eli/id/1887/04/26/087U4457/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-04-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 97 del 1887-04-26"
+codice_redazionale: "087U4457"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-04-03;4457"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 03 aprile 1887, n. 4457
+
+**Che istituisce un Museo nazionale in Este col titolo di Museo Atestino.**
+
+*Entrata in vigore del provvedimento: 11/05/1887*
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vedute le deliberazioni 2 luglio 1885 e 13 gennaio 1886, colle quali il Consiglio comunale di Este fece voti perche' il Museo civico di quella citta' fosse dichiarato nazionale a tutti gli effetti di legge; stabili' che tutte le collezioni del Museo civico farebbero parte del Museo nazionale; e si assunse di provvedere al locale per la sede del nuovo Museo;
+
+Considerata la importanza delle raccolte gia' fatte e delle scoperte che si vanno facendo in quella regione, anche con l'aiuto dello Stato; laonde si rende sempre piu' necessario di provvedere, in modo conveniente, nell'interesse della scienza, alla riunione in un unico Museo delle antichita' atestine;
+
+Veduto il Nostro Decreto 30 gennaio 1887, con cui fu approvata la legge del bilancio per l'esercizio finanziario 1886-87;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione,
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+E' istituito un Museo nazionale in Este col titolo di Museo Atestino.
+
+## Art. 2
+
+Tutte le collezioni dell'attuale Museo civico faranno parte del Museo nazionale, ne' potranno essere altrove trasferite; tutti gli oggetti che verranno rimessi in luce nel territorio atestino per conto dello Stato o del comune di Este, saranno destinati ad aumentare la suppellettile del detto Museo.
+
+## Art. 3
+
+Lo Stato provvedera' alla direzione, alla amministrazione ed alla custodia del nuovo Museo e del suo edificio, secondo le norme vigenti pei Musei dello Stato.
+
+## Art. 4
+
+Nessuna delle precedenti disposizioni si intendera' esecutiva a carico dello Stato, se prima il comune di Este non abbia adempiuto tutti gli obblighi da esso assunti.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 aprile 1887.
+
+UMBERTO.
+
+Coppino.
+
+Visto, Il Guardasigilli: Tajani.

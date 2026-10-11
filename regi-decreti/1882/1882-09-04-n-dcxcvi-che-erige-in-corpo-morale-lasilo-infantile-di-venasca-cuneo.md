@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 04 settembre 1882, n. DCXCVI — Che erige in corpo morale l'asilo infantile di Venasca (Cuneo) e ne approva lo statuto. (8200696R)"
+identifier: "urn:nir:stato:regio.decreto:1882-09-04;696"
+eli: "https://www.normattiva.it/eli/id/1882/11/03/8200696R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1882-09-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 257 del 1882-11-03"
+codice_redazionale: "8200696R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-09-04;696"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 04 settembre 1882, n. DCXCVI
+
+**Che erige in corpo morale l'asilo infantile di Venasca (Cuneo) e ne approva lo statuto. (8200696R)**
+
+*Entrata in vigore del provvedimento: 18/11/1882*
+
+## Art. 1
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda presentata dal consiglio comunale di Venasca per ottenere che sia eretto in corpo morale l'asilo infantile cola' istituito, ed approvato lo statuto organico corrispondente;
+
+Veduta la relativa deliberazione della deputazione provinciale;
+
+Vista la legge 3 agosto 1862 sulle opere pie;
+
+Udito l'avviso del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+E' eretto in corpo morale l'asilo infantile esistente nel comune di Venasca, ed e' pure approvato lo statuto organico del medesimo portante la data 11 maggio 1882, composto di numero 34 articoli, visto e sottoscritto d'ordine nostro dal ministro dell'interno.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 4 settembre 1882.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 19 settembre 1882
+
+Reg. 123 Atti del Governo a f. 41. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.
+
+Depretis.

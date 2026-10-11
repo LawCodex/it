@@ -1,0 +1,68 @@
+---
+title: "REGIO DECRETO 12 luglio 1888, n. 5645 — Che istituisce in Lucera (Foggia) una scuola di zootecnia e di caseificio."
+identifier: "urn:nir:stato:regio.decreto:1888-07-12;5645"
+eli: "https://www.normattiva.it/eli/id/1888/09/01/088U5645/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-07-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 207 del 1888-09-01"
+codice_redazionale: "088U5645"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-12;5645"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 12 luglio 1888, n. 5645
+
+**Che istituisce in Lucera (Foggia) una scuola di zootecnia e di caseificio.**
+
+*Entrata in vigore del provvedimento: 16/09/1888*
+
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la legge 6 giugno 1885, N. 3141 (Serie 3ª);
+
+Viste le deliberazioni del Consiglio provinciale di Foggia in data 14 novembre 1887 e del Consiglio comunale di Lucera in data 12 novembre e 4 dicembre 1887;
+
+Vista la legge 30 giugno 1888, N. 5482 (Serie 3ª), che approva il bilancio di previsione della spesa per il Ministero di Agricoltura, Industria e Commercio per l'esercizio 1888-89;
+
+Udito il parere del Consiglio per la Istruzione agraria;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Agricoltura, Industria e Commercio;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+E' istituita in Lucera (Foggia) una Scuola di zootecnia e di caseificio, ordinata secondo le prescrizioni della legge 6 giugno 1885, N. 3141.
+
+## Art. 2
+
+Alle spese d'istituzione della Scuola provvede la provincia di Foggia col contributo proprio di L. 9760. Lo Stato contribuisce nella spesa suddetta con la somma di L. 14,640.
+
+## Art. 3
+
+Alle spese d'annuo mantenimento della Scuola provvederanno il Governo nella ragione di 3/5, la provincia di Foggia ed il comune di Lucera nella proporzione di 1/5 per ciascuno.
+
+## Art. 4
+
+Con altro Nostro decreto si provvedera' alla costituzione del Ruolo organico del personale insegnante della scuola.
+
+## Art. 5
+
+Alla spesa per il mantenimento della Scuola per la quota a carico dello Stato, si fara' fronte con i fondi stanziati nel capitolo 12 del bilancio del Ministero di Agricoltura, Industria e Commercio pel corrente esercizio e con quelli corrispondenti degli esercizi successivi.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 luglio 1888.
+
+UMBERTO.
+
+Grimaldi.
+
+Visto, Il Guardasigilli: Zanardelli.

@@ -1,0 +1,70 @@
+---
+title: "REGIO DECRETO 04 maggio 1884, n. MCCCXVI — Che erige in ente morale la scuola elementare della borgata Purcilli del comune di Lemie. (8401316R)"
+identifier: "urn:nir:stato:regio.decreto:1884-05-04;1316"
+eli: "https://www.normattiva.it/eli/id/1884/05/24/8401316R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1884-05-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 125 del 1884-05-24"
+codice_redazionale: "8401316R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-05-04;1316"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 04 maggio 1884, n. MCCCXVI
+
+**Che erige in ente morale la scuola elementare della borgata Purcilli del comune di Lemie. (8401316R)**
+
+*Entrata in vigore del provvedimento: 08/06/1884*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista l'istanza fatta dal consiglio comunale di Lemie, affinche' venga eretta in ente morale a pro' della borgata Purcilli, l'istituzione ivi esistente sino dalla meta' del secolo decorso a scopo d'istruzione;
+
+Veduti tutti gli atti che corredano questa domanda;
+
+Premesso in fatto che nella borgata Purcilli del comune di Lemie esiste dalla meta' del decorso secolo una istituzione che ha per iscopo di provvedere all'istruzione morale e civile degli abitanti della borgata stessa;
+
+Che i capitali inerenti a tale istituzione pervennero da private oblazioni e da volontari contributi degli abitanti di detta borgata e constano di alcuni stabili, e di crediti mutui ipotecari per un valore complessivo di lire 14,146, che vennero sino ad ora amministrati dal comune di Lemie per mezzo degli amministratori pro-tempore dell'opera pia sotto il titolo di S. Giuseppe eletti annualmente dai capi di famiglia della suddetta borgata;
+
+Che detta istituzione non riveste il carattere di opera pia perche' non fondata a pro' della classe indigente, ma della generalita' degli abitanti della frazione e collo scopo di favorire l'istruzione elementare degli abitanti stessi;
+
+Che la maggioranza dei capi di famiglia in detta frazione fece domanda al consiglio comunale e questo annui' di fare istanza per la erezione in corpo morale di detta istituzione per l'anzidetto scopo dell'istruzione elementare mediante l'impianto di una scuola mista nella borgata stessa;
+
+Che il comune ha nel capo luogo una scuola maschile ed una femminile, e non ha per legge obbligo di istituire altra scuola nella borgata Purcilli;
+
+Che il consiglio provinciale scolastico in adunanza del 6 febbraio 1884 ha espresso avviso favorevole all'accoglimento della domanda;
+
+Considerato che in massima, nulla si oppone alla erezione in corpo morale della istituzione suddetta allo scopo di pubblica istruzione elementare a beneficio degli abitanti della frazione Purcilli;
+
+Che il patrimonio della istituzione sembra sufficiente a dar vita ad una scuola mista conformemente allo scopo della prima fondazione ed ai desideri degli attuali capi di famiglia assecondati dal consiglio comunale;
+
+Sentito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+La scuola elementare della borgata Purcilli e' eretta in ente morale.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 maggio 1884.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 20 maggio 1884
+
+Reg. 135. Atti del Governo a f. 151. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli N. FERRACCIU'.
+
+COPPINO.

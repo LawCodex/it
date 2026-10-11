@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 10 giugno 1888, n. MMDCCCCXCIV — Che erige in ente morale l'asilo infantile di Bene Lario (Como) e ne approva lo statuto. (8802994R)"
+identifier: "urn:nir:stato:regio.decreto:1888-06-10;2994"
+eli: "https://www.normattiva.it/eli/id/1888/07/19/8802994R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-06-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 170 del 1888-07-19"
+codice_redazionale: "8802994R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-06-10;2994"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 10 giugno 1888, n. MMDCCCCXCIV
+
+**Che erige in ente morale l'asilo infantile di Bene Lario (Como) e ne approva lo statuto. (8802994R)**
+
+*Entrata in vigore del provvedimento: 03/08/1888*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda presentata dal consiglio di amministrazione dell'asilo infantile di Bene Lario in provincia di Como per ottenere che l'asilo stesso sia eretto in ente morale e ne sia approvato il relativo statuto organico;
+
+Visto lo schema di esso statuto organico compilato dal suddetto consiglio di amministrazione;
+
+Vista la deliberazione della deputazione provinciale di Como 15 settembre 1887;
+
+Vista la legge 3 agosto 1862;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile di Bene Lario e' eretto in ente morale.
+
+## Art. 2
+
+E' approvato il relativo statuto organico in data 1° giugno 1887, composto di sessantacinque articoli con che pero' nell'inciso lettera i dell'art. 38 siano tolte le parole «salvo l'osservanza del disposto degli articoli 23 e 24 della legge 3 agosto 1862» e inserite invece in continuazione dell'art. 62 «Lo statuto stesso sara' indi munito di visto e sottoscritto dal ministro proponente.»
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 giugno 1888.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 30 giugno 1888.
+
+Reg. 163. Atti del Governo a f. 166. Zainy.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+F. CRISPI.

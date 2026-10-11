@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 18 dicembre 1884, n. MDXLI — Col quale e' autorizzata la riforma delle scuole pie Barilari di Montecassiano in un asilo infantile, che viene eretto in corpo morale e ne e' approvato lo statuto. (8401541R)"
+identifier: "urn:nir:stato:regio.decreto:1884-12-18;1541"
+eli: "https://www.normattiva.it/eli/id/1885/01/26/8401541R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1884-12-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 20 del 1885-01-26"
+codice_redazionale: "8401541R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-12-18;1541"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 dicembre 1884, n. MDXLI
+
+**Col quale e' autorizzata la riforma delle scuole pie Barilari di Montecassiano in un asilo infantile, che viene eretto in corpo morale e ne e' approvato lo statuto. (8401541R)**
+
+*Entrata in vigore del provvedimento: 10/02/1885*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Viste le deliberazioni 10 gennaio e 13 maggio 1884 del consiglio comunale di Montecassiano, circa la riforma delle scuole pie istituite dal fu Giuseppe Barilari con testamento del 9 settembre 1832, per fondere un asilo infantile col concorso del comune, nonche' circa la sua erezione in ente morale col nome di Asilo infantile Vittorio Emanuele, e circa l'approvazione del relativo statuto organico;
+
+Viste le relative deliberazioni 4 maggio 1881, 8 marzo e 12 luglio 1882,12 dicembre 1883 e 11 giugno 1884 della deputazione provinciale di Macerata;
+
+Visti il testamento Barilari e lo statuto succitati;
+
+Visti i pareri 29 febbraio e 17 ottobre 1884 del consiglio di Stato;
+
+Vista la legge 3 agosto 1862;
+
+Abbiamo decretato e decretiamo;
+
+## Art. 1
+
+E' approvata la riforma delle scuole pie Barilari in Montecassiano come sopra deliberato da quel consiglio comunale per la fondazione di un asilo infantile, che e' costituito in ente morale, e sara' denominato «Asilo-scuola infantile Vittorio Emanuele».
+
+## Art. 2
+
+E' parimenti approvato lo statuto organico del pio istituto, in data 24 novembre 1884 e composto di numero 18 articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 dicembre 1884.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 9 gennaio 1885
+
+Reg. 140. Atti del Governo a f.7. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli E. Pessina.
+
+Depretis.

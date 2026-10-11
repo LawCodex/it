@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 06 giugno 1878, n. 4407 — Col quale la frazione Casanova e' distaccata dal comune di Bolzaneto ed aggregata a quella di Sant'Olcese (Genova)"
+identifier: "urn:nir:stato:regio.decreto:1878-06-06;4407"
+eli: "https://www.normattiva.it/eli/id/1878/06/25/078U4407/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1878-06-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 148 del 1878-06-25"
+codice_redazionale: "078U4407"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1878-06-06;4407"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 06 giugno 1878, n. 4407
+
+**Col quale la frazione Casanova e' distaccata dal comune di Bolzaneto ed aggregata a quella di Sant'Olcese (Genova)**
+
+*Entrata in vigore del provvedimento: 10/07/1878*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno,
+
+Veduta la domanda presentata dalla maggioranza degli elettori di Casanova, frazione del comune di Bolzaneto, per ottenere che la frazione stessa sia separata dal detto comune, ed aggregata a quello di Sant'Olcese;
+
+Veduta la deliberazione del Consiglio comunale di Sant'Olcese in data 18 febbraio 1877, e quelle del Consiglio comunale di Bolzaneto in data 14 maggio e 22 ottobre 1876;
+
+Veduta la deliberazione del Consiglio provinciale di Genova in data 18 agosto 1876;
+
+Sentito il parere del Consiglio di Stato;
+
+Veduto l'articolo 15, paragrafo 2, della legge 20 marzo 1865 allegato A;
+
+Veduta la legge 29 giugno 1875, numero 2612,
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+A cominciare dal 1° settembre 1878 la frazione Casanova e' distaccata dal comune di Bolzaneto ed aggregata a quello di Sant'Olcese.
+
+## Art. 2
+
+I confini dei due comuni sono rispettivamente diminuiti ed aumentati della porzione di territorio risultante dalla pianta topografica redatta dall'ingegnere Carlo Canavese in data 4 ottobre 1877, che sara' d'ordine Nostro vidimata dal Ministro proponente.
+
+## Art. 3
+
+Fino alla costituzione dei nuovi Consigli comunali di Bolzaneto e Sant'Olcese, alla quale si procedera' entro il mese di agosto prossimo venturo in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge 20 marzo 1865, allegato A, le attuali rappresentanze dei due comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 giugno 1878.
+
+UMBERTO.
+
+G. Zanardelli.

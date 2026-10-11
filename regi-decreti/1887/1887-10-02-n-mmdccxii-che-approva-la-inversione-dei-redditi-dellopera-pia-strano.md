@@ -1,0 +1,66 @@
+---
+title: "REGIO DECRETO 02 ottobre 1887, n. MMDCCXII — Che approva la inversione dei redditi dell'opera pia Strano a favore dell'asilo di infanzia del comune di Acicatena (Catania), e lo erige in corpo morale. (8702712R)"
+identifier: "urn:nir:stato:regio.decreto:1887-10-02;2712"
+eli: "https://www.normattiva.it/eli/id/1887/10/28/8702712R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-10-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 254 del 1887-10-28"
+codice_redazionale: "8702712R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-10-02;2712"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 02 ottobre 1887, n. MMDCCXII
+
+**Che approva la inversione dei redditi dell'opera pia Strano a favore dell'asilo di infanzia del comune di Acicatena (Catania), e lo erige in corpo morale. (8702712R)**
+
+*Entrata in vigore del provvedimento: 12/11/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista l'istanza a Noi prodotta dal sindaco del comune di Acicatena in data del 28 giugno 1887 diretta ad ottenere la inversione dei redditi della pia opera Strano a favore del locale asilo di Infanzia, gia' istituito, ma non peranco attivato per mancanza di mezzi, e la costituzione di una commissione speciale per l'amministrazione dei redditi stessi;
+
+Viste le deliberazioni analogamente prese dal consiglio comunale di Acicatena nelle tornate del 16 giugno e 28 dicembre 1886 per promuovere l'anzidetta riforma;
+
+Visti gli atti di fondazione dell'opera pia Strano, destinata ad elemosine a favore dei poveri di quella parrocchia di Santa Lucia, a doti di maritaggio ed a scopo d'istruzione, nonche' i documenti prodotti a corredo, e ritenuta la convenienza di far luogo alla divisata inversione allo scopo di dare alle beneficenze dell'opera pia medesima una destinazione ed un'amministrazione piu' conformi agl'intendimenti filantropici del fondatore e piu' rispondenti alle mutate esigenze dei tempi;
+
+Ritenuto che l'asilo d'infanzia del comune di Acicatena, col reddito di annue lire 2,800 circa della fondazione Strano viene ad essere provvisto di mezzi sufficienti al normale suo esercizio;
+
+Veduta la deliberazione 28 luglio 1887 della deputazione provinciale di Catania;
+
+Visti gli articoli 23, 24 e 25 della legge 3 agosto 1862, n. 753, sulle opere pie;
+
+Visto il parere favorevole del consiglio di Stato in data 17 settembre 1887;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+E' approvata la inversione dei redditi dell'opera pia Strano a favore dell'asilo di infanzia del comune di Acicatena.
+
+## Art. 2
+
+L'asilo stesso e' eretto in corpo morale, e sara' amministrato da una commissione composta dal sindaco, dal presidente della congregazione di carita' di Acicatena, e da un terzo membro da nominarsi dal consiglio comunale fra persone idonee, colle norme che dovranno essere sancite in apposito statuto organico da sottoporsi entro breve termine alla Nostra approvazione.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 2 ottobre 1887.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 15 ottobre 1887.
+
+Reg. 159. Atti del Governo a. f. 191. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli. G. ZANARDELLI.
+
+CRISPI.

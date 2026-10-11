@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 21 maggio 1882, n. DLVIII — Che erige in corpo morale il pio istituto professionale Gonzaga fondato in Bologna e ne approva lo statuto. (8200558R)"
+identifier: "urn:nir:stato:regio.decreto:1882-05-21;558"
+eli: "https://www.normattiva.it/eli/id/1882/07/15/8200558R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1882-05-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 165 del 1882-07-15"
+codice_redazionale: "8200558R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-05-21;558"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 21 maggio 1882, n. DLVIII
+
+**Che erige in corpo morale il pio istituto professionale Gonzaga fondato in Bologna e ne approva lo statuto. (8200558R)**
+
+*Entrata in vigore del provvedimento: 30/07/1882*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RR D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduto il testamento olografo in data 14 settembre 1876, con cui il fu dottor Romualdo Gonzaga, premessi alcuni legati a favore dei propri parenti, istitui' erede universale delle sue sostanze producenti la rendita di oltre lire 2000, un'opera di beneficenza da fondarsi in Bologna col titolo di istituto professionale Gonzaga, allo scopo di istruire ed educare fanciulle povere nate nel comune medesimo;
+
+Veduta la domanda degli amministratori del pio istituto per il suo riconoscimento giuridico e per l'autorizzazione ad accettare la eredita' predetta;
+
+Veduto lo statuto organico per l'erigendo istituto dagli amministratori stessi compilato e trasmesso alla nostra approvazione;
+
+Veduta la corrispondente deliberazione della deputazione provinciale;
+
+Vedute le leggi 3 agosto 1862 sulle opere pie, e 5 giugno 1850 sulla capacita' di acquistare dei corpi morali, nonche' il regolamento 27 novembre 1862 per l'esecuzione della precitata legge sulle opere pie;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Il pio istituto professionale Gonzaga in Bologna istituito dal fu dottore Romualdo Gonzaga e' eretto in ente morale, ed e' autorizzato ad accettare la eredita' disposta in suo favore col testamento 14 settembre 1876 succitato.
+
+## Art. 2
+
+E' approvato lo statuto organico del pio istituto stesso in data 27 marzo 1882, composto di venti, articoli, visto e sottoscritto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 maggio 1882.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 1 giugno 1882.
+
+Reg. 120 Atti del Governo a f 96. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.
+
+Depretis.

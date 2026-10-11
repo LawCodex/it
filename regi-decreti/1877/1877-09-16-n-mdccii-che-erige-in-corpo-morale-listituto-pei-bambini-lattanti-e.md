@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 16 settembre 1877, n. MDCCII — Che erige in corpo morale l'Istituto pei bambini lattanti e slattati esistente a Cremona, ed approva lo statuto organico di quel pio luogo. (7701702R)"
+identifier: "urn:nir:stato:regio.decreto:1877-09-16;1702"
+eli: "https://www.normattiva.it/eli/id/1877/10/12/7701702R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1877-09-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 239 del 1877-10-12"
+codice_redazionale: "7701702R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1877-09-16;1702"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 16 settembre 1877, n. MDCCII
+
+**Che erige in corpo morale l'Istituto pei bambini lattanti e slattati esistente a Cremona, ed approva lo statuto organico di quel pio luogo. (7701702R)**
+
+*Entrata in vigore del provvedimento: 27/10/1877*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno;
+
+Veduta la domanda del consiglio d'amministrazione dell'istituto pei bambini lattanti e slattati in Cremona in data 20 marzo, anno corrente, diretta a conseguire la costituzione in corpo morale del luogo pio, e l'approvazione, del relativo statuto organico;
+
+Veduto il voto della deputazione provinciale in data del 29 detto mese;
+
+Veduta la legge 3 agosto 1862 sulle opere pie, ed il relativo regolamento del 27 novembre successivo;
+
+Sentito il parere del consiglio di Stato in adunanza del 29 agosto p. p.;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' costituito in corpo morale l' istituto pei bambini lattanti e slattati esistente nella citta' di Cremona, ed e' approvato lo statuto organico del medesimo pio luogo in data 6 luglio ultimo scorso, composto di trentuno articoli, che sara' visto e sottoscritto dal nostro ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Pollenzo addi' 16 settembre 1877.
+
+VITTORIO EMANUELE.
+
+Registrato alla Corte dei Conti addi' 5 ottobre 1877
+
+Reg. 92 Atti del Governo a f. 117. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli MANCINI.
+
+G. NICOTERA.

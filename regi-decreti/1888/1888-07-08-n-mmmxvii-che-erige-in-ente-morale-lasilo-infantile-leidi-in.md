@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 08 luglio 1888, n. MMMXVII — Che erige in ente morale l'asilo infantile Leidi in Rivanazzano (Pavia) e ne approva lo statuto. (8803017R)"
+identifier: "urn:nir:stato:regio.decreto:1888-07-08;3017"
+eli: "https://www.normattiva.it/eli/id/1888/08/10/8803017R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-07-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 189 del 1888-08-10"
+codice_redazionale: "8803017R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-08;3017"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 08 luglio 1888, n. MMMXVII
+
+**Che erige in ente morale l'asilo infantile Leidi in Rivanazzano (Pavia) e ne approva lo statuto. (8803017R)**
+
+*Entrata in vigore del provvedimento: 25/08/1888*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda dell'arciprete Alberto Leidi per la costituzione in ente morale dell'asilo infantile da lui fondato in Rivanazzano (Pavia) col concorso di un comitato locale e per l'approvazione del relativo statuto organico;
+
+Visti gli atti relativi alla domanda dai quali risulta che per il mantenimento del predetto asilo concorre una societa' di benefattori col n. di 987 azioni quinquennali da lire 2 caduna, e si ha inoltre disponibile la somma di lire 952,20 raccolta per private offerte, la rendita annua di lire 500 offerta dal suddetto fondatore, oltre un tratto di terreno dell'estensione di are 32.74 che lo stesso fondatore si e' obbligato di donare al pio istituto non appena sia riconosciuto in ente morale;
+
+Vista la deliberazione della deputazione provinciale in data 7 giugno 1886.
+
+Vista la legge 3 agosto 1862 sulle opere pie;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile come sopra fondato nel comune di Rivanazzano e' costituito in ente morale.
+
+## Art. 2
+
+E' approvato lo statuto organico dello stesso asilo deliberato dal comitato dello istituto medesimo in seduta del 7 luglio 1886, composto di ventisei articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 luglio 1888.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 19 luglio 1883.
+
+Reg 164. Atti del Governo a f. 17. Zainy.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+F. CRISPI.

@@ -1,0 +1,66 @@
+---
+title: "REGIO DECRETO 30 marzo 1882, n. DXIII — Che costituisce in corpo morale l'asilo infantile di Viola (Cuneo) e ne approva lo statuto. (8200513R)"
+identifier: "urn:nir:stato:regio.decreto:1882-03-30;513"
+eli: "https://www.normattiva.it/eli/id/1882/05/17/8200513R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1882-03-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 117 del 1882-05-17"
+codice_redazionale: "8200513R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-03-30;513"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 30 marzo 1882, n. DXIII
+
+**Che costituisce in corpo morale l'asilo infantile di Viola (Cuneo) e ne approva lo statuto. (8200513R)**
+
+*Entrata in vigore del provvedimento: 01/06/1882*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposizione del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vedute le testamentarie disposizioni 5 aprile 1873 e 3 settembre 1877 colle quali il fu canonico Vincenzo Bovetti legava tutti i suoi capitali, censi, crediti ipotecari e chirografari e una casa per la fondazione di un asilo infantile nel comune di Viola (Cuneo);
+
+Veduto che il capitale complessivo lasciato all'asilo suddetto ascende a L. 40.149,35;
+
+Veduta la domanda dell'amministrazione stabilita dal fondatore colla quale si chiede la costituzione in ente morale di quel pio istituto;
+
+Vedutone lo statuto organico presentato da essa amministrazione;
+
+Veduto il voto della deputazione provinciale;
+
+Sentito il consiglio di Stato;
+
+Veduti le leggi 5 giugno 1850, 3 agosto 1862 e il corrispondente regolamento 27 novembre stesso anno;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile fondato in Viola (Cuneo) col citato testamento e' costituito in ente morale sotto l'amministrazione stabilita dal fondatore, ed e' autorizzato ad accettare la sostanza dal medesimo disposta come sopra.
+
+## Art. 2
+
+E' approvato il rispettivo statuto organico portante la data del 24 febbraio 1882, composto di diciannove articoli, visto e sottoscritto d'ordine nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 marzo 1882.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 17 aprile 1882
+
+Reg.° 119 Atti del Governo a f. 101. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.
+
+Depretis.

@@ -1,0 +1,52 @@
+---
+title: "REGIO DECRETO 10 dicembre 1865, n. 2679 — Col quale le frazioni di Gavoseto, Cenacchio e Maccaretola sono congiunte al Comune di S. Pietro in Casale."
+identifier: "urn:nir:stato:regio.decreto:1865-12-10;2679"
+eli: "https://www.normattiva.it/eli/id/1865/12/29/065U2679/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1865-12-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 336 del 1865-12-29"
+codice_redazionale: "065U2679"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-10;2679"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 10 dicembre 1865, n. 2679
+
+**Col quale le frazioni di Gavoseto, Cenacchio e Maccaretola sono congiunte al Comune di S. Pietro in Casale.**
+
+*Entrata in vigore del provvedimento: 13/01/1866*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto l'art. 15 della Legge comunale e provinciale de' 20 marzo 1865;
+
+Viste le deliberazioni del Consiglio comunale di S. Pietro in Casale dei 24 marzo 1862 e di Malalbergo de' 17 aprile 1862, non che quella del Consiglio provinciale di Bologna dei 19 luglio del medesimo anno;
+
+Sulla proposta del Nostro Ministro dell'Interno;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Dal 1.° gennaio 1866 le tre frazioni di Gavoseto, Cenacchio e Maccaretola, cessando di appartenere al Comune di Malalbergo, faranno parte del Comune di S. Pietro in Casale.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 10 dicembre 1865.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 21 dicembre 1865
+
+Reg.° 34 Atti del Governo a c. 147. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli Cortese.
+
+Natoli.

@@ -1,0 +1,52 @@
+---
+title: "REGIO DECRETO 18 dicembre 1867, n. MDCCCCLXV — Che determina il numero e la larghezza delle zone soggette a servitu' militare da applicarsi alle proprieta' fondiarie adiacenti alle opere di fortificazione della costa orientale del Golfo di Spezia. (6701965R)"
+identifier: "urn:nir:stato:regio.decreto:1867-12-18;1965"
+eli: "https://www.normattiva.it/eli/id/1868/01/19/6701965R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1867-12-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 18 del 1868-01-19"
+codice_redazionale: "6701965R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-12-18;1965"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 dicembre 1867, n. MDCCCCLXV
+
+**Che determina il numero e la larghezza delle zone soggette a servitu' militare da applicarsi alle proprieta' fondiarie adiacenti alle opere di fortificazione della costa orientale del Golfo di Spezia. (6701965R)**
+
+*Entrata in vigore del provvedimento: 03/02/1868*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la Legge 19 ottobre 1859, sulle servitu' militari;
+
+Visto il Decreto 22 dicembre 1861, portante l'approvazione del Regolamento per l'esecuzione della Legge precitata;
+
+Sulla proposta del Nostro Ministro della Guerra;
+
+Abbiamo decretato e decretiamo quanto segue:
+
+## Articolo unico
+
+Il numero e la larghezza delle zone da applicarsi alle proprieta' fondiarie adiacenti alle opere di fortificazione della costa orientale del Golfo di Spezia, vengono determinati, entro i limiti stabiliti colla Legge succitata, dal piano annesso al presente, firmato d'ordine Nostro Ministro della Guerra.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 18 dicembre 1867.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 27 dicembre 1867
+
+Reg. 41 Atti del Governo a c. 218. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli A. Mari.
+
+Bertole-Viale.

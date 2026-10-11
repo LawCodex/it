@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 16 giugno 1887, n. MMDLXXXVII — Regio Decreto che autorizza il comune di Arboro (Novara) di accettare per conto del locale asilo infantile la donazione fatta da don Eusebio Francese, lo erige in corpo morale e ne approva lo statuto. (8702587R)"
+identifier: "urn:nir:stato:regio.decreto:1887-06-16;2587"
+eli: "https://www.normattiva.it/eli/id/1887/07/04/8702587R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-06-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 154 del 1887-07-04"
+codice_redazionale: "8702587R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-06-16;2587"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 16 giugno 1887, n. MMDLXXXVII
+
+**Regio Decreto che autorizza il comune di Arboro (Novara) di accettare per conto del locale asilo infantile la donazione fatta da don Eusebio Francese, lo erige in corpo morale e ne approva lo statuto. (8702587R)**
+
+*Entrata in vigore del provvedimento: 19/07/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno;
+
+Veduto l'atto pubblico 20 novembre 1884, con cui il signor don Eusebio Francese donava al comune di Arboro un fabbricato del valore di L. 40 mila, nonche' il mobilio in quello compreso pel valore di lire 3 mila con obbligo di fondare in modo stabile e definitivo un asilo infantile;
+
+Veduta la domanda del municipio di Arboro per essere autorizzato ad accettare la suddetta donazione e perche' l'asilo infantile sia eretto in corpo morale;
+
+Veduto lo statuto organico per il detto asilo deliberato dal consiglio comunale di Arboro e presentato per la Nostra approvazione;
+
+Vedute le rispettive deliberazioni 22 dicembre 1884 e 27 aprile 1887 della deputazione provinciale di Novara;
+
+Vedute le leggi 3 agosto 1862 sulle opere pie e 5 giugno 1850 sulla capacita' di acquistare dei corpi morali;
+
+Sentito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Il municipio di Arboro e' autorizzato ad accettare la donazione fatta col suddetto atto pubblico 20 novembre 1884 dal signor don Eusebio Francese, per conto del locale asilo infantile, il quale viene eretto in corpo morale.
+
+## Art. 2
+
+E' approvato lo statuto organico del predetto asilo infantile deliberato dal consiglio comunale di Arboro in adunanza del 14 novembre 1886 composto di diciannove articoli, visto e sottoscritto dal Nostro ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 giugno 1887.
+
+UMBERTO
+
+Registrato alla Corte dei Conti addi' 21 giugno 1887.
+
+Reg. 157. Atti del Governo a. f. 106. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli. G. ZANARDELLI.
+
+CRISPI.

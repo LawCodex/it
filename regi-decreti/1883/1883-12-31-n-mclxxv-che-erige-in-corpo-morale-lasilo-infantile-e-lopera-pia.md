@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 31 dicembre 1883, n. MCLXXV — Che erige in corpo morale l'asilo infantile e l'opera pia Perodo nel comune di Condove (Torino) e ne approva gli statuti. (8301175R)"
+identifier: "urn:nir:stato:regio.decreto:1883-12-31;1175"
+eli: "https://www.normattiva.it/eli/id/1884/02/25/8301175R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1883-12-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 47 del 1884-02-25"
+codice_redazionale: "8301175R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-12-31;1175"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 31 dicembre 1883, n. MCLXXV
+
+**Che erige in corpo morale l'asilo infantile e l'opera pia Perodo nel comune di Condove (Torino) e ne approva gli statuti. (8301175R)**
+
+*Entrata in vigore del provvedimento: 11/03/1884*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduto il regio decreto in data 30 luglio 1882 col quale la congregazione di carita' di Condove (Torino) e' stata autorizzata ad accettare l'eredita' disposta dal fu comm. avv. Angelo Perodo con testamenti olografi 14 marzo 1880 e 16 gennaio 1882 coll'obbligo di fondare un asilo infantile nonche' una istituzione avente per scopo di soccorrere con sussidii e pensioni giovani e giovanette discendenti dalla famiglia di esso testatore e nativi del villaggio di Condove, i quali mostrino disposizione agli studi e manchino di mezzi per potervisi applicare;
+
+Veduta la domanda presentata dalla suddetta congregazione di carita' perche' siano costituite in corpo morale le suddette due opere pie ed approvati i relativi statuti organici;
+
+Considerando che il secondo alinea dell'articolo 8 dello statuto organico dell'opera pia Perodo e' contrario a quanto dispone l'articolo 7 della legge sulle opere pie per cui deve eliminarsi.
+
+Veduta la corrispondente deliberazione della deputazione provinciale di Torino in data 8 novembre ultimo scorso;
+
+Veduta la legge 3 agosto 1862;
+
+Udito l'avviso del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Sono eretti in corpo morale l'asilo infantile e l'opera pia Perodo fondate come sopra nel comune di Condove (Torino) ed eliminato l'alinea dell'art. 8 di quest'ultima opera pia, sono approvati i predetti statuti portanti la data il 1.° del 20 dicembre 1882 e composto di 9 articoli, il 2.° del 7 ottobre 1883 e composto di 22 articoli.
+
+Gli statuti medesimi saranno muniti del visto e sottoscritti d'ordine Nostro dal ministro dell'interno.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 dicembre 1883.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 17 gennaio 1884
+
+Reg. 132 Atti del Governo a f. 124. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli SAVELLI.
+
+DEPRETIS.

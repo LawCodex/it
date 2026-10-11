@@ -1,0 +1,66 @@
+---
+title: "REGIO DECRETO 13 febbraio 1881, n. LXII — Che erige in corpo morale l'asilo delle pericolanti fondato in Verona dal sacerdote Giulio Giori. (8100062R)"
+identifier: "urn:nir:stato:regio.decreto:1881-02-13;62"
+eli: "https://www.normattiva.it/eli/id/1881/04/06/8100062R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1881-02-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 80 del 1881-04-06"
+codice_redazionale: "8100062R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-02-13;62"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 13 febbraio 1881, n. LXII
+
+**Che erige in corpo morale l'asilo delle pericolanti fondato in Verona dal sacerdote Giulio Giori. (8100062R)**
+
+*Entrata in vigore del provvedimento: 21/04/1881*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato, per gli affari dell'interno;
+
+Vista l'istanza, in data 26 aprile 1880 del sacerdote Giulio Giori, fondatore ed amministratore dell'asilo delle pericolanti a S.
+
+Silvestro nella citta' di Verona, per la erezione in corpo morale del pio luogo, e per la dispensa ad esso fondatore dagli obblighi e dalle formalita' prescritte dalla legge 3 agosto 1862 sulle opere pie, finche' ne tenga personalmente l'amministrazione;
+
+Vista la relativa deliberazione della deputazione provinciale in data 22 novembre 1880;
+
+Visto che l'erigendo istituto ha gia' un patrimonio di lire 50,000 ed e' sufficientemente soccorso dalla carita' cittadina;
+
+Vista la citata legge sulle opere pie;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo delle pericolanti fondato dal sacerdote Giulio Giori a S.
+
+Silvestro nella citta' di Verona e' eretto in corpo morale.
+
+## Art. 2
+
+Il predetto sacerdote Giori e' dispensato dagli obblighi e dalle formalita' prescritte dalla legge sulle opere pie, finche' ritenga personalmente l'amministrazione del mentovato istituto.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 febbraio 1881.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 6 marzo 1881
+
+Reg. 112 Atti del Governo a f 135. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli. T. Villa.
+
+Depretis.

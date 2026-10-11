@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 18 febbraio 1866, n. MDCCXIX — Col quale sono approvati alcuni articoli in aggiunta e modificazione dello statuto organico dell'Accademia delle Stanze in Lucca. (6601719R)"
+identifier: "urn:nir:stato:regio.decreto:1866-02-18;1719"
+eli: "https://www.normattiva.it/eli/id/1866/03/08/6601719R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1866-02-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 67 del 1866-03-08"
+codice_redazionale: "6601719R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-02-18;1719"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 18 febbraio 1866, n. MDCCXIX
+
+**Col quale sono approvati alcuni articoli in aggiunta e modificazione dello statuto organico dell'Accademia delle Stanze in Lucca. (6601719R)**
+
+*Entrata in vigore del provvedimento: 23/03/1866*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione dei Soci dell'Accademia delle Stanze in Lucca in data del 20 gennaio 1865 per modificazione allo Statuto organico di essa Accademia approvato con Decreto Ducale del 19 luglio 1843;
+
+Avuto il parere del Consiglio di Stato;
+
+Sovra proposta del Ministro dell'Interno;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+In aggiunta e modificazione dello Statuto organico dell'Accademia delle Stanze in Lucca sono approvati i seguenti articoli cosi' proposti dai soci dell'Accademia:
+
+« 1.° Tutte le volte che si fara' luogo alla convocazione dell'Accademia per gli effetti di cui all'art. 13 degli Statuti, e tutte le volte che il Console riconoscera' il bisogno di doverla convocare, se al primo invito non si otterra' il numero legale, quei soci che si congregheranno sul secondo invito potranno legalmente e validamente deliberare e decretare su qualunque materia, purche' trovinsi riuniti in numero non minore di diciassette, oltre il Console, od uno dei Consiglieri, e le deliberazioni e i decreti avranno forza obbligatoria anco a riguardo dei non presenti. Il secondo invito dovra' contenere la indicazione di secondo nel quale sara' espresso l'oggetto dell'adunanza.
+
+2.° Se al primo invito non potra' legalmente adunarsi il Consiglio amministrativo per mancanza del numero legale, sia per trattare di affari ordinari, sia per l'ammissione a conferma degli intervenienti, e squittinio di candidati per essere ammessi come soci al secondo invito, potranno legalmente deliberare, confermare, ammettere e squittinare quei componenti il Consiglio, che si troveranno presenti purche' in numero non minore di cinque, oltre il Console ed uno dei Consiglieri, e i partiti saranno sempre vinti ai due terzi dei voti affermativi, quantunque si tratti di ammissione d'intervenienti, o di conferma, o di squittinio. Il secondo invito dovra' contenere l'indicazione di secondo.
+
+3.° Sara' in facolta' del Corpo Accademico d'imporre ai singoli soci, anno per anno, una tassa non maggiore di lire trenta italiane, la corresponsione della quale potra' essere repartita in quelle rate che il Corpo stesso reputera' conveniente, e una tale tassa dovra' essere unicamente imposta per dimettere le passivita' attuali.
+
+4.° Soggiaceranno all'obbligo della corresponsione della tassa preaccennata anche i soci che non intervennero all'adunanza nella quale fu decretata. Vi soggiaceranno pure i rappresentanti di quei soci, che per morte avessero cessato di essere tali, secondo che dispone l'art. 7 degli Statuti accademici.
+
+5.° Il partito per decretare la imposta rimarra' vinto con la maggiorita' dei voti affermativi dei congregati.»
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 18 febbraio 1866.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 28 febbraio 1866
+
+Reg. 35 Atti del Governo a c. 113. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli De Falco.
+
+Chiaves.

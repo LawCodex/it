@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 03 novembre 1888, n. MMMCXXXIV — Che erige in corpo morale l'asilo infantile in Vandorno, frazione del comune di Biella e ne approva lo statuto. (8803134R)"
+identifier: "urn:nir:stato:regio.decreto:1888-11-03;3134"
+eli: "https://www.normattiva.it/eli/id/1888/12/01/8803134R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1888-11-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 283 del 1888-12-01"
+codice_redazionale: "8803134R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-11-03;3134"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 03 novembre 1888, n. MMMCXXXIV
+
+**Che erige in corpo morale l'asilo infantile in Vandorno, frazione del comune di Biella e ne approva lo statuto. (8803134R)**
+
+*Entrata in vigore del provvedimento: 16/12/1888*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda dell'amministrazione dell'asilo infantile esistente in Vandorno, frazione del comune di Biella, per ottenere l'erezione in corpo morale del pio istituto e l'approvazione del corrispondente statuto organico;
+
+Visto detto statuto organico;
+
+Viste le deliberazioni 12 ottobre, 28 novembre 1887 e 29 febbraio 1888 della deputazione provinciale di Novara;
+
+Visti gli altri atti relativi all'affare e ritenuto che l'asilo infantile possiede alcuni capitali fruttiferi, il cui reddito ammonta in complesso a lire 228; e dispone inoltre delle rette mensili poste a carico dei fanciulli non poveri, formando un bilancio annuo di lire 1849;
+
+Vista la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile esistente in Vandorno, frazione del comune di Biella, e' eretto in corpo morale.
+
+## Art. 2
+
+E' approvato il suo statuto organico in data 23 agosto 1888 composto di ventiquattro articoli e sara' munito di visto e sottoscritto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 3 novembre 1888.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 16 novembre 1888.
+
+Reg. 166. Atti del Governo a f. 14. Mazzucchelli.
+
+Luogo del Sigillo. V. il Guardasigilli G. Zanardelli.
+
+F. CRISPI.

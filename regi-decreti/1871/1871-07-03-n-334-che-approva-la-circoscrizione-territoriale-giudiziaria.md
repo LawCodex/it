@@ -1,0 +1,78 @@
+---
+title: "REGIO DECRETO 03 luglio 1871, n. 334 — Che approva la circoscrizione territoriale giudiziaria delle Provincie della Venezia di Mantova."
+identifier: "urn:nir:stato:regio.decreto:1871-07-03;334"
+eli: "https://www.normattiva.it/eli/id/1871/07/15/071U0334/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1871-07-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 191 del 1871-07-15"
+codice_redazionale: "071U0334"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-07-03;334"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 03 luglio 1871, n. 334
+
+**Che approva la circoscrizione territoriale giudiziaria delle Provincie della Venezia di Mantova.**
+
+*Entrata in vigore del provvedimento: 30/07/1871 Le Tabelle annesse al provvedimento sono state pubblicate successivamente in GU n. 192 del 16-07-1871.*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la Legge del 26 marzo 1871, n. 129 (Serie 2ª), con la quale il Governo del Re fu autorizzato a fare la circoscrizione dei Tribunali e delle Preture, le disposizioni transitorie, e quelle altre che sieno necessarie per la completa attuazione dei Codici e delle Leggi estese alle Provincie della Venezia e di Mantova, aggregate al Regno d'Italia colla Legge del 18 luglio 1867, n. 3841;
+
+Udito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Il numero, le sedi e le circoscrizioni territoriali dei Circoli per le Corti di Assise, dei Tribunali civili e correzionali, del Tribunale di commercio, delle Preture, e delle Preture urbane nelle Provincie della Venezia e di Mantova, aggregate al Regno d'Italia colla Legge del 18 luglio 1867, n. 3841, sono determinati in conformita' delle Tabelle annesse al presente Decreto, viste d'ordine Nostro dal Ministro di Grazia e Giustizia e dei Culti.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma addi' 3 luglio 1871.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 11 luglio 1871
+
+Reg.55 Atti del Governo a c.131. Crodara Visconti.
+
+Luogo del sigillo. V. Il Guardasigilli Da Falco.
+
+G. De Falco.
+
+(\*) Le tabelle saranno pubblicate nel numero di domani.
+
+## Allegati
+
+## Tabelle
+
+TABELLA A. - Circoscrizione dei Tribunali civili e correzionali e delle Preture.
+
+(Vedi il Regio decreto numero 331, pubblicato nella Gazzetta di ieri)
+
+Parte di provvedimento in formato grafico
+
+TABELLA B. - Circoli delle Corti d'assise.
+
+Parte di provvedimento in formato grafico
+
+TABELLA C. - Tribunale di commercio.
+
+Parte di provvedimento in formato grafico
+
+TABELLA D. - Preture urbane.
+
+Parte di provvedimento in formato grafico
+
+(Tabelle pubblicate in G.U. n. 192 del 16/07/1871)

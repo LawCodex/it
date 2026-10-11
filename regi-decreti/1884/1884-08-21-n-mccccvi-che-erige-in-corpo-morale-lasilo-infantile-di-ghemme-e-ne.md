@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 21 agosto 1884, n. MCCCCVI — Che erige in corpo morale l'asilo infantile di Ghemme, e ne approva lo statuto. (8401406R)"
+identifier: "urn:nir:stato:regio.decreto:1884-08-21;1406"
+eli: "https://www.normattiva.it/eli/id/1884/10/09/8401406R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1884-08-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 250 del 1884-10-09"
+codice_redazionale: "8401406R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-08-21;1406"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 21 agosto 1884, n. MCCCCVI
+
+**Che erige in corpo morale l'asilo infantile di Ghemme, e ne approva lo statuto. (8401406R)**
+
+*Entrata in vigore del provvedimento: 24/10/1884*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda del consiglio comunale di Ghemme (Novara) diretta ad ottenere la costituzione in ente morale di quell'asilo infantile e l'approvazione del suo statuto organico;
+
+Considerato, che il pio istituto fondato a cura di quel comune e col concorso di azionisti e' provvisto di mezzi sufficienti per la sua esistenza e che lo statuto e' compilato in conformita' delle norme vigenti sulla materia;
+
+Veduto il voto della deputazione provinciale emesso in seduta del 2 luglio ultimo scorso;
+
+Veduta la legge 3 agosto 1862 e relativo regolamento 27 novembre stesso anno;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'asilo infantile di Ghetrirne (Novara) e' eretto in in corpo morale, ed e' approvato il suo statuto organico, composto di trentasette articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Statti, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a S. Anna di Valdieri, addi' 21 agosto 1884.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 11 settembre 1884
+
+Reg.137. Atti del Governo a f. 168. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli N. FERRACCIU'.
+
+DEPRETIS.

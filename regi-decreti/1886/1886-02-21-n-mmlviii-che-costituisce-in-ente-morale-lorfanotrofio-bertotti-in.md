@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 21 febbraio 1886, n. MMLVIII — Che costituisce in ente morale l'orfanotrofio Bertotti in Oleggio, e ne approva lo statuto. (8602058R)"
+identifier: "urn:nir:stato:regio.decreto:1886-02-21;2058"
+eli: "https://www.normattiva.it/eli/id/1886/03/20/8602058R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1886-02-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 66 del 1886-03-20"
+codice_redazionale: "8602058R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-02-21;2058"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 21 febbraio 1886, n. MMLVIII
+
+**Che costituisce in ente morale l'orfanotrofio Bertotti in Oleggio, e ne approva lo statuto. (8602058R)**
+
+*Entrata in vigore del provvedimento: 04/04/1886*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista l'istituzione 6 gennaio 1886 con cui il M. R. sacerdote don Giovanni Bertotti, arciprete del comune di Oleggio nella sua qualita' di fondatore ed amministratore dell'orfanotrofio esistente in detto comune, per ricovero di figli orfani, abbandonati o malamente assistiti da genitori o parenti, chiede la erezione in ente morale di quella pia istituzione e l'approvazione dello statuto organico della stessa da lui compilata;
+
+Visto l'istrumento in data 20 dicembre 1885, nei rogiti Cavagliano, con cui il sacerdote Bertotti fece all'istituto predetto donazione di beni mobili ed immobili per un valore patrimoniale di L. 26,000 (ventiseimila) allo scopo di assicurare allo stesso istituto una stabile e duratura esistenza;
+
+Visto il disegno dello statuto organico suddetto presentato alla Nostra approvazione, e portante la data 6 gennaio 1886, col quale sono stabilite le norme secondo cui dovra' reggersi l'orfanotrofio che dal nome del fondatore si intitola;
+
+Vista la deliberazione 14 gennaio 1886 della deputazione provinciale di Novara;
+
+Vista la legge 3 agosto 1862, n. 753 sulle opere pie, nonche' il regolamento 27 novembre 1862 per l'esecuzione di essa;
+
+Udito il consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'orfanotrofio Bertotti del comune di Oleggio e' eretto in ente morale, ed e' approvato lo statuto organico di esso, compilato dal fondatore in data 6 gennaio 1886, composto di diciasette articoli, visto e sottoscritto d'ordine Nostro dal Nostro ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 febbraio 1886.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 5 marzo 1886.
+
+Reg. 148. Atti del Governo a f. 43. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli D. TAJANI.
+
+DEPRETIS.

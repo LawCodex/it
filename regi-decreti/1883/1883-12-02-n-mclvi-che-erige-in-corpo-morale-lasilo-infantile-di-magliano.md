@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 02 dicembre 1883, n. MCLVI — Che erige in corpo morale l'asilo infantile di Magliano Sottano nel comune di Magliano Alpi e ne approva lo statuto. (8301156R)"
+identifier: "urn:nir:stato:regio.decreto:1883-12-02;1156"
+eli: "https://www.normattiva.it/eli/id/1883/12/29/8301156R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1883-12-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 304 del 1883-12-29"
+codice_redazionale: "8301156R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-12-02;1156"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 02 dicembre 1883, n. MCLVI
+
+**Che erige in corpo morale l'asilo infantile di Magliano Sottano nel comune di Magliano Alpi e ne approva lo statuto. (8301156R)**
+
+*Entrata in vigore del provvedimento: 13/01/1884*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda diretta ad ottenere l'erezione in ente morale e l'approvazione dello statuto organico dell'asilo infantile della frazione di Magliano Sottano nel comune di Magliano Alpi, provincia di Cuneo;
+
+Visto lo statuto prementovato;
+
+Viste le deliberazioni colle quali in data del 15 giugno ed 8 ottobre prossimo passato la deputazione provinciale, nella sfera della sua competenza emise parere favorevole sia per l'erezione in ente morale che per l'approvazione dello statuto;
+
+Vista la legge 3 agosto 1862 ed il regolamento 27 novembre dello stesso anno;
+
+Sentito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' eretto in ente morale l'asilo infantile di Magliano Sottano in comune di Magliano Alpi (Cuneo) e ne e' approvato lo statuto organico in data 16 settembre prossimo passato composto di 24 articoli che sara' vistato e sottoscritto dal Nostro ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 dicembre 1883.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 14 dicembre 1883
+
+Reg. 132 Atti del Governo a f. 14. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli SAVELLI.
+
+Depretis

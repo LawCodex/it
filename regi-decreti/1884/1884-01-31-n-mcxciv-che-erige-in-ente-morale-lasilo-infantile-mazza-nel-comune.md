@@ -1,0 +1,58 @@
+---
+title: "REGIO DECRETO 31 gennaio 1884, n. MCXCIV — Che erige in ente morale l'asilo infantile Mazza nel comune di Ottiglio. (8401194R)"
+identifier: "urn:nir:stato:regio.decreto:1884-01-31;1194"
+eli: "https://www.normattiva.it/eli/id/1884/03/22/8401194R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1884-01-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 70 del 1884-03-22"
+codice_redazionale: "8401194R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-01-31;1194"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 31 gennaio 1884, n. MCXCIV
+
+**Che erige in ente morale l'asilo infantile Mazza nel comune di Ottiglio. (8401194R)**
+
+*Entrata in vigore del provvedimento: 06/04/1884*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda del comune di Ottiglio diretta al duplice scopo di ottenere l'erezione in ente morale dell'asilo infantile di quel comune, da chiamarsi col nome di Mazza dal nome dei donatori, di una rendita in consolidato di lire tremila, destinata all'asilo stesso, e di essere autorizzato ad accettare nell'interesse dell'erigendo asilo la donazione anzidetta;
+
+Vista la deliberazione della deputazione provinciale, colla quale espresse parere favorevole allo accoglimento della dimanda del comune di Ottiglio;
+
+Visto l'atto di donazione in data 19 maggio 1882;
+
+Viste le leggi 5 giugno 1850 e 3 agosto 1862 ed il regolamento 27 novembre 1862;
+
+Sentito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' autorizzato il comune di Ottiglio ad accettare la donazione come sopra disposta dai signori Mazza per l'impianto in quel comune di un asilo infantile, il quale col nome di asilo infantile Mazza viene eretto in ente morale.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 gennaio 1884.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 12 febbraio 1884
+
+Reg. 133 Atti del Governo a f. 78. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli SAVELLI.
+
+DEPRETIS.

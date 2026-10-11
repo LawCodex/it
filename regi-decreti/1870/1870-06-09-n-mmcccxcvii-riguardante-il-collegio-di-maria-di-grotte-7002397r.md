@@ -1,0 +1,132 @@
+---
+title: "REGIO DECRETO 09 giugno 1870, n. MMCCCXCVII — Riguardante il Collegio di Maria di Grotte. (7002397R)"
+identifier: "urn:nir:stato:regio.decreto:1870-06-09;2397"
+eli: "https://www.normattiva.it/eli/id/1870/08/06/7002397R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1870-06-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 214 del 1870-08-06"
+codice_redazionale: "7002397R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-06-09;2397"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 09 giugno 1870, n. MMCCCXCVII
+
+**Riguardante il Collegio di Maria di Grotte. (7002397R)**
+
+*Entrata in vigore del provvedimento: 21/08/1870*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'atto del 2 ottobre 1797, col quale il Sacerdote Calcedonio Monreale fondo' a Grotte, Provincia di Girgenti, un Collegio di Maria per la educazione religiosa e civile delle fanciulle;
+
+Visto il Decreto del Nostro Luogotenente generale 7 luglio 1866;
+
+Vista la Legge 3 agosto 1862;
+
+Sentito il parere del Consiglio di Stato;
+
+Volendo riordinare quel Collegio in modo che meglio corrisponda al grado attuale della istruzione e della educazione pubblica;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+Il Collegio di Maria di Grotte, fondato dal Sacerdote Calcedonio Monreale per l'atto 2 ottobre 1797, e' riconosciuto quale Istituto di educazione ed istruzione femminile, dipendente dal Nostro Ministro Segretario di Stato per la Pubblica Istruzione e dalle Autorita' scolastiche.
+
+## Art. 2
+
+Esso Collegio sara' retto dal nuovo Statuto organico, che e' unito al presente Decreto e firmato d'ordine Nostro dall'anzidetto Ministro.
+
+## Art. 3
+
+Sono abrogate tutte le disposizioni anteriori contrarie al medesimo.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 9 giugno 1870.
+
+VITTORIO EMANUELE.
+
+Registrato alla Corte dei conti addi' 4 luglio 1870
+
+Reg. 51 Atti del Governo a c. 154. Crodara Visconti.
+
+Luogo del sigillo. V. il Guardasigilli. M. RAELI.
+
+C. CORRENTI.
+
+## Allegati
+
+STATUTO ORGANICO
+
+pel Collegio di Maria di Grotte
+
+## Art. 1
+
+Il Collegio di Maria di Grotte e' amministrato da una Commissione composta d'un Presidente, e di quattro Consiglieri.
+
+Il Presidente e i Consiglieri sono nominati per Decreto Ministeriale sulla proposta del Consiglio comunale di Grotte, il quale potra' sceglierli dentro o fuori del proprio seno.
+
+Essi durano in uffizio cinque anni e possono essere rieletti.
+
+## Art. 2
+
+La Commissione stende lo stato del patrimonio e l'inventario di tutto cio' che appartiene al Collegio, compila ogni anno il bilancio preventivo e consuntivo, e sottopone all'approvazione del Prefetto il primo non piu' tardi del 15 settembre, il secondo non piu' tardi del successivo aprile.
+
+La Commissione soprintende all'ordinamento interno del Collegio, al Convitto, alle scuole interne ed esterne; dopo l'esame annuale fa una breve relazione sullo stato dell'istruzione e della educazione del Collegio, che dirige al Prefetto; e propone quelle modificazioni che crede utili nel personale insegnante e nei programmi.
+
+Entro il termine di tre mesi dopo la sua nomina, la Commissione preparera' un Regolamento interno, che sottoporra' all'approvazione del Ministero. Questo Regolamento determinera' la distribuzione degli uffizi, i doveri ed i modi d'elezione e gli stipendi del personale addetto all'amministrazione, alla direzione, al Convitto, alle scuole, e le regole per l'ammissione delle alunne; e non potra' essere modificato senza il consenso Ministeriale.
+
+## Art. 3
+
+Sono addetti al Collegio un Segretario contabile, un Tesoriere con obbligo di prestar cauzione, e quel numero di servienti che il bisogno indichera'.
+
+La loro nomina e' affidata alla Commissione direttiva.
+
+E' vietato di conceder loro la pensione o gratificazione oltre allo stipendio.
+
+## Art. 4
+
+Per l'insegnamento saranno destinate al Collegio delle maestre, in quel numero che verra' richiesto dalle circostanze. Le maestre devono essere munite di titoli legali ad insegnare. La Direttrice del Convitto debbe almeno avere il diploma di maestra di grado superiore.
+
+Tanto la Direttrice, quanto le maestre, verranno scelte dalla Commissione ed approvate dal Consiglio scolastico.
+
+## Art. 5
+
+Non sono ammesse nel Convitto che fanciulle di condizione civile e di religione cattolica, e preferibilmente quelle del Comune di Grotte, dalla eta' d'anni sei a quella di dodici; e vi potranno restare fino agli anni diciotto.
+
+Il numero delle convittrici non e' determinato: la Commissione potra' aumentarlo o diminuirlo, come consigliera' la prudenza amministrativa.
+
+## Art. 6
+
+Le convittrici attuali che hanno diritto agli alimenti per le rispettive assegnazioni fatte all'Istituto, saranno conservate nel Collegio a loro richiesta. Dovranno pero' sottoporsi alle riforme portate dal presente Decreto e dal nuovo Regolamento interno del Collegio.
+
+Ove alcuna delle dette convittrici preferisse d'uscire dal Collegio, le si dovra' restituire la dote che recava all'Istituto, se avra' dimorato in Convitto meno di otto anni. Se la sua dimora si sara' prolungata piu' di otto anni, ma meno di quattordici, riavra' solo due terzi della dote; se piu' di quattordici, ma meno di venti, riavra' meta' della dote medesima; se oltre i venti potra' ripeterne solamente un terzo.
+
+## Art. 7
+
+Alle scuole esterne del Collegio saranno ammesse gratuitamente le fanciulle del Comune Grotte, che avranno le qualita' determinate dal Regolamento interno del Collegio.
+
+## Art. 8
+
+Le materie dell'insegnamento che dee darsi, tanto nelle scuole esterne che nelle interne del Collegio, sono quelle designate dalle Leggi e dai Regolamenti per l'istruzione elementare, vigenti nel Regno.
+
+## Art. 9
+
+Se le scuole esterne del Collegio di Grotte basteranno ai bisogni dell'istruzione femminile, si potra' concedere al Municipio del luogo di non aprirne altre, purche' concorra al mantenimento ed all'ampliamento delle medesime.
+
+Visto d'ordine di S. M.
+
+Il Ministro
+
+C. CORRENTI.

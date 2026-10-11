@@ -1,0 +1,62 @@
+---
+title: "REGIO DECRETO 30 ottobre 1887, n. MMDCCXXXIX — Che autorizza l'amministrazione della Scuola Grande Tedesca israelitica in Venezia, ad accettare il pio legato Reiner, lo erige in corpo morale e ne approva lo statuto. (8702739R)"
+identifier: "urn:nir:stato:regio.decreto:1887-10-30;2739"
+eli: "https://www.normattiva.it/eli/id/1887/11/23/8702739R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-10-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 275 del 1887-11-23"
+codice_redazionale: "8702739R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-10-30;2739"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 30 ottobre 1887, n. MMDCCXXXIX
+
+**Che autorizza l'amministrazione della Scuola Grande Tedesca israelitica in Venezia, ad accettare il pio legato Reiner, lo erige in corpo morale e ne approva lo statuto. (8702739R)**
+
+*Entrata in vigore del provvedimento: 08/12/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il testamento 2 novembre 1879, in atti del notaio Pasini, con cui il fu Marco Reiner del fu Beer lego' alla Scuola israelitica di rito tedesco in Venezia, detta Scuola Grande Tedesca, una cartella di lire 100 di rendita sul debito pubblico dello Stato, affinche' la rendita stessa fosse in perpetuo assegnata e distribuita ogni anno in detta scuola a dieci uomini fra i piu' poveri israeliti;
+
+Vista l'istanza del presidente della prementovata Scuola Grande Tedesca, diretta ad ottenere l'autorizzazione ad accettare il pio lascito Reiner, la erezione di questo in corpo morale e l'approvazione dello statuto organico a tale uopo redatto;
+
+Viste le deliberazioni 2 gennaio 1883 e 18 novembre 1884 della deputazione provinciale di Venezia;
+
+Visto il disegno dello statuto organico suddetto;
+
+Visti gli articoli 15, n. 3, e 25 della legge 3 agosto 1862, n. 753, sulle opere pie;
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+L'amministrazione della suddetta Scuola Grande Tedesca per gli israeliti in Venezia e' autorizzata ad accettare il pio legato disposto dal fu Marco Reiner col testamento sovracitato.
+
+Il pio legato stesso e' eretto in corpo morale, e sara' amministrato in base all'anzidetto statuto organico, composto di dieci articoli, che viene da Noi approvato, e sara', d'ordine Nostro, visto e sottoscritto dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Monza, addi' 30 ottobre 1887.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 14 novembre 1887.
+
+Reg. 160. Atti del Governo a. f. 45. Pellizzoli.
+
+Luogo del Sigillo. V. Il Guardasigilli. G. ZANARDELLI.
+
+CRISPI.

@@ -1,0 +1,52 @@
+---
+title: "REGIO DECRETO 12 dicembre 1869, n. MMCCCIV — Col quale sono dichiarati rinuncianti quegli Accademici formanti il Consiglio dell'Accademia di belle arti di Milano, che non intervengono alle adunanze del Consiglio stesso. (6902304R)"
+identifier: "urn:nir:stato:regio.decreto:1869-12-12;2304"
+eli: "https://www.normattiva.it/eli/id/1870/01/26/6902304R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1869-12-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 26 del 1870-01-26"
+codice_redazionale: "6902304R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-12-12;2304"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 12 dicembre 1869, n. MMCCCIV
+
+**Col quale sono dichiarati rinuncianti quegli Accademici formanti il Consiglio dell'Accademia di belle arti di Milano, che non intervengono alle adunanze del Consiglio stesso. (6902304R)**
+
+*Entrata in vigore del provvedimento: 10/02/1870*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti gli statuti dell'Accademia di belle arti di Milano, approvati con Nostro Decreto del 3 novembre 1860, n. 4412;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Gli Accademici formanti il Consiglio dell'Accademia di belle arti di Milano avendo l'obbligo di intervenire alle adunanze ordinarie e straordinarie del Consiglio, qualunque di essi non interviene a quattro adunanze consecutive, ed avvisato dal Presidente non giustifica la sua assenza, e' considerato per cio' come rinunziante.
+
+L'Accademico passa quindi tra i soci onorari, ed il suo posto e' nella prima sessione dell'anno successivo dichiarato vacante.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Firenze addi' 12 dicembre 1869.
+
+VITTORIO EMANUELE.
+
+Registrato alla Corte dei conti addi' 7 gennaio 1870.
+
+Reg. 49 Atti del Governo a c. 157. Ayres.
+
+Luogo del sigillo. V. Il Guardasigilli VIGLIANI.
+
+A. BARGONI.

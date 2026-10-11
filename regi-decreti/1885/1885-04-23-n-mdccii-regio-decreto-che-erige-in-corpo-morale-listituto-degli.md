@@ -1,0 +1,64 @@
+---
+title: "REGIO DECRETO 23 aprile 1885, n. MDCCII — Regio Decreto che erige in corpo morale l'istituto degli artigianelli Valdesi fondato in Torino, e ne approva lo statuto. (8501702R)"
+identifier: "urn:nir:stato:regio.decreto:1885-04-23;1702"
+eli: "https://www.normattiva.it/eli/id/1885/06/01/8501702R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1885-04-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 127 del 1885-06-01"
+codice_redazionale: "8501702R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-23;1702"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 23 aprile 1885, n. MDCCII
+
+**Regio Decreto che erige in corpo morale l'istituto degli artigianelli Valdesi fondato in Torino, e ne approva lo statuto. (8501702R)**
+
+*Entrata in vigore del provvedimento: 16/06/1885*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda dell'amministrazione dell'istituto degli artigianelli Valdesi fondato da molti anni in Torino, diretta ad ottenere l'erezione in ente morale dell'opera pia e l'approvazione dello statuto organico dalla medesima amministrazione compilato;
+
+Veduti i documenti presentati a corredo della domanda e ritenuto che il pio istituto, il quale ha per fine di raccogliere fanciulli orfani nati da genitori appartenenti alla chiesa evangelica Valdese o ad altra chiesa consorella, e di procacciare loro, oltreche' un utile mestiere, una conveniente educazione morale e religiosa, funziona da molto tempo regolarmente e si e' assicurata una rendita annuale di circa annue lire undicimila;
+
+Veduto il predetto statuto;
+
+Veduta la deliberazione 12 luglio 1883 della deputazione provinciale di Torino;
+
+Veduti la legge 3 agosto 1862 ed il regolamento per l'esecuzione di essa del 27 novembre stesso anno;
+
+Udito il consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'istituto degli artigianelli Valdesi fondato come sopra in Torino e' eretto in corpo morale.
+
+## Art. 2
+
+E' approvato lo statuto organico deliberato dall'amministrazione del nuovo ente li 16 marzo anno corrente, composto di numero dodici articoli, visto e firmato dal Nostro ministro proponente, aggiungendosi all'articolo 2: nonche' colle rendite del legato disposto dal commendatore Peyrot Giovanni con testamento olografo del 19 novembre 1881, le quali saranno destinate a vantaggio di un giovane povero del comune di Torre Pellice, e completando l'articolo 9 nel senso di prescrivere al tesoriere l'obbligo della cauzione.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 aprile 1885.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 25 maggio 1885.
+
+Reg. 142. Atti del Governo a. f. 56. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli. E. PESSINA.
+
+Depretis.

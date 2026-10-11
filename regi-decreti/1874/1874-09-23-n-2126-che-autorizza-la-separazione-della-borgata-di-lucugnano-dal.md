@@ -1,0 +1,56 @@
+---
+title: "REGIO DECRETO 23 settembre 1874, n. 2126 — Che autorizza la separazione della borgata di Lucugnano dal Comune di Specchia e la riunisce a quello di Tricase nella Provincia di Lecce."
+identifier: "urn:nir:stato:regio.decreto:1874-09-23;2126"
+eli: "https://www.normattiva.it/eli/id/1874/10/19/074U2126/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1874-09-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 249 del 1874-10-19"
+codice_redazionale: "074U2126"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-09-23;2126"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 23 settembre 1874, n. 2126
+
+**Che autorizza la separazione della borgata di Lucugnano dal Comune di Specchia e la riunisce a quello di Tricase nella Provincia di Lecce.**
+
+*Entrata in vigore del provvedimento: 03/11/1874*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno,
+
+Veduta la domanda della maggioranza degli elettori della borgata Lucagnano per la separazione di essa dal comune di Specchia e per la sua riunione a quello di Tricase;
+
+Viste le deliberazioni dei Consigli comunali di Tricase e Specchia in data 22 aprile e 2 novembre 1871, 11 e 31 luglio 1874;
+
+Veduta la deliberazione del Consiglio provinciale di Lecce, in data 10 novembre 1871;
+
+Visto l'articolo 15, § 2, della legge comunale e provinciale, 20 marzo 1865;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+A cominciare dal 1° gennaio 1875 la borgata di Lucagnano e' separata dal comune di Specchia e riunita al comune di Tricase, nella provincia di Lecce.
+
+I confini territoriali dei due comuni sono rispettivamente diminuiti ed aumentati della porzione di territorio resultante dalla pianta topografica redatta dall'ingegnere Rocco Pasanisi in data 15 giugno 1874 che sara' d'ordine Nostro vidimata dal Ministro proponente.
+
+## Art. 2
+
+Fino alla costituzione dei nuovi Consigli comunali, a cui si procedera' a cura del prefetto della provincia, entro il mese di dicembre, in base alle liste elettorali amministrative debitamente riformate a forma di legge, le attuali rappresentanze dei due comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Sommariva Perno, addi' 23 settembre 1874.
+
+VITTORIO EMANUELE.
+
+G. Cantelli.

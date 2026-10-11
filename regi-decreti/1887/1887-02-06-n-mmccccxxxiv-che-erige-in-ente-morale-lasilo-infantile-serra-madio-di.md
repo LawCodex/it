@@ -1,0 +1,66 @@
+---
+title: "REGIO DECRETO 06 febbraio 1887, n. MMCCCCXXXIV — Che erige in ente morale l'asilo infantile Serra-Madio di Mondonio in Scandeluzza (Alessandria) e ne approva lo statuto. (8702434R)"
+identifier: "urn:nir:stato:regio.decreto:1887-02-06;2434"
+eli: "https://www.normattiva.it/eli/id/1887/02/25/8702434R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-02-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 46 del 1887-02-25"
+codice_redazionale: "8702434R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-02-06;2434"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 06 febbraio 1887, n. MMCCCCXXXIV
+
+**Che erige in ente morale l'asilo infantile Serra-Madio di Mondonio in Scandeluzza (Alessandria) e ne approva lo statuto. (8702434R)**
+
+*Entrata in vigore del provvedimento: 12/03/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Vista la domanda della signora contessa Teresa Serra-Madio di Mondonio diretta ad ottenere l'erezione in ente morale dell'asilo infantile da essa istituito nel comune di Scandeluzza (Alessandria), non che l'autorizzazione al medesimo di accettare la donazione fattagli dalla detta fondatrice e l'approvazione del relativo statuto organico;
+
+Visto l'atto pubblico di donazione in data 16 giugno 1886 per effetto del quale l'asilo da intitolarsi Serra-Madio di Mondonio e' gia' in possesso di un fabbricato con mobili e suppellettili relativi e di un capitale di L. 33 mila;
+
+Ritenuto che mediante tale donazione l'istituto ha mezzi sufficienti per avere vita e adempiere al suo scopo;
+
+Visto lo statuto organico del detto asilo;
+
+Visto il voto favorevole della deputazione provinciale;
+
+Vista la legge 3 agosto 1862 sulle opere pie e il relativo regolamento del 27 novembre dello stesso anno, non che la legge del 5 giugno 1850 sulla capacita' di acquistare dei corpi morali;
+
+Udito il parere del consiglio di Stato;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'asilo infantile istituito dalla contessa Teresa Serra-Madio di Mondonio nel comune di Scandeluzza e' eretto in ente morale, ed e' antorizzato ad accettare la donazione fattagli dalla detta fondatrice.
+
+## Art. 2
+
+E' approvato lo statuto organico dell'asilo medesimo in data 21 gennaio 1887 composto di ventidue articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 febbraio 1887.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 18 febbraio 1887.
+
+Reg. 155. Atti del Governo a f. 16. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli D. TAJANI.
+
+DEPRETIS.

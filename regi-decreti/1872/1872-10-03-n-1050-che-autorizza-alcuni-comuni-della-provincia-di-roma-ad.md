@@ -1,0 +1,88 @@
+---
+title: "REGIO DECRETO 03 ottobre 1872, n. 1050 — Che autorizza alcuni Comuni della Provincia di Roma ad assumere e una nuova denominazione."
+identifier: "urn:nir:stato:regio.decreto:1872-10-03;1050"
+eli: "https://www.normattiva.it/eli/id/1872/11/03/072U1050/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1872-10-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 304 del 1872-11-03"
+codice_redazionale: "072U1050"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1872-10-03;1050"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 03 ottobre 1872, n. 1050
+
+**Che autorizza alcuni Comuni della Provincia di Roma ad assumere e una nuova denominazione.**
+
+*Entrata in vigore del provvedimento: 18/11/1872*
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Viste le deliberazioni dei Consigli comunali:
+
+di Anticoli in data 11 prossimo passato agosto;
+
+di Castro in data 10 corrente;
+
+di Giuliano in data 14 luglio ultimo scorso;
+
+di Monte San Giovanni in data 17 luglio u. s.;
+
+di Roccasecca in data 9 luglio ultimo scorso;
+
+di Santo Stefano in data 30 giugno ultimo scorso;
+
+di Torre in data 7 luglio ultimo scorso;
+
+di Trevi in data 7 luglio ultimo scorso;
+
+di Vico in data 30 giugno ultimo scorso;
+
+Vista la Legge 20 marzo 1865, Allegato A;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+Sono autorizzati:
+
+Il Comune di Anticoli, nella Provincia di Roma, ad assumere la denominazione di Anticoli di Campagna;
+
+Il Comune di Castro, nella Provincia di Roma, ad assumere la denominazione di Castro dei Volsci;
+
+Il Comune di Giuliano, nella Provincia di Roma, ad assumere la denominazione di Giuliano di Roma;
+
+Il Comune di Monte San Giovanni, nella Provincia di Roma, ad assumere la denominazione di Monte San Giovanni Campano;
+
+Il Comune di Roccasecca, nella Provincia di Roma, ad assumere la denominazione di Roccasecca dei Volsci;
+
+Il Comune di Santo Stefano, nella Provincia di Roma, ad assumere la denominazione di Villa Santo Stefano;
+
+Il Comune di Torre, nella Provincia di Roma, ad assumere la denominazione di Torre Cajetani;
+
+Il Comune di Trevi, nella Provincia di Roma, ad assumere la denominazione di Trevi nel Lazio;
+
+Il Comune di Vico, nella Provincia di Roma, ad assumere la denominazione di Vico nel Lazio.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma addi' 3 ottobre 1872.
+
+VITTORIO EMANUELE
+
+Registrato alla Corte dei conti addi' 21 ottobre 1872
+
+Vol. 64 Atti del Governo a c. 28. Ayres.
+
+Luogo dal sigillo. V. Il Guardasigilli. De Falco.
+
+G. Lanza.

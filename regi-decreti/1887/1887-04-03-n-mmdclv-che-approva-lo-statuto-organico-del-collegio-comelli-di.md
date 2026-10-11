@@ -1,0 +1,144 @@
+---
+title: "REGIO DECRETO 03 aprile 1887, n. MMDCLV — Che approva lo statuto organico del collegio Comelli di Bologna. (8702655R)"
+identifier: "urn:nir:stato:regio.decreto:1887-04-03;2655"
+eli: "https://www.normattiva.it/eli/id/1887/09/01/8702655R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1887-04-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 206 del 1887-09-01"
+codice_redazionale: "8702655R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-04-03;2655"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 03 aprile 1887, n. MMDCLV
+
+**Che approva lo statuto organico del collegio Comelli di Bologna. (8702655R)**
+
+*Entrata in vigore del provvedimento: 16/09/1887*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il testamento del 28 maggio 1663, rogato Vanotti, col quale il dottore Domenico Comelli bolognese, avvocato e consultore, legava la somma di trentamila scudi da lire quattro onde fondare un collegio intitolato dal suo nome, a vantaggio dei giovani bolognesi, che attendessero agli studi universitari;
+
+Veduto il regio decreto 25 giugno 1866, numero MDCCLXVII (parte supplementare), col quale si provvede al riordinamento del detto collegio;
+
+Veduto lo schema di statuto organico compilato dai compatroni amministratori del collegio stesso;
+
+Sentito il parere del consiglio di Stato;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;
+
+Abbiamo decretato e decretiamo:
+
+## Articolo unico
+
+E' approvato lo statuto organico del collegio Comelli di Bologna, annesso al presente decreto e firmato d'ordine Nostro dal Nostro ministro segretario di Stato per la pubblica istruzione.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 aprile 1887.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 20 agosto 1887.
+
+Reg. 159. Atti del Governo a f. 1. Pellizzoli.
+
+Luogo del Sigillo V. Il Guardasigilli. G. ZANARDELLI.
+
+COPPINO.
+
+## Allegati
+
+REGOLAMENTO ORGANICO
+
+DEL
+
+COLLEGIO COMELLI
+
+## Art. 1
+
+Il collegio Comelli, istituito dal fu avv. consultore dottore Domenico Comelli con testamento del 28 maggio 1663 a rogito del notaio Carlo Vanotti, ha per iscopo di favorire giovani bolognesi, che, con promessa di ottima riuscita, si applicano agli studi nell'universita' di Bologna, o nella regia scuola d'applicazione degli ingegneri pure di Bologna, assegnando loro un'annua pensione a domicilio durante il corso di detti studi.
+
+## Art. 2
+
+I mezzi onde il collegio provvede allo scopo di sua istituzione consistono in rendite derivanti da stabili urbani e rustici, da capitali ipotecari, effetti di credito pubblico e diversi, come da apposito inventario.
+
+## Art. 3
+
+L'amministrazione del collegio appartiene ai tre eredi fiduciari nominati dal fondatore nel suo testamento, e da lui designati quali compadroni del collegio stesso, con questo che all'antico monastero dei SS. Bernardino e Marta, altro degli eredi Comelli, cessato fino dall'anno 1798, e' sostituito un delegato del Governo scelto dal ministero della pubblica istruzione ogni triennio e cio' in forza di reale decreto del 15 giugno 1866, n. 1767.
+
+## Art. 4
+
+Il delegato del Governo e' presidente della compadronanza, ne eseguisce le deliberazioni e ne firma gli atti.
+
+## Art. 5
+
+Spetta alla compadronanza in virtu' dell'atto di fondazione, piena e libera facolta' di deliberare, sopra tutti gli atti e contratti che interessano il collegio, e conseguentemente di modificare ancora, quante volte lo creda opportuno, le presenti norme regolatrici dell'istituzione, salva l'approvazione del ministero della pubblica istruzione.
+
+## Art. 6
+
+Ogni anno la compadronanza compila il bilancio preventivo e consuntivo, dando dell'uno e dell'altro comunicazione al ministero della pubblica istruzione.
+
+## Art. 7
+
+In proporzione alla quantita' delle rendite disponibili, la compadronanza stabilisce il numero delle pensioni da conferirsi.
+
+## Art. 8
+
+Per concorrere alle pensioni assegnate dal collegio si richiede che nei candidati si verifichino cumulativamente le seguenti condizioni:
+
+a) che sieno nati in Bologna da cittadini bolognesi;
+
+b) che tanto l'aspirante quanto i suoi genitori siano di buona vita e fama;
+
+c) che abbiano ottenuto il diploma di licenza liceale o dell'istituto tecnico, e siansi distinti per ingegno, diligenza ed assiduita' negli studi;
+
+d) che abbiano conseguita la matricola d'ammissione alla regia universita' di Bologna o alla regia scuola d'applicazione degli ingegneri di Bologna;
+
+e) che oltre l'obbligazione del rispettivo genitore, diano i prescelti un idoneo fidejussore a favore del collegio, per la immediata restituzione di quanto sia stato loro corrisposto qualora accada uno dei seguenti casi: 1° che per loro mala condotta (che deve risultare da dichiarazione del sindaco o dalle autorita' scolastiche) demeritino il proseguimento della pensione; 2° che per negligenza non conseguino in tempo debito la laurea.
+
+## Art. 9
+
+I concorrenti pertanto dovranno entro il mese di ottobre, presentare agli atti dell'economato del collegio apposita domanda diretta ai compadroni, firmata dal postulante e dal suo genitore o curatore, non che dal fidejussore e contenente i seguenti documenti;
+
+a) certificato dal quale risulti la cittadinanza bolognese del concorrente e del padre di esso;
+
+b) certificato di buona ed onesta condotta del concorrente, e dei suoi genitori rilasciata dall'autorita' municipale;
+
+c) diploma di licenza liceale o dell'istituto tecnico;
+
+d) attestazione del preside del liceo o del preside dell'istituto tecnico dichiarante il valore intellettuale del giovane nonche' la sua attitudine agli studi superiori.
+
+## Art. 10
+
+Quelli che avranno inoltrata la loro documentata petizione, come al capitolo precedente, dovranno poi presentare all'economato del collegio la matricola d'ammissione alla regia universita' o alla regia scuola d'applicazione appena l'avranno ottenuta, senza di che non saranno annoverati fra i concorrenti.
+
+## Art. 11
+
+I compadroni addiverranno alla elezione di quel numero di alunni che saranno da ammettersi preferendo a scrutinio i piu' meritevoli per ogni rapporto.
+
+## Art. 12
+
+Gli eletti percepiranno ogni anno, durante il rispettivo loro corso di studio la pensione di L. 480, piu' il rimborso delle tasse scolastiche. Le annate di corso s'intendono quelle che continuamente decorrono dal 1° di dicembre dell'anno nel quale l'alunno e' ammesso all'universita' o alla regia scuola d'applicazione, sino al 30 novembre dell'anno nel quale deve ottenere la laurea. La pensione sara' dall'economo del collegio pagata ad ogni alunno in eguali rate bimestrali posticipate, salvo il disposto della lettera e dell'articolo 9.
+
+## Art. 13
+
+Sara' rilasciata ai prescelti una lettera sottoscritta dai compadroni, portante la dichiarazione della loro nomina ad alunni del collegio Comelli, ed essi coi loro genitori o curatori e loro fidejussori solidali interverranno subitamente a stipulare presso l'economo del collegio l'atto e la scrittura di promessa degli obblighi loro, nell'adempimento dei quali dovranno tutti mantenersi con perseverante fermezza, accio' sia dato cosi' di raggiungere il fine voluto dal benemerito Comelli; che e' di procurare alla patria dotti e virtuosi cittadini.
+
+La compadronanza: Gaetano Tacconi, delegato governativo, presidente; Raffaele Canonici, compadrone e Antonio Guarmani compadrone.
+
+Roma, 3 aprile 1887.
+
+Visto d'ordine di S. M.
+
+Il ministro della pubblica istruzione
+
+COPPINO

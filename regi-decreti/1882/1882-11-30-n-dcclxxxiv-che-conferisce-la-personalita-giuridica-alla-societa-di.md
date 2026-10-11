@@ -1,0 +1,60 @@
+---
+title: "REGIO DECRETO 30 novembre 1882, n. DCCLXXXIV — Che conferisce la personalita' giuridica alla societa' di mutuo soccorso per gli artisti e professionisti di Bergamo. (8200784R)"
+identifier: "urn:nir:stato:regio.decreto:1882-11-30;784"
+eli: "https://www.normattiva.it/eli/id/1882/12/23/8200784R/ORIGINAL"
+type: royal_decree
+jurisdiction: it
+language: it
+date: 1882-11-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 300 del 1882-12-23"
+codice_redazionale: "8200784R"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-11-30;784"
+retrieved: 2026-10-11
+---
+
+# REGIO DECRETO 30 novembre 1882, n. DCCLXXXIV
+
+**Che conferisce la personalita' giuridica alla societa' di mutuo soccorso per gli artisti e professionisti di Bergamo. (8200784R)**
+
+*Entrata in vigore del provvedimento: 07/01/1883*
+
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Viste le istanze in data 30 novembre 1876 e 19 settembre 1882, fatte in seguito a deliberazioni 3 settembre 1876 dell'assemblea generale dei soci dell'associazione di mutuo soccorso fra gli artisti, operai e professionisti di Bergamo, ivi esistente fin dall'anno 1862;
+
+Visto lo statuto della societa' predetta;
+
+Udito il consiglio di Stato;
+
+Sulla proposta del ministro di agricoltura, industria e commercio;
+
+Abbiamo decretato e decretiamo:
+
+## Art. 1
+
+L'associazione di Mutuo Soccorso fra gli artisti, operai e professionisti di Bergamo, e' riconosciuta come corpo morale ed e' approvato il suo statuto, visto d'ordine Nostro dal ministro proponente.
+
+## Art. 2
+
+L'associazione predetta inviera' al ministero d'agricoltura, industria e commercio i bilanci annuali e le notizie statistiche che dal ministero medesimo le saranno richieste.
+
+Le modificazioni allo statuto dell'associazione non saranno esecutive senza l'approvazione governativa.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 novembre 1882.
+
+UMBERTO
+
+Registrato alla Corte dei conti addi' 15 dicembre 1882
+
+Reg. 125 Atti del Governo f. 32. Ayres.
+
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.
+
+Berti.
