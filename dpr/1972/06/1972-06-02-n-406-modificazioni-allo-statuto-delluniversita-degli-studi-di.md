@@ -1,0 +1,124 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972, n. 406 — Modificazioni allo statuto dell'Universita' degli studi di Genova."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-02;406"
+eli: "https://www.normattiva.it/eli/id/1972/08/10/072U0406/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1972-06-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 208 del 1972-08-10"
+codice_redazionale: "072U0406"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-02;406"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972, n. 406
+
+**Modificazioni allo statuto dell'Universita' degli studi di Genova.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con regio decreto 7 ottobre 1926, n. 2054 e modificato con regio decreto 13 ottobre 1927, n. 1859, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato come appresso:
+
+Art. 29, relativo all'elenco degli insegnamenti complementari del corso di laurea in lettere, e' modificato nel senso che insegnamento di "Letteratura latina medioevale" muta la denominazione in quella di "Storia della lingua e letteratura latina medioevale".
+
+Art. 47: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere vengono aggiunti i seguenti:
+
+Filologia slava;
+
+Filologia semitica;
+
+Filologia indo-iranica;
+
+Jamatologia.
+
+Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+
+Psicoterapia;
+
+Medicina dello sport;
+
+Auxologia;
+
+Istopatologia ultrastrutturale;
+
+Biologia molecolare;
+
+Enzimologia;
+
+Analisi chimico-cliniche;
+
+Patologia molecolare;
+
+Malattie del ricambio;
+
+Criminologia minorile;
+
+Neurofisiopatologia.
+
+Nello stesso articolo l'insegnamento complementare di "Anestesiologia" muta la denominazione in quella di "Anestesiologia e rianimazione".
+
+Art. 69: all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
+
+Chimica degli oli essenziali;
+
+Biometria applicata;
+
+Chemioterapia;
+
+Chimica dei composti eterociclici;
+
+Farmacologia molecolare;
+
+Fitochimica.
+
+Art. 77: agli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:
+
+Chimica degli oli essenziali;
+
+Biometria applicata;
+
+Chemioterapia;
+
+Chimica dei composti eterociclici;
+
+Farmacologia molecolare;
+
+Fitochimica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 giugno 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 25 luglio 1972
+
+Atti del Governo, registro n. 250, foglio n. 85. - CARUSO

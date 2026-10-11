@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1969, n. 872 — Prelevamento di L. 2.000.000.000 dal fondo di riserva per le spese impreviste del bilancio Monopoli."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-11-20;872"
+eli: "https://www.normattiva.it/eli/id/1969/12/09/069U0872/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-11-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 309 del 1969-12-09"
+codice_redazionale: "069U0872"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-11-20;872"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1969, n. 872
+
+**Prelevamento di L. 2.000.000.000 dal fondo di riserva per le spese impreviste del bilancio Monopoli.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 10 del regio decreto-legge 8 dicembre 1927, n. 2258, convertito nella legge 6 dicembre 1928, n. 3474, riguardante la costituzione dell'Amministrazione dei monopoli di Stato, modificato dall'art. 1 della legge 17 agosto 1941, n. 957;
+
+Vista la legge 28 febbraio 1969, n. 21, con la quale e' stato approvato il bilancio di previsione dello Stato dell'anno finanziario 1969, nel quale sono compresi - appendice n. 1 alla tabella n. 3 - gli stati di previsione dell'entrata e della spesa dell'Amministrazione dei monopoli di Stato;
+
+Considerato che i fondi di riserva per le spese impreviste per l'azienda tabacchi e per l'azienda sali, di cui all'apposito conto corrente presso la Tesoreria centrale, presentano la necessaria disponibilita';
+
+Udito il consiglio di amministrazione dei monopoli di Stato;
+
+Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il tesoro;
+
+Decreta:
+
+E' autorizzato il prelevamento di L. 1.700.000.000 dal fondo di riserva per le spese impreviste dell'azienda tabacchi e di L. 300.000.000 dal fondo di riserva per le spese impreviste dell'azienda sali.
+
+Il complessivo ammontare di L. 2.000.000.000 dovra' versarsi all'Amministrazione dei monopoli di Stato con imputazione al capitolo 511 "Prelevamento dal fondo di riserva per le spese impreviste", dello stato di previsione dell'entrata del bilancio dell'amministrazione medesima per l'esercizio 1969 ed iscriversi, per lire 900.000.000 al cap. 181 "Paghe, ecc., personale salariato manifatture ecc.", per L. 800.000.000 al cap. 193 "Spese per l'acquisto di materiale e servizi occorrenti per la lavorazione, il confezionamento ed il condizionamento dei tabacchi ecc." e per L. 300.000.000 al cap. 221 "Paghe, ecc. personale salariato Saline" dello stato di previsione della spesa dello stesso bilancio ed esercizio.
+
+Il presente decreto sara' inviato alla Corte dei conti per la registrazione e sara' comunicato al Parlamento unitamente al rendiconto consuntivo dell'Amministrazione dei monopoli di Stato per l'esercizio 1969.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 novembre 1969
+
+SARAGAT
+
+BOSCO - COLOMBO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 3 dicembre 1969
+
+Atti del Governo, registro n. 230, foglio n. 127. - GRECO

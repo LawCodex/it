@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971, n. 9 — Riconoscimento, agli effetti civili, della erezione della parrocchia di Gesu' Redentore, in Porto S. Giorgio."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-09;9"
+eli: "https://www.normattiva.it/eli/id/1971/02/18/071U0009/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1971-01-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 43 del 1971-02-18"
+codice_redazionale: "071U0009"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-09;9"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971, n. 9
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di Gesu' Redentore, in Porto S. Giorgio.**
+
+## Art. 1
+
+N. 9. Decreto del Presidente della Repubblica 9 gennaio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Fermo in data 7 luglio 1969, integrato con dichiarazioni 15 successivo, 27 gennaio e 5 agosto 1970, relativo alla erezione della parrocchia di Gesu' Redentore, in Porto S.
+
+Giorgio (Ascoli Piceno).
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 10 febbraio 1971
+
+Atti del Governo, registro n. 240, foglio n. 165. - CARUSO

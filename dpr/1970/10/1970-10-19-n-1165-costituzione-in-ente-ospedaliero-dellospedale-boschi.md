@@ -1,0 +1,64 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1970, n. 1165 — Costituzione in ente ospedaliero dell'ospedale \"Boschi-Subbiano\", con sede in Subbiano."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-19;1165"
+eli: "https://www.normattiva.it/eli/id/1971/01/20/070U1165/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1970-10-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 15 del 1971-01-20"
+codice_redazionale: "070U1165"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-19;1165"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1970, n. 1165
+
+**Costituzione in ente ospedaliero dell'ospedale "Boschi-Subbiano", con sede in Subbiano.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 12 febbraio 1968, n. 132, recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
+
+Visto il regio decreto 23 luglio 1937, con il quale e' stato approvato lo statuto della pia fondazione "Boschi" di Subbiano, dal quale risulta che l'istituzione persegue scopi ospedalieri ed altre finalita' assistenziali;
+
+Visto il decreto del medico provinciale di Arezzo in data 30 maggio 1968, con il quale l'ospedale "Boschi-Subbiano" di Subbiano, e' stato classificato ospedale generale di zona a norma degli articoli 19, 20, 21 e 54 della citata legge n. 132;
+
+Visto il verbale in data 13 luglio 1970 della commissione per l'individuazione e l'inventario dei beni che devono essere trasferiti al nuovo ente ospedaliero ai sensi del secondo comma dell'art. 5 della legge 12 febbraio 1968, n. 132;
+
+Visti gli articoli 3, 5, 54 e 57 della legge medesima;
+
+Sulla proposta del Ministro per la sanita' di concerto con il Ministro per l'interno;
+
+Decreta:
+
+L'ospedale "Boschi-Subbiano", con sede in Subbiano (Arezzo), di cui alle premesse, e' costituito in ente ospedaliero.
+
+Il patrimonio dell'ente ospedaliero predetto e' costituito da:
+
+Immobili:
+
+Fabbricati, con annesso terreno di mq. 7900, siti in Subbiano, via Aretina, censiti al catasto fabbricati alla partita 379, foglio n. 47, particelle 140, 178, 269, 270 e 271 e descritti negli allegati sub. 4 e sub. 7 al verbale citato nelle premesse.
+
+Mobili:
+
+Beni mobili, attrezzature, arredi, ecc. specificatamente indicati nel predetto allegato sub. 7, per un valore complessivo di L. 55.726.700.
+
+Il medico provinciale di Arezzo, nel termine di due mesi dalla emanazione del presente decreto, nominera' un commissario per la provvisoria gestione dell'ente ospedaliero.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 ottobre 1970
+
+SARAGAT
+
+MARIOTTI - RESTIVO
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 13 gennaio 1971
+
+Atti del Governo, registro n. 240, foglio n. 37. - CARUSO

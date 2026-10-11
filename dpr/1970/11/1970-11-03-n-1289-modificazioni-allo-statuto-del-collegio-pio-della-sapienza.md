@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1970, n. 1289 — Modificazioni allo statuto del collegio pio della \"Sapienza\", con sede in Perugia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-03;1289"
+eli: "https://www.normattiva.it/eli/id/1971/02/10/070U1289/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1970-11-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 34 del 1971-02-10"
+codice_redazionale: "070U1289"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-03;1289"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1970, n. 1289
+
+**Modificazioni allo statuto del collegio pio della "Sapienza", con sede in Perugia.**
+
+## Art. 1
+
+N. 1289. Decreto del Presidente della Repubblica 3 novembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono modificati gli articoli 4, 7, 16, 17, 18, 19, 20, 21 e 24 dello statuto del collegio pio della "Sapienza", con sede in Perugia.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 28 gennaio 1971
+
+Atti del Governo, registro n. 240, foglio n. 128. - CARUSO

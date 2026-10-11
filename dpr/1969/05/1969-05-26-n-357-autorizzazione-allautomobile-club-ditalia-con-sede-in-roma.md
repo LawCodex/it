@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1969, n. 357 — Autorizzazione all'Automobile club d'Italia, con sede in Roma e all'Automobile club di Terni ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-05-26;357"
+eli: "https://www.normattiva.it/eli/id/1969/07/14/069U0357/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-05-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 176 del 1969-07-14"
+codice_redazionale: "069U0357"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-05-26;357"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1969, n. 357
+
+**Autorizzazione all'Automobile club d'Italia, con sede in Roma e all'Automobile club di Terni ad acquistare un immobile.**
+
+## Art. 1
+
+N. 357. Decreto del Presidente della Repubblica 26 maggio 1969, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma e l'Automobile club di Terni vengono autorizzati ad acquistare in comproprieta', dalla societa' "Impresa edile Pierini di Sergio ed Angelo Euro Pierini, soc. in n. c.", con sede in Terni, per il prezzo di L. 118.000.000, la rata di fabbricato del costruendo edificio posto in Terni alla via Cesare Battisti in angolo viale della Fonderia, comprendente: un piano interrato della superficie di mq. 420; un piano terra esteso mq. 470; un primo piano della superficie di mq. 456 con annessa terrazza a livello di mq. 150, nonche' l'area antistante sul lato prospettante via Cesare Battisti mq. 400 circa destinata a parcheggio.
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 8 luglio 1969
+
+Atti del Governo, registro n. 227, foglio n. 147. - CARUSO

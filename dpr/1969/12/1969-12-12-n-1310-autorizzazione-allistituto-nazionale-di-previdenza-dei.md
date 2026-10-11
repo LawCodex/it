@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1969, n. 1310 — Autorizzazione all'istituto nazionale di previdenza dei giornalisti italiani \"G. Amendola\", con sede in Roma, ad acquistare cinque fabbricati."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-12;1310"
+eli: "https://www.normattiva.it/eli/id/1970/05/21/069U1310/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-12-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 126 del 1970-05-21"
+codice_redazionale: "069U1310"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-12;1310"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 dicembre 1969, n. 1310
+
+**Autorizzazione all'istituto nazionale di previdenza dei giornalisti italiani "G. Amendola", con sede in Roma, ad acquistare cinque fabbricati.**
+
+## Art. 1
+
+N. 1310. Decreto del Presidente della Repubblica 12 dicembre 1969, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale di previdenza dei giornalisti italiani "G. Amendola" viene autorizzato ad acquistare in Roma cinque fabbricati di nuova costruzione, composti ognuno dal piano interrato, dal piano seminterrato, da quattro piani fuori terra e dal piano attico, di proprieta' delle societa' per azioni "Lago di Monterosi", "Lago di Pilato", "Immobiliare edilizia lago di Martignano", "Lago di Campotosto" ed "Immobiliare edilizia lago di Vico", come da rogito per notaio avvocato Carlo Selvaggi del 25 giugno 1968, distinti nel catasto urbano di Roma, registro esenti, alle partite numeri 199510, 200104, 199788, 200078, 199787 e siti rispettivamente: in via Tito Omboni, senza numero civico, il fabbricato di proprieta' della societa' "Lago di Monterosi"; interno al cassone edilizio tra via Tito Omboni e via Ignazio Guidi, con accesso da strada privata che si diparte da via Guidi, il fabbricato di proprieta' della societa' "Lago di Pilato"; in via Ignazio Guidi, il fabbricato di proprieta' della societa' "Immobiliare edilizia lago di Martignano"; interno al cassone edilizio tra via Tito Omboni e via Ignazio Guidi con accesso da strada privata che si diparte da via Guidi, il fabbricato della societa' "Lago di Campotosto"; in via Ignazio Guidi, il fabbricato di proprieta' della societa' "Immobiliare edilizia lago di Vico". I suddetti acquisti vengono effettuati dall'Istituto nazionale di previdenza dei giornalisti italiani "G. Amendola" in ragione di L. 305.000.000 per l'immobile di proprieta' della "Lago di Monterosi S.p.a.", di lire 195.000.000 per l'immobile appartenente alla "Lago di Pilato S.p.a.", di L. 225.000.000 per l'immobile di proprieta' della "Immobiliare edilizia lago di Martignano S.p.a.", di L. 200.000.000 per l'immobile appartenente alla "Lago di Campotosto S.p.a." e di lire 225.000.000 per l'immobile di proprieta' della "Immobiliare edilizia lago di Vico S.p.a.".
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 13 maggio 1970
+
+Atti del Governo, registro n. 235, foglio n. 75. - CARUSO

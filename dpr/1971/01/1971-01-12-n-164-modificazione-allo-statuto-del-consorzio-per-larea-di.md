@@ -1,0 +1,52 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1971, n. 164 — Modificazione, allo statuto del consorzio per l'area di sviluppo industriale di Bari."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-12;164"
+eli: "https://www.normattiva.it/eli/id/1971/04/21/071U0164/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1971-01-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 98 del 1971-04-21"
+codice_redazionale: "071U0164"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-12;164"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1971, n. 164
+
+**Modificazione, allo statuto del consorzio per l'area di sviluppo industriale di Bari.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto del Presidente della Repubblica del 31 gennaio 1964, n. 104, con il quale e' stato approvato lo statuto del consorzio per l'area di sviluppo industriale di Bari;
+
+Vista la delibera n. 6/68 del 1 luglio 1968 del consiglio generale del consorzio per l'area di sviluppo industriale di Bari;
+
+Vista la nota del Ministero dell'industria, del commercio e dell'artigianato n. 100487/79 del 23 febbraio 1970;
+
+Visto l'art. 145 del testo unico 30 giugno 1967, n. 1523;
+
+Vista la deliberazione del 10 luglio 1970 del comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;
+
+Sulla proposta del Presidente del Consiglio dei Ministri;
+
+Decreta:
+
+E' approvata la modifica apportata all'art. 12 dello statuto del consorzio per l'area di sviluppo industriale di Bari nei termini indicati dalla delibera n. 6/68 del 1 luglio 1968 del consiglio generale del consorzio stesso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 gennaio 1971
+
+SARAGAT
+
+COLOMBO
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 15 aprile 1971
+
+Atti del Governo, registro n. 241, foglio n. 134. - CARUSO

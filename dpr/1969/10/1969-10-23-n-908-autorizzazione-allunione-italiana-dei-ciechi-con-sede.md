@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969, n. 908 — Autorizzazione all'Unione italiana dei ciechi, con sede centrale in Roma, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-23;908"
+eli: "https://www.normattiva.it/eli/id/1969/12/12/069U0908/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-10-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 313 del 1969-12-12"
+codice_redazionale: "069U0908"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-23;908"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969, n. 908
+
+**Autorizzazione all'Unione italiana dei ciechi, con sede centrale in Roma, ad accettare un legato.**
+
+## Art. 1
+
+N. 908. Decreto del Presidente della Repubblica 23 ottobre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad accettare un legato - consistente nel 2% della quota di partecipazione del testatore nella Societa' immobiliare Riccardo Filippa, al netto degli oneri tributari, ivi comprese le imposte di successione dovute dalla moglie del testatore, erede universale - disposto a suo favore dal defunto sig. Riccardo Filippa, con testamento olografo dell'11 maggio 1964, depositato e pubblicato (assieme ai relativi due codicilli, rispettivamente, in data 15 aprile 1964 e 16 aprile 1965) con atto a rogito dott. Pietro Bourlot, notaio in Torino, in data 10 settembre 1965, repertorio n. 38508, atti n. 20785.
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 3 dicembre 1969
+
+Atti del Governo, registro n. 230, foglio n. 135. - CARUSO

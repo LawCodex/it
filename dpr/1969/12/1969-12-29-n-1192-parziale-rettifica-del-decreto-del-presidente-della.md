@@ -1,0 +1,48 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1969, n. 1192 — Parziale rettifica del decreto del Presidente della Repubblica 31 ottobre 1969, n. 1095, concernente la ripartizione di cattedre universitarie per l'anno accademico 1969-1970."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-29;1192"
+eli: "https://www.normattiva.it/eli/id/1970/03/06/069U1192/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-12-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 59 del 1970-03-06"
+codice_redazionale: "069U1192"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-29;1192"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1969, n. 1192
+
+**Parziale rettifica del decreto del Presidente della Repubblica 31 ottobre 1969, n. 1095, concernente la ripartizione di cattedre universitarie per l'anno accademico 1969-1970.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto del Presidente della Repubblica 31 ottobre 1969, n. 1095, con il quale sono stati assegnati alle varie facolta' universitarie, con effetto dall'anno accademico 1969-70, duecentotrentacinque posti di professore di ruolo dei duecentosettanta istituiti, per l'anno accademico medesimo, con la legge 24 febbraio 1967, n. 62;
+
+Visto il verbale dell'adunanza del 6 dicembre 1969, nella quale la facolta' di lettere e filosofia dell'Universita' di Pisa ha proposto che il posto di professore di ruolo assegnatole con il citato decreto del Presidente della Repubblica 31 ottobre 1969, per il raddoppiamento della cattedra di storia della filosofia venga trasferito al raddoppiamento della cattedra di filosofia teoretica;
+
+Ritenuta l'opportunita' dell'accoglimento della proposta della facolta' anzidetta;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Il decreto del Presidente della Repubblica 31 ottobre 1969, n. 1095, e' parzialmente rettificato nel senso che alla facolta' di lettere e filosofia dell'Universita' di Pisa e' assegnato, ai sensi della legge 24 febbraio 1967, n. 62, per l'anno accademico 1969-70 un posto di professore di ruolo per il raddoppiamento della cattedra di filosofia teoretica, anziche' per il raddoppiamento della cattedra di storia della filosofia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 dicembre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 26 febbraio 1970
+
+Atti del Governo, registro n. 233, foglio n. 20. - CARUSO

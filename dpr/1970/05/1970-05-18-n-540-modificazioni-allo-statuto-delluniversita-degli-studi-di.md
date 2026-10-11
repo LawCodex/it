@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970, n. 540 — Modificazioni allo statuto dell'Universita' degli studi di Perugia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1970-05-18;540"
+eli: "https://www.normattiva.it/eli/id/1970/07/30/070U0540/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1970-05-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 191 del 1970-07-30"
+codice_redazionale: "070U0540"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-05-18;540"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970, n. 540
+
+**Modificazioni allo statuto dell'Universita' degli studi di Perugia.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con regio decreto 20 aprile 1939, n. 1107 e modificato con regio decreto 2 ottobre 1940, n. 1471, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933; n. 1592;
+
+Veduto il decreto del Presidente della Repubblica 27 maggio 1969, n. 325, con il quale veniva assegnato un posto di assistente di ruolo alla cattedra di istituzioni di diritto pubblico del corso di laurea in economia e commercio;
+
+Veduto il decreto del Presidente della Repubblica 27 maggio 1969, n. 326, con il quale veniva assegnato un posto di assistente di ruolo alla cattedra di istituzioni di diritto pubblico e un posto di assistente di ruolo alla cattedra di politica economica e finanziaria entrambi del corso di laurea in economia e commercio;
+
+Veduto il decreto del Presidente della Repubblica 29 maggio 1969, n. 413, con il quale veniva stabilito l'organico della nuova facolta' di economia e commercio della stessa Universita' di Perugia;
+
+Riconosciuta la necessita' di specificare meglio l'assegnazione dei suddetti posti di assistente di ruolo;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+L'art. 2 del suddetto nostro decreto 29 maggio 1969, n. 413, e' integrato nel senso che ai diciassette posti di assistente di ruolo assegnati alla facolta' di economia e commercio, mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche, sono aggiunti i tre posti di assistenti di ruolo concessi con i nostri due decreti 27 maggio 1969, n. 325 e 326 e assegnati al corso di laurea in economia e commercio e cioe': due assegnati alla cattedra di istituzioni di diritto pubblico e uno alla cattedra di politica economica e finanziaria.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 maggio 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 24 luglio 1970
+
+Atti del Governo, registro n. 236, foglio n. 184. - IZZI

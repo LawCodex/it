@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1971, n. 633 — Erezione in ente morale della \"Fondazione Hoechst\", con sede in Milano."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1971-04-16;633"
+eli: "https://www.normattiva.it/eli/id/1971/08/30/071U0633/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1971-04-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 218 del 1971-08-30"
+codice_redazionale: "071U0633"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-04-16;633"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1971, n. 633
+
+**Erezione in ente morale della "Fondazione Hoechst", con sede in Milano.**
+
+## Art. 1
+
+N. 633. Decreto del Residente della Repubblica 16 aprile 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, la "Fondazione Hoechst", con sede in Milano, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 17 agosto 1971
+
+Atti del Governo, registro n. 243, foglio n. 135. - PASQUALUCCI

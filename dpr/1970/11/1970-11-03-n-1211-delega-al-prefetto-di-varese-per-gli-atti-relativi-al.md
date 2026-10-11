@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1970, n. 1211 — Delega al prefetto di Varese per gli atti relativi al conferimento della personalita' giuridica alla fondazione \"Giuseppe Gianetti\", con sede in Saronno."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-03;1211"
+eli: "https://www.normattiva.it/eli/id/1971/01/27/070U1211/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1970-11-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 21 del 1971-01-27"
+codice_redazionale: "070U1211"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-03;1211"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 novembre 1970, n. 1211
+
+**Delega al prefetto di Varese per gli atti relativi al conferimento della personalita' giuridica alla fondazione "Giuseppe Gianetti", con sede in Saronno.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le disposizioni del titolo II del libro I del codice civile;
+
+Visto l'art. 1 delle disposizioni per l'attuazione del codice medesimo;
+
+Visto lo statuto della fondazione "Giuseppe Gianetti", con sede in Saronno, istituita dalla sig.ra Giovanna Biffi ved. Gianetti con atto pubblico in data 21 luglio 1969, n. 36784-7861 di repertorio, a rogito del dott. Mario Belasio, notaio in Saronno;
+
+Vista l'istanza della stessa sig.ra Biffi ved. Gianetti, intesa ad ottenere il riconoscimento giuridico della predetta fondazione;
+
+Considerato che tale istituzione, ai sensi del citato statuto, ha lo scopo di favorire e promuovere opere di formazione morale e culturale a dimensione cittadina o zonale, e pertanto si appalesa opportuno delegare al prefetto della provincia di Varese l'esercizio delle facolta' riservate dal codice civile all'autorita' governativa, sia per quanto concerne gli atti inerenti al conferimento alla fondazione suddetta della personalita' giuridica, sia per quanto concerne gli atti relativi all'autorizzazione per l'acquisto di beni immobili, l'accettazione di donazioni o eredita' ed il conseguimento di legati da parte della fondazione medesima;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+E' delegato al prefetto della provincia di Varese l'esercizio delle facolta' riservate dal codice civile all'autorita' governativa, sia per quanto concerne gli atti inerenti al conferimento della personalita' giuridica alla fondazione "Giuseppe Gianetti", con sede in Saronno, sia per quanto riguarda gli atti relativi all'autorizzazione per l'acquisto di beni immobili, l'accettazione di donazioni o eredita' ed il conseguimento di legati da parte della fondazione medesima.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 novembre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
+
+Atti del Governo, registro n. 240, foglio n. 69. - CARUSO

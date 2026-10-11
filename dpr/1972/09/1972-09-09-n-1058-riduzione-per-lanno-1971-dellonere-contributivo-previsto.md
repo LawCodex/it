@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1972, n. 1058 — Riduzione, per l'anno 1971, dell'onere contributivo previsto dall'art. 7 della legge 27 luglio 1967, n. 658, a carico degli armatori e dei marittimi dei pescherecci operanti nel Mediterraneo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-09-09;1058"
+eli: "https://www.normattiva.it/eli/id/1973/03/12/072U1058/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1972-09-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 66 del 1973-03-12"
+codice_redazionale: "072U1058"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-09-09;1058"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1972, n. 1058
+
+**Riduzione, per l'anno 1971, dell'onere contributivo previsto dall'art. 7 della legge 27 luglio 1967, n. 658, a carico degli armatori e dei marittimi dei pescherecci operanti nel Mediterraneo.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 19 della legge 28 marzo 1968, n. 479, recante modifiche all'art. 22 della legge 27 luglio 1967, n. 658, in base al quale il contributo straordinario dello Stato, destinato a ridurre l'onere contributivo degli armatori e dei marittimi dei pescherecci operanti nel Mediterraneo, e' stato elevato da lire 5.000 milioni a lire 10.000 milioni;
+
+Visto l'art. 22, terzo comma, della legge 27 luglio 1967, n. 658, nel testo sostituito dall'art. 19 della legge 28 marzo 1968, n. 479, che fissa, per l'anno 1971, in lire 2.000 milioni la annualita' del contributo straordinario dello Stato in favore dei pescherecci operanti nel Mediterraneo;
+
+Considerato che l'aliquota contributiva a carico degli armatori e dei marittimi dei pescherecci adibiti alla pesca entro il Mediterraneo deve essere determinata con la forma e le modalita' previste dal secondo comma dell'art. 7 della legge n. 658, tenendo conto del concorso finanziario dello Stato;
+
+Udito il parere del comitato amministratore della Cassa nazionale di previdenza marinara, emesso l'8 ottobre 1971, secondo il quale il contributo finanziario dello Stato stabilito, per il 1971, a favore degli armatori e dei marittimi dei pescherecci operanti nel Mediterraneo comporta una riduzione dell'onere contributivo globale nella misura del 22,50 per cento delle retribuzioni imponibili previste dalla tabella GM.2 allegata alla legge 27 luglio 1967, n. 658, in relazione al genere della nave e alla qualifica rivestita a bordo dal marittimo;
+
+Sulla proposta dei Ministri per il lavoro e la previdenza sociale e per la marina mercantile, di concerto con il Ministro per il tesoro;
+
+Decreta:
+
+## Art. 1
+
+L'onere contributivo globale previsto dall'art. 7 della legge 27 luglio 1967, n. 658, a carico degli armatori e dei marittimi dei pescherecci operanti nel Mediterraneo e' ridotto, per l'anno 1971, del 22,50 per cento delle retribuzioni fissate dalla tabella GM.2 allegata alla legge stessa, in relazione al genere della nave e alla qualifica rivestita a bordo dal marittimo.
+
+## Art. 2
+
+Per effetto della riduzione prevista dall'art. 1 del presente decreto, gli armatori ed i marittimi dei pescherecci operanti nel Mediterraneo sono, per l'anno 1971, esonerati dal versamento del contributo integrativo del 6 per cento di competenza della Gestione marittimi della Cassa nazionale di previdenza marinara e tenuti al versamento del contributo dovuto al fondo pensioni lavoratori dipendenti di cui all'art. 29 della legge 30 aprile 1969, n. 153, con una riduzione di 16,50 punti del coefficiente di commisurazione del contributo stesso, fermo restando il criterio di ripartizione di tale residuo carico contributivo, fra armatori e marittimi, secondo le norme generali relative alla contribuzione di competenza del predetto fondo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 settembre 1972
+
+LEONE
+
+Coppo - LUPIS - MALAGODI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 3 marzo 1973
+
+Atti di Governo, registro n. 256, foglio n. 48. - VALENTINI

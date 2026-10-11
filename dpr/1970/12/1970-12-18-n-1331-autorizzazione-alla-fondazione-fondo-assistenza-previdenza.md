@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1970, n. 1331 — Autorizzazione alla fondazione \"Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri\", con sede in Roma, ad acquistare un appezzamento di terreno."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-18;1331"
+eli: "https://www.normattiva.it/eli/id/1971/02/23/070U1331/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1970-12-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 47 del 1971-02-23"
+codice_redazionale: "070U1331"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-18;1331"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1970, n. 1331
+
+**Autorizzazione alla fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, ad acquistare un appezzamento di terreno.**
+
+## Art. 1
+
+N. 1331. Decreto del Presidente della Repubblica 18 dicembre 1970, col quale, sulla proposta del Ministro per la difesa, la fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, viene autorizzata ad acquistare dalla signora Pitscheider Teresa in Demerz, al prezzo di L. 195.000, l'appezzamento di terreno di mq. 65 identificato con la particella fondiaria 621/4 in partita tavolare 215/II del comune catastale di Selva di Val Gardena.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 15 febbraio 1971
+
+Atti del Governo, registro n. 240, foglio n. 182. - CARUSO

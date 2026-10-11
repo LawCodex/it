@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971, n. 739 — Riconoscimento, agli effetti civili, della erezione della parrocchia della Nativita' di Maria Vergine, in Cardano al Campo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1971-05-19;739"
+eli: "https://www.normattiva.it/eli/id/1971/09/11/071U0739/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1971-05-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 229 del 1971-09-11"
+codice_redazionale: "071U0739"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-05-19;739"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971, n. 739
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia della Nativita' di Maria Vergine, in Cardano al Campo.**
+
+## Art. 1
+
+N. 739. Decreto del Presidente della Repubblica 19 maggio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto agli effetti civili, il decreto dell'ordinario diocesano di Milano in data 1 giugno 1970, integrato con altro decreto 30 novembre 1970 e dichiarazione del 10 dicembre successivo, relativo alla erezione della parrocchia della Nativita' di Maria Vergine, nel rione Cuoricino di Cardano al Campo (Varese).
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 28 agosto 1971
+
+Atti del Governo, registro n. 244, foglio n. 29. - PASQUALUCCI

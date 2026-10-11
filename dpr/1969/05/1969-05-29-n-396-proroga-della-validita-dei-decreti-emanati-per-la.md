@@ -1,0 +1,66 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969, n. 396 — Proroga della validita' dei decreti emanati per la esecuzione della Convenzione Yaounde' del 20 luglio 1963 relativa all'Associazione tra la Comunita' economica europea e gli Stati africani e malgascio."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-05-29;396"
+eli: "https://www.normattiva.it/eli/id/1969/07/24/069U0396/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-05-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 187 del 1969-07-24"
+codice_redazionale: "069U0396"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-05-29;396"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969, n. 396
+
+**Proroga della validita' dei decreti emanati per la esecuzione della Convenzione Yaounde' del 20 luglio 1963 relativa all'Associazione tra la Comunita' economica europea e gli Stati africani e malgascio.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 20 maggio 1964, n. 406, sulla ratifica e l'esecuzione degli Accordi internazionali firmati a Yaounde' il 20 luglio 1963 e degli Atti connessi relativi alla Associazione fra la Comunita' economica europea e gli Stati africani e malgascio associati a tale Comunita';
+
+Visto il decreto del Presidente della Repubblica 5 agosto 1966, n. 943, sulla nozione di "prodotti originari", e metodi di cooperazione amministrativa ai fini della applicazione del titolo I della convenzione di associazione fra la Comunita' economica europea e gli Stati africani e malgascio;
+
+Visto il decreto del Presidente della Repubblica 27 maggio 1967, n. 701, sulla nozione di origine di alcuni prodotti ai fini dell'applicazione del titolo I della convenzione di associazione tra la Comunita' economica europea e gli Stati africani e malgascio;
+
+Vista la decisione del 28 maggio 1969 del consiglio di associazione tra la Comunita' economica europea e gli Stati africani e malgascio, relativa alle misure transitorie da porre in atto dopo il 31 maggio 1969, adottata ai sensi dell'art. 60 della convenzione di Yaounde' del 20 luglio 1963;
+
+Visto il decreto del Presidente della Repubblica 24, dicembre 1960, n. 1584, che da' applicazione alla decisione del Consiglio dei Ministri delle Comunita' europee del 13 febbraio 1960 che stabilisce la tariffa doganale comune, e successive aggiunte e modificazioni;
+
+Vista la tariffa dei dazi doganali di importazione della Repubblica italiana approvata con decreto del Presidente della Repubblica 26 giugno 1965, n. 723;
+
+Vista la legge doganale 25 settembre 1940, n. 1424, e successive aggiunte e varianti;
+
+Visto l'art. 3 della citata legge 20 maggio 1964, n. 406, che conferisce al Governo la delega ad emanare, fino alla scadenza prevista dall'art. 59 della convenzione di associazione, con decreti aventi valore di legge ordinaria, le norme necessarie a dare esecuzione agli obblighi derivanti dalla Convenzione stessa e dagli Atti connessi;
+
+Visto l'art. 87 della Costituzione;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per l'industria, il commercio e l'artigianato, per l'agricoltura e le foreste e per il commercio con l'estero;
+
+Decreta:
+
+## Art. 1
+
+La validita' dei decreti del Presidente della Repubblica 5 agosto 1966, n. 943 e 27 maggio 1967, n. 701 citati nelle premesse, e' prorogata fino all'entrata in vigore della nuova Convenzione prevista dall'art. 60 della Convenzione di Yaounde' del 20 luglio 1963 e comunque non oltre il 30 giugno 1970.
+
+## Art. 2
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana ed ha effetto a partire dal 1 giugno 1969.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 maggio 1969
+
+SARAGAT
+
+RUMOR - REALE - NENNI - TANASSI - VALSECCHI - V. COLOMBO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 10 luglio 1969
+
+Atti del Governo, registro n. 227, foglio n. 183. - CARUSO

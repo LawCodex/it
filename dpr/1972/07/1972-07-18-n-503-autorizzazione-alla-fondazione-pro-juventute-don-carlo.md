@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972, n. 503 — Autorizzazione alla fondazione \"Pro juventute Don Carlo Gnocchi\", con sede in Roma, ad accettare una eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-07-18;503"
+eli: "https://www.normattiva.it/eli/id/1972/09/06/072U0503/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1972-07-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 232 del 1972-09-06"
+codice_redazionale: "072U0503"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-07-18;503"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972, n. 503
+
+**Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.**
+
+## Art. 1
+
+N. 503. Decreto del Presidente della Repubblica 18 luglio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - consistente in immobili (appartamento con orto ed un negozio) siti in Milano, via Graziano Imperatore n. 43, del valore presunto di L. 15.000.000, come si rileva da perizia giurata del geom. Dino Casiraghi, gravati di usufrutto in favore del marito e della sorella della de cuius - disposta dalla signora Natalina Pizzi in Villani, con testamento olografo del 10 novembre 1966 pubblicato con verbale a rogito del dottor Virgilio Neri, notaio in Milano, in data 11 marzo 1969 (n. 28914 di repertorio, n. 6220 di raccolta), registrato a Milano il 22 marzo 1969 al n. 5219 - Serie G.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 30 agosto 1972
+
+Atti del Governo, registro n. 251, foglio n. 1. - VALENTINI

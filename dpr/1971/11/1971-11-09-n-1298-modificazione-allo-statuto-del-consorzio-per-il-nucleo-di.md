@@ -1,0 +1,52 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1971, n. 1298 — Modificazione allo statuto del consorzio per il nucleo di industrializzazione di Reggio Calabria."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-09;1298"
+eli: "https://www.normattiva.it/eli/id/1972/02/10/071U1298/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1971-11-09
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 38 del 1972-02-10"
+codice_redazionale: "071U1298"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-09;1298"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1971, n. 1298
+
+**Modificazione allo statuto del consorzio per il nucleo di industrializzazione di Reggio Calabria.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il proprio decreto n. 1016 del 9 luglio 1963, con il quale e' stato approvato lo statuto del consorzio per il nucleo di industrializzazione di Reggio Calabria;
+
+Viste le delibere n. 16 del 28 ottobre 1969 e n. 20 del 20 agosto 1970 del consiglio generale del consorzio per il nucleo di industrializzazione di Reggio Calabria;
+
+Vista la nota n. 101759/74 del 16 giugno 1970 del Ministero dell'industria, del commercio e dell'artigianato;
+
+Visto l'art. 145 del testo unico 30 giugno 1967, numero 1523;
+
+Vista la deliberazione del 19 dicembre 1970 del comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;
+
+Su proposta del Presidente del Consiglio dei Ministri;
+
+Decreta:
+
+E' approvata la modifica apportata all'art. 3 dello statuto del consorzio per il nucleo di industrializzazione di Reggio Calabria, nei termini indicati dalle delibere n. 16 del 28 ottobre 1969 e n. 20 del 20 agosto 1970 del consiglio generale del consorzio stesso, di cui al testo allegato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 novembre 1971
+
+SARAGAT
+
+COLOMBO
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 4 febbraio 1972
+
+Atti del Governo, registro n. 246, foglio n. 71. - VALENTINI

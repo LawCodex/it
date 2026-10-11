@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972, n. 867 — Autorizzazione all'Associazione italiana della croce rossa ad accettare una eredita'."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1972-09-26;867"
+eli: "https://www.normattiva.it/eli/id/1973/01/12/072U0867/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1972-09-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 10 del 1973-01-12"
+codice_redazionale: "072U0867"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-09-26;867"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972, n. 867
+
+**Autorizzazione all'Associazione italiana della croce rossa ad accettare una eredita'.**
+
+## Art. 1
+
+N. 867. Decreto del Presidente della Repubblica 26 settembre 1972, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana, della croce rossa viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' disposta dal marchese Salvatore Spinelli, con testamento olografo del 25 settembre 1954, depositato e pubblicato con verbale in data 9 maggio 1955, n. 53085 di repertorio a rogito notar E. Minore in Catania.
+
+Considerato che l'eredita' suddetta consiste nella quota parte in ragione di un terzo, di mobili, depositi bancari, azioni, canoni attivi, nonche' dei seguenti immobili: 1) terre nel comune di Biancavilla (Catania) della complessiva estensione catastale di Ha 166.45.57 dei quali coltivato ad agrumeto Ha 12.06.99 e il resto a seminiero. Catastato alla partita n. 3564 diviso in diversi poderi, foglio n. 56, particella 12, 21, 51, 34, 55, 54, 35, 106; foglio n. 57, particella 66, 68, 69, 65, 179, 183, 184, 67, 186, 188, 189, 215, 182, 190, 187, 70, 181, 216, 132, 64; foglio n. 61, particella 1, 2, 3, 13, 73, 74; 2) terre nel comune di Biancavilla, catastate alla partita n. 3564, costituenti il podere Mastropaolo, complessivamente esteso Ha 11.25.29 dei quali Ha 2.04.79 a chiusa e il resto a seminiero, costituito dalle seguenti particelle catastali foglio n. 57, particelle 19, 128-b, 4, 128-a, 122, 123, 125; 3) fabbricato nel comune di Catania, via Guglia n. 24, catastato alla partita n. 49963 composto di 7 vani a piano rialzato con terrazza a villetta, di 4 vani ammezzati e 8 vani al 1° piano; beni mobili ed immobili del denunciato valore di lire 35.974.121.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 3 gennaio 1973
+
+Atti di Governo, registro n. 254, foglio n. 71. - CARUSO

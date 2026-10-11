@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969, n. 769 — Inclusione dell'abitato di Ventimiglia tra quelli da consolidare a cura e spese dello Stato, limitatamente alla zona in destra del fiume Roia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-31;769"
+eli: "https://www.normattiva.it/eli/id/1969/11/14/069U0769/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-03-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 288 del 1969-11-14"
+codice_redazionale: "069U0769"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-31;769"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969, n. 769
+
+**Inclusione dell'abitato di Ventimiglia tra quelli da consolidare a cura e spese dello Stato, limitatamente alla zona in destra del fiume Roia.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 9 luglio 1908, n. 445;
+
+Visto il decreto-legge luogotenenziale 30 giugno 1918, n. 1019;
+
+Visto il regio decreto 4 novembre 1938, n. 2016, con il quale l'abitato di Ventimiglia, in provincia di Imperia, fu ammesso tra quelli da consolidare a cura e spese dello Stato, ai sensi della citata legge 9 luglio 1908, n. 445;
+
+Considerato che i movimenti franosi verificatisi in prosieguo di tempo hanno interessato soltanto una parte del centro abitato, mentre la restante parte si e' dimostrata di positivo equilibrio geologico;
+
+Ritenuta l'opportunita' di procedere alla revisione del provvedimento a suo tempo adottato col citato regio decreto 4 novembre 1938, n. 2016;
+
+Visto il conforme parere del Consiglio superiore dei lavori pubblici espresso con voto n. 1524, emesso nell'adunanza del 19 novembre 1968;
+
+Sulla proposta del Ministro Segretario di Stato per i lavori pubblici;
+
+Decreta:
+
+A decorrere dalla data del presente decreto la dichiarazione, di cui al regio decreto 4 novembre 1938, n. 2016, d'ammissione al consolidamento a cura e spese dello Stato ai sensi della legge 9 luglio 1908, n. 445, dell'intero abitato del comune di Ventimiglia (Imperia) cessa d'avere validita', restando l'ammissione stessa limitata alla zona in destra del fiume Roia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 marzo 1969
+
+SARAGAT
+
+MANCINI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 31 ottobre 1969
+
+Atti del Governo, registro n. 229, foglio n. 160. - CARUSO

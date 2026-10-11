@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1969, n. 786 — Autorizzazione all'ordine dei medici della provincia di Roma ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-18;786"
+eli: "https://www.normattiva.it/eli/id/1969/11/17/069U0786/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1969-09-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 290 del 1969-11-17"
+codice_redazionale: "069U0786"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-18;786"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1969, n. 786
+
+**Autorizzazione all'ordine dei medici della provincia di Roma ad acquistare un immobile.**
+
+## Art. 1
+
+N. 786. Decreto del Presidente della Repubblica 18 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'ordine dei medici della provincia di Roma viene autorizzato ad acquistare l'immobile sito in Roma, via Antonio Bosia numeri 19 e 19-A e via G. B. De Rossi n. 11, di proprieta' della signora Maria Anguillar Ros al prezzo di L. 129.000.000.
+
+Visto, il Guardasigilli: GAVA
+
+Registrato alla Corte dei conti, addi' 6 novembre 1969
+
+Atti del Governo, registro n. 230, foglio n. 16. - CARUSO

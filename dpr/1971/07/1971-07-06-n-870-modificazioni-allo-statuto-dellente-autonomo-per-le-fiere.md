@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971, n. 870 — Modificazioni allo statuto dell'Ente autonomo per le fiere di Bologna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-06;870"
+eli: "https://www.normattiva.it/eli/id/1971/11/02/071U0870/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1971-07-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 277 del 1971-11-02"
+codice_redazionale: "071U0870"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-06;870"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971, n. 870
+
+**Modificazioni allo statuto dell'Ente autonomo per le fiere di Bologna.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto-legge 29 gennaio 1934, n. 454, convertito nella legge 5 luglio 1934, n. 1607, sulla disciplina delle fiere, mostre ed esposizioni;
+
+Visti i decreti del Presidente della Repubblica 3 settembre 1956, n. 1359 e 19 maggio 1970, n. 461, con i quali e' stata riconosciuta la personalita' giuridica allo Ente autonomo per le fiere di Bologna, e ne sono stati approvati lo statuto e la sua modifica;
+
+Vista la deliberazione 23 dicembre 1970 del consiglio generale dell'ente, con la quale si propone la modifica dello statuto;
+
+Sentito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per l'industria, il commercio e l'artigianato;
+
+Decreta:
+
+Lo statuto dell'Ente autonomo per le fiere di Bologna, con sede in Bologna, approvato con i decreti del Presidente della Repubblica 3 settembre 1956, n. 1359 e 19 maggio 1970, n. 461, e' modificato come appresso:
+
+Il terzo comma dell'art. 8 e' sostituito dal seguente:
+
+"In caso di assenza o di impedimento del presidente ne fa le veci, ad ogni effetto, quello dei due vice presidenti dell'ente scelti fra i rappresentanti dei soci fondatori e nominati dal Ministro per l'industria, il commercio e l'artigianato, su proposta del consiglio generale, indicato dal presidente stesso o, in mancanza di indicazione, il vice presidente piu' anziano in carica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 luglio 1971
+
+SARAGAT
+
+GAVA
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 26 ottobre 1971
+
+Atti del Governo, registro n. 244, foglio n. 184. - CARUSO
