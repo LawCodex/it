@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1958, n. 991 — Autorizzazione alla \"Fondazione Pro Juventute Don Carlo Gnocchi\" ad acquistare, dal comune di Milano, un appezzamento di terreno per la costruzione del Centro pilota per poliomielitici e minorati fisici."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1958-09-23;991"
+eli: "https://www.normattiva.it/eli/id/1958/11/11/058U0991/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1958-09-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 271 del 1958-11-11"
+codice_redazionale: "058U0991"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-09-23;991"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1958, n. 991
+
+**Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad acquistare, dal comune di Milano, un appezzamento di terreno per la costruzione del Centro pilota per poliomielitici e minorati fisici.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il proprio decreto 11 febbraio 1952, n. 346, con il quale la Fondazione "Pro Juventute", con sede in Roma, e' stata eretta in ente morale ed e' stato altresi' approvato il relativo statuto;
+
+Visto il proprio decreto 29 marzo 1956, n. 473, con il quale e' stato modificato l'art. 7 dello statuto anzidetto;
+
+Visto il proprio decreto 3 luglio 1957, n. 648, con il quale la Fondazione "Pro Juventute" e' stata autorizzata ad acquistare dal comune di Milano, un'area edificabile in Milano della superficie di mq. 18.900 circa, situata in fregio alla via Capecelatro;
+
+Vista la domanda in data 21 marzo 1958, con la quale il presidente della Fondazione ha chiesto l'autorizzazione ad acquistare dallo stesso comune di Milano, per il prezzo di L. 3400 al mq., un altro appezzamento di terreno della superficie di mq. 3.960 contiguo all'area edificabile di cui innanzi, ritenuto necessario per la costruzione del Centro pilota per poliomielitici e minorati fisici;
+
+Ritenuto che la cessione del terreno anzidetto e' stata approvata dal Consiglio comunale di Milano con deliberazione del 18 dicembre 1957, resa esecutiva con visto della Giunta provinciale amministrativa di Milano n. 516 del 17 gennaio 1958;
+
+Visto il proprio decreto in data 19 giugno 1958, con il quale la Fondazione "Pro Juventute" ha assunto la denominazione di "Fondazione Pro Juventute Don Carlo Gnocchi";
+
+Visti la legge 5 giugno 1850, n. 1037, ed il regio decreto 26 giugno 1864, n. 1817;
+
+Visti l'art. 17 del Codice civile e l'art. 5 delle disposizioni per l'attuazione dello stesso Codice;
+
+Visti gli atti di istruttoria e quelli prodotti a corredo della domanda;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Presidente del Consiglio dei Ministri;
+
+Decreta:
+
+La "Fondazione Pro Juventute Don Carlo Gnocchi" e' autorizzata ad acquistare l'appezzamento di terreno nelle premesse specificato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 settembre 1958
+
+GRONCHI
+
+FANFANI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 31 ottobre 1958
+
+Atti del Governo, registro n. 114, foglio n. 125. - RELLEVA

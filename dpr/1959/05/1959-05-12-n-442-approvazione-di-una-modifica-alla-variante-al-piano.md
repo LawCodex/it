@@ -1,0 +1,64 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1959, n. 442 — Approvazione di una modifica alla variante al piano regolatore della zona di Albaro in Genova, relativa all'ampliamento della Chiesa di Boccadasse."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-05-12;442"
+eli: "https://www.normattiva.it/eli/id/1959/07/06/059U0442/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-05-12
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 158 del 1959-07-06"
+codice_redazionale: "059U0442"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-05-12;442"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1959, n. 442
+
+**Approvazione di una modifica alla variante al piano regolatore della zona di Albaro in Genova, relativa all'ampliamento della Chiesa di Boccadasse.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 25 giugno 1865, n. 2359;
+
+Vista la legge 28 giugno 1914, n. 667, con la quale fu approvato il piano, regolatore e di ampliamento della citta' di Genova, per la zona di Albaro;
+
+Visto il decreto del Presidente della Repubblica 26 febbraio 1949, con il quale e' stata approvata una variante al piano regolatore di Genova per la zona di Albaro;
+
+Vista la domanda in data 5 febbraio 1958, con la quale, in base a delibera consiliare in data 14 gennaio 1958, n. 91, il sindaco di Genova ha chiesto l'approvazione di un progetto di modifica alla variante approvata con il citato decreto del Presidente della Repubblica 26 febbraio 1949, relativa all'ampliamento della Chiesa di Boccadasse;
+
+Ritenuto che il procedimento seguito e' regolare e che, durante la pubblicazione degli atti, non e' stata presentata alcuna opposizione;
+
+Ritenuto che la progettata modifica prevede l'ampliamento della Chiesa di Sant'Antonio di Boccadasse, utilizzando ai fini costruttivi porzioni di area classificata nella 6ª categoria (zona azzurra);
+
+Considerato che la variazione proposta per l'ampliamento della Chiesa di Boccadasse e' urbanisticamente ammissibile ed appare necessaria al fine di dare alla Chiesa stessa una capienza sufficiente a contenere il numero di fedeli che, in questi ultimi tempi, si e' notevolmente accresciuto;
+
+Che, tuttavia, si ravvisa necessario prescrivere che nell'ampliamento dell'edificio in questione non sia superata in alcun modo l'altezza di colmo del fabbricato attuale;
+
+Visto il parere n. 1810 emesso dal Consiglio superiore dei lavori pubblici nell'adunanza dell'11 settembre 1958;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per i lavori pubblici;
+
+Decreta:
+
+Con le prescrizioni di cui alle premesse e' approvato il progetto di modifica della variante al piano regolatore di Genova per la zona di Albaro, vistato dal Ministro per i lavori pubblici in una planimetria in scala 1: 1000.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 maggio 1959
+
+GRONCHI
+
+TOGNI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 1 luglio 1959
+
+Atti del Governo, registro n. 119, foglio n. 77. - VILLA

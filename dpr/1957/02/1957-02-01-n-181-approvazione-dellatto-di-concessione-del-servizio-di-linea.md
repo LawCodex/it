@@ -1,0 +1,50 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1957, n. 181 — Approvazione dell'atto di concessione del servizio di linea di navigazione per trasporto merci sul lago d'Iseo."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-02-01;181"
+eli: "https://www.normattiva.it/eli/id/1957/04/11/057U0181/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-02-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 94 del 1957-04-11"
+codice_redazionale: "057U0181"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-02-01;181"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1957, n. 181
+
+**Approvazione dell'atto di concessione del servizio di linea di navigazione per trasporto merci sul lago d'Iseo.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con regio decreto 9 maggio 1912, n. 1447;
+
+Visto il Codice della navigazione;
+
+Visto il regolamento per la navigazione interna, approvato con decreto del Presidente della Repubblica 28 giugno 1949, n. 631;
+
+Udito il parere del Consiglio superiore dei lavori pubblici;
+
+Sulla proposta del Ministro per i trasporti;
+
+Decreta:
+
+E' approvato e reso esecutorio l'atto stipulato in data 22 novembre 1956 tra il delegato del Ministro per i trasporti ed il legale rappresentante della Societa' Impresa Sebina di Navigazione per la concessione del servizio di linea di navigazione per trasporto merci sul lago d'Iseo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1° febbraio 1957
+
+GRONCHI
+
+ANGELINI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 3 aprile 1957
+
+Atti del governo, registro n. 105, foglio n. 1. - CARLOMAGNO

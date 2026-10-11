@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1960, n. 76 — Riconoscimento, agli effetti civili, della erezione della parrocchia della Vergine Immacolata, nel comune di Coiato (Bari)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-07;76"
+eli: "https://www.normattiva.it/eli/id/1960/03/03/060U0076/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-01-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 54 del 1960-03-03"
+codice_redazionale: "060U0076"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-07;76"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1960, n. 76
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia della Vergine Immacolata, nel comune di Coiato (Bari).**
+
+## Art. 1
+
+N. 76. Decreto del Presidente della Repubblica 7 gennaio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trani e Nazareth in data 25 marzo 1959, integrato con dichiarazione del 1 aprile stesso anno, relativo alla erezione della parrocchia della Vergine Immacolata nel comune di Corato (Bari).
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 27 febbraio 1960
+
+Atti del Governo, registro n. 124, foglio n. 93. - VILLA

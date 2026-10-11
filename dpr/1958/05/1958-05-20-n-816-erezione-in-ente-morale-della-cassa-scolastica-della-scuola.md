@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1958, n. 816 — Erezione in ente morale della Cassa scolastica della Scuola media statale di via Sant'Alfonso de' Liguori di Napoli."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-20;816"
+eli: "https://www.normattiva.it/eli/id/1958/08/16/058U0816/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1958-05-20
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 197 del 1958-08-16"
+codice_redazionale: "058U0816"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-20;816"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1958, n. 816
+
+**Erezione in ente morale della Cassa scolastica della Scuola media statale di via Sant'Alfonso de' Liguori di Napoli.**
+
+## Art. 1
+
+N. 816. Decreto del Presidente della Repubblica 20 maggio 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, viene eretta in ente morale la Cassa scolastica della Scuola media statale di via Sant'Alfonso de' Liguori di Napoli e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 9 agosto 1958
+
+Atti del Governo, registro n. 113, foglio n. 155. - DI PRETORO

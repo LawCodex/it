@@ -1,0 +1,186 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957, n. 1430 — Modificazioni allo statuto dell'Universita' degli studi di Perugia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-31;1430"
+eli: "https://www.normattiva.it/eli/id/1958/03/25/057U1430/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-10-31
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 73 del 1958-03-25"
+codice_redazionale: "057U1430"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-31;1430"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1957, n. 1430
+
+**Modificazioni allo statuto dell'Universita' degli studi di Perugia.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con regio decreto 20 aprile 1939, n. 1107, e modificato con regio decreto 2 ottobre 1940, n. 1471 e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Il primo capoverso dell'art. 75 del vigente statuto, viene modificato come appresso:
+
+Art. 75. - Alla Facolta' di medicina e chirurgia sono annesse le scuole di perfezionamento in "endocrinologia e malattie del ricambio", "pediatria", "ostetricia e ginecologia", "oculistica", "chirurgia", "medicina interna", "igiene", "gastroenterologia", "anestesiologia", "otorinolaringoiatria" e "cardiologia".
+
+Dopo l'art. 94 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "otorinolaringoiatria a ed in "cardiologia".
+
+Scuola di perfezionamento in otorinolaringoiatria
+
+Art. 95. - La scuola ha la durata di tre anni.
+
+L'ammissione viene effettuata in base a concorso per esami: il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° anno:
+
+Clinica otorinolaringoiatrica;
+
+Patologia e semeiotica dell'orecchio;
+
+Patologia e semeiotica del naso;
+
+Patologia e semeiotica della faringe-laringe;
+
+Anatomia umana in rapporto alla specialita';
+
+Neuropatologia in rapporto alla specialita';
+
+Esercitazioni ciniche.
+
+2° anno:
+
+Clinica otorinolaringoiatrica;
+
+Patologia e semeiotica dell'orecchio;
+
+Patologia e semeiotica del naso;
+
+Patologia e semeiotica della faringe-laringe;
+
+Patologia generale in rapporto alla specialita';
+
+Endoscopia bronco-esofagea;
+
+Esercitazioni cliniche.
+
+3° anno:
+
+Clinica otorinolaringoiatrica;
+
+Tecnica operatoria dell'orecchio;
+
+Tecnica operatoria del naso e delle cavita' accessorie;
+
+Tecnica operatoria della faringe-laringe;
+
+Oculistica in rapporto alla specialita';
+
+Chirurgia plastica della specialita';
+
+Audiologia e foniatria;
+
+Esercitazioni cliniche.
+
+Scuola di perfezionamento in cardiologia
+
+Art. 96. - La scuola ha la durata di tre anni.
+
+Il numero degli studenti che possono essere iscritti e' limitato ad otto per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° anno:
+
+Anatomia normale;
+
+Fisiologia;
+
+Anatomia patologica;
+
+Chimica biologica;
+
+Semeiotica fisica;
+
+Reumatologia;
+
+Patologia delle malattie di cuore;
+
+Semeiotica strumentale;
+
+Elettrocardiografia e vettocardiografia;
+
+Fonocardiografia (semestrale);
+
+Ballistocardiografia (semestrale).
+
+2° anno:
+
+Clinica delle malattie di cuore;
+
+Patologia delle malattie di cuore;
+
+Elettrocardiografia e vettocardiografia;
+
+Radiologia;
+
+Patologia cardiorespiratoria (semestrale);
+
+Patologia vascolare (semestrale);
+
+Ricambio elettrolitico (semestrale);
+
+Oculistica (semestrale);
+
+Cardiopatie congenite.
+
+3° anno:
+
+Clinica delle malattie di cuore;
+
+Terapia;
+
+Dietetica (semestrale);
+
+Terapia chirurgica (semestrale);
+
+Angiocardiografia (semestrale);
+
+Cateterismo cardiaco e studio del gas del sangue e respiratori.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 18 marzo 1958
+
+Atti del Governo, registro n. 111, foglio n. 154. - RELLEVA

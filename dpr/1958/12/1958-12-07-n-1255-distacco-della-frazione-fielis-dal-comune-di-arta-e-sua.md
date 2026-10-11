@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1958, n. 1255 — Distacco della frazione Fielis dal comune di Arta e sua aggregazione a quello di Zuglio (Udine)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-07;1255"
+eli: "https://www.normattiva.it/eli/id/1959/02/17/058U1255/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1958-12-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 40 del 1959-02-17"
+codice_redazionale: "058U1255"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-07;1255"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1958, n. 1255
+
+**Distacco della frazione Fielis dal comune di Arta e sua aggregazione a quello di Zuglio (Udine).**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le istanze in data 26, 27 aprile e 2 maggio 1953 e 16 maggio e 7 giugno 1954, con le quali la maggioranza qualificata dei contribuenti della frazione Fielis del comune di Arta (Udine) ha chiesto l'aggregazione della frazione medesima al comune di Zuglio;
+
+Viste le deliberazioni: del Consiglio comunale di Arta in data 28 dicembre 1953, n. 78; del Consiglio comunale di Zuglio in data 20 marzo 1954, n. 8, e del Consiglio provinciale di Udine in data 25 maggio e 14 dicembre 1957, numeri 3159 e 18635, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
+
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+
+Udito il parere espresso dalla prima Sezione del Consiglio di Stato nell'adunanza del 14 ottobre 1958 n. 1682:
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+## Art. 1
+
+La frazione Fielis e' distaccata dal comune di Arta ed aggregata al comune di Zuglio, con la circoscrizioni territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini, annesse al presenti decreto.
+
+## Art. 2
+
+Il Prefetto di Udine, sentita la Giunta provinciali amministrativa, provvedera', con suo decreto, alla separazione patrimoniale ed al riparto delle attivita' e passivita'.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 dicembre 1958
+
+GRONCHI
+
+TAMBRONI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 12 febbraio 1959
+
+Atti del Governo, registro n. 116, foglio n. 101. - RELLEVA

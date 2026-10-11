@@ -1,0 +1,106 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1957, n. 299 — Varianti all'art. 25 dello statuto dell'ente Circoli della Marina militare, approvato con decreto del Presidente della Repubblica 1° gennaio 1949, n. 83 e modificato con decreto del Presidente della Repubblica 6 giugno 1955, n. 986."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-21;299"
+eli: "https://www.normattiva.it/eli/id/1957/05/14/057U0299/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-03-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 122 del 1957-05-14"
+codice_redazionale: "057U0299"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-21;299"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1957, n. 299
+
+**Varianti all'art. 25 dello statuto dell'ente Circoli della Marina militare, approvato con decreto del Presidente della Repubblica 1° gennaio 1949, n. 83 e modificato con decreto del Presidente della Repubblica 6 giugno 1955, n. 986.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto del Presidente della Repubblica 1° gennaio 1949, n. 83, col quale fu approvato lo statuto organico dell'ente Circoli della Marina militare;
+
+Visto il decreto del Presidente della, Repubblica 6 giugno 1955, n. 986, col quale furono apportate modificazioni allo statuto predetto;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per la difesa;
+
+## Articolo unico
+
+L'art. 25 dello statuto dell'ente Circoli della Marina militare, approvato con decreto del Presidente della Repubblica 1° gennaio 1949, n. 83, e modificato con decreto del Presidente della Repubblica 6 giugno 1955, n. 986, e' sostituito dal seguente:
+
+"Art. 25. - Soci. - I soci sono:
+
+onorari;
+
+ordinari;
+
+abbonati;
+
+aggregati.
+
+Circoli degli ufficiali:
+
+a) sono soci onorari:
+
+il Ministro ed i Sottosegretari di Stato in carica;
+
+gli ufficiali delle categorie in congedo gia' Ministri e Sottosegretari di Stato della Marina;
+
+gli ammiragli che hanno ricoperto la carica di presidente dell'ente Circoli della Marina militare;
+
+i soci emeriti del cessato Circolo di marina La Spezia ed i soci onorari nominati tali prima dell'entrata in vigore del presente statuto;
+
+quelle altre personalita' che, per determinazione della Presidenza dell'ente, sanzionata dal Ministro, su proposta del presidente delle singole sedi, sentiti i rispettivi Consigli direttivi, siano nominati soci onorari per segnalati titoli di benemerenza nel campo militare, civile e culturale;
+
+b) sono soci ordinari:
+
+tutti gli ufficiali e gli aspiranti della Marina militare in servizio permanente o delle categorie in congedo in servizio temporaneo.
+
+Possono anche continuare ad essere soci ordinari gli ufficiali provenienti dal servizio permanente effettivo che ne facciano domanda alla Presidenza dell'ente all'atto della cessazione dal servizio attivo;
+
+c) possono essere soci abbonati a domanda:
+
+gli ufficiali e gli aspiranti della Marina militare delle categorie in congedo, quando abbiano cessato dal servizio temporaneo;
+
+gli ufficiali in servizio permanente effettivo delle altre Forze armate;
+
+gli ufficiali del Corpo della giustizia militare in servizio permanente effettivo;
+
+d) possono essere iscritti a domanda quali soci aggregati di singole sedi:
+
+gli ufficiali delle categorie in congedo delle altre Forze armate, che prestino servizio, quali richiamati, presso la Marina militare;
+
+i civili che siano presentati da quattro soci ordinari. La loro ammissione, contenuta nel numero fissato per ciascuna sede dalla Presidenza dell'ente in relazione alle disponibilita' dei locali del Circolo, avviene con votazione segreta dei soci ordinari presenti nella sede (almeno la meta' piu' uno), votazione nella quale i voti favorevoli devono raggiungere i tre quarti piu' uno dei soci votanti.
+
+Circoli dei sottufficiali:
+
+a) sono soci ordinari:
+
+tutti i sottufficiali della Marina militare in servizio permanente, richiamati, trattenuti in servizio, o di leva;
+
+b) possono essere soci abbonati a domanda:
+
+i sottufficiali della Marina militare in congedo che godono di pensione ordinaria o privilegiata a carico dello Stato in dipendenza del servizio militare prestato;
+
+c) possono essere soci aggregati di singole sedi a domanda:
+
+i sottufficiali delle altre Forze armate che prestano servizio presso la Marina militare;
+
+i civili che siano presentati da quattro soci ordinari. La loro ammissione, contenuta nel numero fissato per ciascuna sede dalla Presidenza dell'ente in relazione alle disponibilita' dei locali del Circolo, avviene con votazione segreta dei soci ordinari presenti nella sede (almeno la meta' piu' uno), votazione nella quale i voti favorevoli devono raggiungere i tre quarti piu' uno dei soci votanti".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 marzo 1957
+
+GRONCHI
+
+TAVIANI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 9 maggio 1957
+
+Atti del Governo, registro n. 105, foglio n. 96. - RELLEVA

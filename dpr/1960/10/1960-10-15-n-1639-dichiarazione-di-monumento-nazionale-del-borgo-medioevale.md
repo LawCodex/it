@@ -1,0 +1,48 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1960, n. 1639 — Dichiarazione di monumento nazionale del Borgo medioevale di Caserta vecchia, in comune di Caserta."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-15;1639"
+eli: "https://www.normattiva.it/eli/id/1961/01/11/060U1639/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-10-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 9 del 1961-01-11"
+codice_redazionale: "060U1639"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-15;1639"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1960, n. 1639
+
+**Dichiarazione di monumento nazionale del Borgo medioevale di Caserta vecchia, in comune di Caserta.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 1 giugno 1939, n. 1089, sulla tutela delle cose di interesse artistico o storico;
+
+Visto il regio decreto 30 gennaio 1913, n. 363, che approva il regolamento per la esecuzione delle leggi relative alle antichita' e belle arti;
+
+Considerata l'opportunita' che sia conservato e additato al rispetto della Nazione per il suo rilevante interesse storico ed artistico il Borgo medioevale di Caserta vecchia in comune di Caserta, complesso edilizio di straordinaria importanza il quale, raccolto intorno ai suoi monumenti maggiori rappresentati dalla Cattedrale con il suo campanile, dall'Episcopio, dal Seminario, dalla Chiesa dell'Annunziata, ed allacciato al Castello Comitale, costituisce un esempio tra i piu' rari di conservazione, attraverso i secoli, di una struttura di citta' antica edificata dal Medioevo al Rinascimento, rimasta racchiusa nella cerchia del vecchio perimetro, nessuna nuova costruzione essendo mai venuta a turbare il suggestivo, caratteristico insieme;
+
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
+
+Decreta:
+
+Il Borgo medioevale di Caserta vecchia, in comune di Caserta, e' dichiarato monumento nazionale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 ottobre 1960
+
+GRONCHI
+
+BOSCO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 4 gennaio 1961
+
+Atti del Governo, registro n. 133, foglio n. 3. - VILLA

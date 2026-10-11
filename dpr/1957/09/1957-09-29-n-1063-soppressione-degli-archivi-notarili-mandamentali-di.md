@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1957, n. 1063 — Soppressione degli archivi notarili mandamentali di Sogliano al Rubicone, Civitella di Romagna e Saludecio (distretto notarile di Forli)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-29;1063"
+eli: "https://www.normattiva.it/eli/id/1957/11/21/057U1063/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-09-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 287 del 1957-11-21"
+codice_redazionale: "057U1063"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-29;1063"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1957, n. 1063
+
+**Soppressione degli archivi notarili mandamentali di Sogliano al Rubicone, Civitella di Romagna e Saludecio (distretto notarile di Forli).**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 29 giugno 1879, n. 4949, con il quale vennero istituiti gli archivi notarili mandamentali di Sogliano al Rubicone, Civitella di Romagna e Saludecio;
+
+Visto l'art. 248 del regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, riguardante l'ordinamento del notariato e degli archivi notarili, approvato con regio decreto 10 settembre 1914, n. 1326;
+
+Considerato che tutti gli atti conservati nei detti archivi notarili mandamentali sono andati completamente distrutti a seguito dei precorsi eventi bellici e che pertanto gli archivi in parola hanno di fatto cessato di funzionare;
+
+Viste le deliberazioni dei Comuni interessati tendenti ad ottenere la formale soppressione;
+
+Visto il parere espresso dal Conservatore dell'archivio notarile distrettuale di Forli' in data 1 ottobre 1956;
+
+Visto il parere espresso dal procuratore della Repubblica presso il Tribunale di Forli' in data 11 febbraio 1957;
+
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+
+Decreta:
+
+Gli archivi notarili mandamentali di Sogliano al Rubicone, Civitella di Romagna e Saludecio (distretto notarile di Forli') sono soppressi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 settembre 1957
+
+GRONCHI
+
+GONELLA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 14 novembre 1957
+
+Atti del Governo, registro n. 109, foglio n. 7. - RELLEVA

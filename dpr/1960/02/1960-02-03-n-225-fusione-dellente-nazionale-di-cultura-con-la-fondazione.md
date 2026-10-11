@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1960, n. 225 — Fusione dell'Ente nazionale di cultura con la Fondazione \"Giulio Gori\" di Firenze."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-03;225"
+eli: "https://www.normattiva.it/eli/id/1960/03/30/060U0225/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-02-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 78 del 1960-03-30"
+codice_redazionale: "060U0225"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-03;225"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1960, n. 225
+
+**Fusione dell'Ente nazionale di cultura con la Fondazione "Giulio Gori" di Firenze.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto il capo II del Codice civile;
+
+Veduto il regio decreto 2 dicembre 1923, n. 2708, con il quale l'Ente nazionale di cultura in Firenze venne eretto in ente morale e ne fu approvato lo statuto;
+
+Veduto lo statuto della Fondazione medesima;
+
+Veduto il decreto del Presidente della Repubblica in data 11 marzo 1953, n. 434, con il quale la Fondazione "Giulio Gori" in Firenze venne eretta in ente morale e ne fu approvato lo statuto;
+
+Veduto il verbale del Consiglio di amministrazione della Fondazione "G. Gori" in data 12 giugno 1959;
+
+Considerato che a causa della svalutazione monetaria, la rendita del patrimonio dell'Ente nazionale di cultura e' diventata insufficiente per il raggiungimento dello scopo;
+
+Considerato che nel caso in questione sono applicabili le disposizioni di cui all'art. 58 della legge 17 luglio 1890, n. 6972, nel testo modificato dall'art. 29 del regio decreto 30 dicembre 1923, n. 2841;
+
+Considerato che la Fondazione "G. Gori" e' l'unico ente nella zona che persegua scopi affini alla Fondazione suddetta;
+
+Rilevato che il Consiglio di amministrazione della Fondazione "Giulio Gori", con deliberazione 12 giugno 1959, ha accettato la proposta di fusione avanzata dall'Ente nazionale di cultura, constatando che le norme statutarie dei due Enti sono molto simili;
+
+Udito il parere del Consiglio di Stato che in data 17 novembre 1959 si e' pronunciato favorevole alla fusione;
+
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
+
+Decreta:
+
+E' autorizzata la fusione dell'Ente nazionale di cultura di Firenze con la Fondazione "Giulio Gori" della stessa citta', da attuarsi nei modi e nelle forme previsti dalle suddette disposizioni in materia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 febbraio 1960
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 28 marzo 1960
+
+Atti del Governo, registro n. 125, foglio n. 122. - VILLA

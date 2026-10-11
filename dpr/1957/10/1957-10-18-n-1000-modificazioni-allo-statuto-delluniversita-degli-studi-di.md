@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1957, n. 1000 — Modificazioni allo statuto dell'Universita' degli studi di Bari."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-18;1000"
+eli: "https://www.normattiva.it/eli/id/1957/10/30/057U1000/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-10-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 269 del 1957-10-30"
+codice_redazionale: "057U1000"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-10-18;1000"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1957, n. 1000
+
+**Modificazioni allo statuto dell'Universita' degli studi di Bari.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Capo dello Stato 11 settembre 1956, n. 1210, con il quale vennero, fra l'altro, modificati gli articoli 57 e 59 dello statuto dell'Universita' di Bari nel senso che venne eliminato l'insegnamento della letteratura cristiana antica dall'elenco degli insegnamenti complementari dei corsi di laurea in materie letterarie e di pedagogia della Facolta' di magistero, in quanto il Consiglio superiore aveva ritenuto di esprimere parere contrario al mantenimento di tale insegnamento fra quelli complementari dei predetti corsi di laurea ancorche' le autorita' accademiche dell'Universita' di Bari non avessero richiesto l'eliminazione dell'insegnamento stesso;
+
+Vedute le delibere delle competenti autorita' accademiche dell'Universita' di Bari per cui si fanno voti perche' l'insegnamento della letteratura cristiana antica sia mantenuto quale insegnamento complementare della Facolta' di magistero almeno limitatamente al corso di laurea in materie letterarie;
+
+Sentita la Sezione prima del Consiglio superiore della pubblica istruzione che nell'adunanza del 31 gennaio 1957, nell'esprimere il proprio parere in merito alla richiesta di apertura di concorsi a cattedre universitarie, ebbe fra l'altro, ad approvare quella relativa alla cattedra di letteratura cristiana antica della Facolta' di magistero dell'Universita' di Bari, e che conseguentemente il concorso per tale cattedra venne indetto a norma dell'art. 68 del testo unico 31 agosto 1933, n. 1592, con decreto del Ministro per la pubblica istruzione 7 febbraio 1957, pubblicato nella Gazzetta Ufficiale del 14 febbraio 1957, n. 41;
+
+Ritenuto che in relazione a tale parere e' indispensabile includere l'insegnamento complementare di letteratura cristiana antica tra le materie che vengono insegnate nella Facolta' di magistero dell'Universita' di Bari e conseguentemente si rende necessario la modifica dello statuto di detta Universita';
+
+Ritenuta l'urgenza in quanto e' stato gia' bandito il relativo concorso a cattedra col citato decreto Ministeriale 7 febbraio 1957;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+L'art. 57 dello statuto dell'Universita' degli stadi di Bari, modificato con il citato decreto 11 settembre 1956, n. 1210, e' ulteriormente modificato nel senso che fra gli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto il seguente:
+
+8\) Letteratura cristiana antica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 ottobre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 28 ottobre 1957
+
+Atti del Governo, registro n. 108, foglio n. 118. - RELLEVA

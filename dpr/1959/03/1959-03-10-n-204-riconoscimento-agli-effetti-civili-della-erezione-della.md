@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1959, n. 204 — Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria SS.ma degli Angeli, nel quartiere dei Cappuccini del comune di Carini (Palermo)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-10;204"
+eli: "https://www.normattiva.it/eli/id/1959/04/28/059U0204/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-03-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 101 del 1959-04-28"
+codice_redazionale: "059U0204"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-10;204"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1959, n. 204
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria SS.ma degli Angeli, nel quartiere dei Cappuccini del comune di Carini (Palermo).**
+
+## Art. 1
+
+N. 2041. Decreto del Presidente della. Repubblica 10 marzo 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Monreale in data 13 giugno 1958, integrato con dichiarazione del 12 novembre 1958, relativo alla erezione della parrocchia di Maria SS.ma degli Angeli, nel quartiere dei Cappuccini del comune di Carini (Palermo).
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 18 aprile 1959
+
+Atti del Governo, registro n. 118, foglio n. 55. - VILLA

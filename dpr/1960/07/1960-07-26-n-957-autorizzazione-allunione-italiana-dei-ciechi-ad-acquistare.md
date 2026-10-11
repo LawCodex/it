@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1960, n. 957 — Autorizzazione all'Unione italiana dei ciechi ad acquistare un immobile in Padova da adibire a sede della Sezione veneta della predetta Unione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-26;957"
+eli: "https://www.normattiva.it/eli/id/1960/09/09/060U0957/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-07-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 221 del 1960-09-09"
+codice_redazionale: "060U0957"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-26;957"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1960, n. 957
+
+**Autorizzazione all'Unione italiana dei ciechi ad acquistare un immobile in Padova da adibire a sede della Sezione veneta della predetta Unione.**
+
+## Art. 1
+
+N. 957. Decreto del Presidente della Repubblica 26 luglio 1960, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata, ad acquistare dalla signora nob. Campo Bona in Sancristoforo, per il prezzo di lire 5.500.000, come da atto a rogito notaio dott. Gregorio Todeschini di Padova, in data 11 dicembre 1957, n. 23346 di repertorio, n. 10634 di raccolta, un appartamento con accessori sito in Padova, via G. Bruno n. 8, da adibire a sede della Sezione veneta della predetta Unione.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 3 settembre 1960
+
+Atti del Governo, registro n. 129, foglio n. 8. - VILLA

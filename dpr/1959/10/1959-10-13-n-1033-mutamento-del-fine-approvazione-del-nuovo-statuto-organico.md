@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1959, n. 1033 — Mutamento del fine, approvazione del nuovo statuto organico e cambiamento di denominazione del \"Pio Istituto Scazza Schiroli per l'infanzia abbandonata\", con sede in Cappella, frazione del comune di Casalmaggiore (Cremona)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-10-13;1033"
+eli: "https://www.normattiva.it/eli/id/1959/12/11/059U1033/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-10-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 299 del 1959-12-11"
+codice_redazionale: "059U1033"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-10-13;1033"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1959, n. 1033
+
+**Mutamento del fine, approvazione del nuovo statuto organico e cambiamento di denominazione del "Pio Istituto Scazza Schiroli per l'infanzia abbandonata", con sede in Cappella, frazione del comune di Casalmaggiore (Cremona).**
+
+## Art. 1
+
+N. 1033. Decreto del Presidente (della Repubblica 13 ottobre 1959, col quale, sulla proposta del Ministro per l'interno, viene provveduto al mutamento del fine e all'approvazione del nuovo statuto organico nonche' al cambiamento di denominazione del "Pio Istituto Scazza Schiroli per l'infanzia abbandonata", con sede in Cappella, frazione del comune di Casalmaggiore (Cremona).
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 30 novembre 1959
+
+Atti del Governo, registro n. 122, foglio n. 80. - VILLA

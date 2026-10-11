@@ -1,0 +1,66 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1957, n. 813 — Autorizzazione alla Cassa di risparmio di Roma, con sede in Roma, ad esercitare il credito fondiario."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-30;813"
+eli: "https://www.normattiva.it/eli/id/1957/09/16/057U0813/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-07-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 230 del 1957-09-16"
+codice_redazionale: "057U0813"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-30;813"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1957, n. 813
+
+**Autorizzazione alla Cassa di risparmio di Roma, con sede in Roma, ad esercitare il credito fondiario.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti il regio decreto 16 luglio 1905, n. 646, che approva il testo unico delle leggi sul credito fondiario, il regio decreto 5 maggio 1910, n. 472, che approva il regolamento per l'esecuzione del predetto testo unico, nonche' le successive modificazioni ed integrazioni;
+
+Viste la legge 29 luglio 1949, n. 474, e la successiva modificazione;
+
+Visti il regio decreto-legge 12 marzo 1936, n. 375, e le successive modificazioni ed integrazioni, nonche' i decreti legislativi 17 luglio 1947, n. 691, 20 gennaio 1948, n. 10, e la legge 22 dicembre 1956, n. 1589;
+
+Visto lo statuto della Cassa di risparmio di Roma, con sede in Roma, approvato con decreto Ministeriale 7 dicembre 1950, e modificato con decreti Ministeriali 9 aprile 1956 e 8 agosto 1956;
+
+Viste le deliberazioni in data 28 giugno, 12 luglio e 17 luglio 1956, rispettivamente adottate dal Consiglio di amministrazione, dall'Assemblea dei soci e dal presidente della predetta Cassa, affinche' la Cassa stessa abbia la facolta' di esercitare il credito fondiario ai sensi e per gli effetti delle disposizioni di legge vigenti in materia;
+
+Vista la domanda presentata dalla Cassa di risparmio di Roma, in data 16 marzo 1956;
+
+Sentito il Comitato interministeriale per il credito ed il risparmio;
+
+Sulla proposta del Ministro per il tesoro;
+
+Udito il parere del Consiglio di Stato;
+
+Decreta:
+
+## Art. 1
+
+La Cassa di risparmio di Roma, con sede in Roma, e' autorizzata ad esercitare, nel territorio delle Provincia in cui ha proprie filiali, il credito fondiario in conformita' delle disposizioni vigenti in materia.
+
+## Art. 2
+
+Per l'espletamento delle operazioni di cui all'articolo precedente, la Cassa di risparmio di Roma istituira' una separata gestione avente propria contabilita' e proprio bilancio.
+
+## Art. 3
+
+La Cassa di risparmio di Roma dovra' assegnare alla gestione di credito fondiario un fondo di dotazione di almeno L. 400 milioni.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 luglio 1957
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 13 Settembre 1957
+
+Atti del Governo, registro n. 107, foglio n. 127. - RELLEVA

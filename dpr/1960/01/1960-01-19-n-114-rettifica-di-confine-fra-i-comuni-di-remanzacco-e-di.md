@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1960, n. 114 — Rettifica di confine fra i comuni di Remanzacco e di Pradamano (Udine)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-19;114"
+eli: "https://www.normattiva.it/eli/id/1960/03/10/060U0114/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-01-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 60 del 1960-03-10"
+codice_redazionale: "060U0114"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-19;114"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1960, n. 114
+
+**Rettifica di confine fra i comuni di Remanzacco e di Pradamano (Udine).**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le deliberazioni del Consiglio comunale di Remanzacco in data 15 febbraio 1958, n. 5/950, e del Consiglio comunale di Pradamano in data 7 marzo 1958, n. 4/58, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
+
+Visto che le condizioni della rettifica stessa sono state fissate d'accordo dai Consigli comunali, con le deliberazioni suindicate;
+
+Vista la deliberazione del Consiglio provinciale di Udine in data 18 ottobre 1958, n. 14192/21, con la quale e' stato espresso parere favorevole in ordine alla rettifica di confine in parola;
+
+Udito il parere espresso dalla prima Sezione del Consiglio di Stato, nell'adunanza del 24 novembre 1959, n. 1863;
+
+Visti gli articoli 32 capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+## Art. 1
+
+Il confine fra i comuni di Remanzacco e di Pradamano, in provincia di Udine, e' rettificato secondo la linea risultante dalla pianta planimetrica e dalla relazione descrittiva, annesse al presente decreto.
+
+## Art. 2
+
+Il Prefetto della provincia di Udine, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita' fra i comuni di Remanzacco e di Pradamano.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 gennaio 1960
+
+GRONCHI
+
+SEGNI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 1 marzo 1960
+
+Atti del Governo, registro n. 125, foglio n. 11. - VILLA

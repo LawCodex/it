@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1960, n. 460 — Autorizzazione all'Ateneo di scienze, lettere ed arti di Brescia, ad accettare un legato."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-18;460"
+eli: "https://www.normattiva.it/eli/id/1960/05/25/060U0460/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-01-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 128 del 1960-05-25"
+codice_redazionale: "060U0460"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-18;460"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1960, n. 460
+
+**Autorizzazione all'Ateneo di scienze, lettere ed arti di Brescia, ad accettare un legato.**
+
+## Art. 1
+
+N. 460. Decreto del Presidente della Repubblica 18 gennaio 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Ateneo di scienze, lettere ed arti di Brescia, viene autorizzato ad accettare il legato disposto dal sen. Carlo Bonardi.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 12 maggio 1960
+
+Atti del Governo, registro n. 126, foglio n. 105. - VILLA

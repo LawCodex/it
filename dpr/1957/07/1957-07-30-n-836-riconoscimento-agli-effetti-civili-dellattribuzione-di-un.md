@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1957, n. 836 — Riconoscimento, agli effetti civili, dell'attribuzione di un terreno alla Chiesa di San Donato M., in frazione Calvecchia del comune di San Dona' di Piave (Venezia)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-30;836"
+eli: "https://www.normattiva.it/eli/id/1957/09/23/057U0836/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-07-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 236 del 1957-09-23"
+codice_redazionale: "057U0836"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-30;836"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1957, n. 836
+
+**Riconoscimento, agli effetti civili, dell'attribuzione di un terreno alla Chiesa di San Donato M., in frazione Calvecchia del comune di San Dona' di Piave (Venezia).**
+
+## Art. 1
+
+N. 836. Decreto del Presidente della Repubblica 30 luglio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Treviso in data 12 luglio 1956, relativo alla attribuzione all'ente Chiesa di San Donato M., in frazione Calvecchia del comune di San Dona' di Piave (Venezia) del terreno col sovrastante edificio sacro dedicato a San. Donato M., di proprieta' dell'ente Chiesa parrocchiale di Santa Maria delle Grazie nello stesso Comune.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 18 settembre 1957
+
+Atti del Governo, registro n. 107, foglio n. 145. - RELLEVA

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1959, n. 130 — Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Maria Vergine de \"La Salette\" \"Riconciliatrice dei Peccatori\", a Monteverde Nuovo in Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-03;130"
+eli: "https://www.normattiva.it/eli/id/1959/04/13/059U0130/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-03-03
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 88 del 1959-04-13"
+codice_redazionale: "059U0130"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-03;130"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1959, n. 130
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Maria Vergine de "La Salette" "Riconciliatrice dei Peccatori", a Monteverde Nuovo in Roma.**
+
+## Art. 1
+
+N. 130. Decreto del Presidente della Repubblica 3 marzo 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di S.S. il Sommo Pontefice in data 18 giugno 1957, integrato con altro decreto di pari data e con tre dichiarazioni di cui la prima senza data, la seconda del 26 giugno 1957 e la terza del 2 luglio 1958, relativo alla erezione della parrocchia della Beata Maria Vergine de "La Salette" "Riconciliatrice dei Peccatori", a Monteverde Nuovo in Roma.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 4 aprile 1959
+
+Atti del Governo, registro n. 118, foglio n. 6. - VILLA

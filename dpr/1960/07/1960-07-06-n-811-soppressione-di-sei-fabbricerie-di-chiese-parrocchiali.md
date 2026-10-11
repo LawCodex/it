@@ -1,0 +1,40 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1960, n. 811 — Soppressione di sei Fabbricerie di Chiese parrocchiali della Diocesi di Treviso."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-06;811"
+eli: "https://www.normattiva.it/eli/id/1960/08/17/060U0811/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-07-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 200 del 1960-08-17"
+codice_redazionale: "060U0811"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-06;811"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1960, n. 811
+
+**Soppressione di sei Fabbricerie di Chiese parrocchiali della Diocesi di Treviso.**
+
+## Art. 1
+
+N. 811. Decreto del Presidente della Repubblica 6 luglio 1960, col quale, sulla proposta del Ministro per l'interno, vengono soppresse le Fabbricerie delle seguenti Chiese parrocchiali della Diocesi di Treviso:
+
+dei Santi Simone e Giuda, nella frazione Torreselle del comune di Piombino Dese (Padova);
+
+della Nativita' di Maria SS.ma, nel comune di Trabaseleghe (Padova);
+
+di Santa Maria Assunta, nella frazione Rustega del comune di Camposampiero (Padova);
+
+di Sant'Alessandro M., nel comune di Massanzago (Padova);
+
+dei Santi Pietro e Paolo, nella frazione Levada del comune di Piombino Dese (Padova);
+
+di San Giacomo Maggiore, nella frazione Fossalta del comune di Trabaseleghe (Padova).
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 5 agosto 1960
+
+Atti del Governo, registro n. 128, foglio n. 123. - VILLA

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957, n. 1181 — Sostituzione dello statuto organico della fondazione \"Borse di studio C.L.N. di Vigevano\", e approvazione della nuova denominazione di \"Premio di studio del C.L.N. di Vigevano\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-05;1181"
+eli: "https://www.normattiva.it/eli/id/1957/12/17/057U1181/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-09-05
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 312 del 1957-12-17"
+codice_redazionale: "057U1181"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-05;1181"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957, n. 1181
+
+**Sostituzione dello statuto organico della fondazione "Borse di studio C.L.N. di Vigevano", e approvazione della nuova denominazione di "Premio di studio del C.L.N. di Vigevano".**
+
+## Art. 1
+
+N. 1181. Decreto del Presidente della Repubblica 5 settembre 1957, col quale sulla proposta del Ministro per la pubblica istruzione, lo statuto organico della fondazione "Borse di studio C.L.N. di Vigevano", approvato con decreto del Presidente della Repubblica 4 novembre 1950, n. 1220, viene abrogato e sostituito da un nuovo statuto e ne viene, inoltre, approvata la nuova denominazione di "Premio di studio del C.L.N. di Vigevano".
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 12 dicembre 1957
+
+Atti del Governo, registro n. 109, foglio n. 87. - RELLEVA

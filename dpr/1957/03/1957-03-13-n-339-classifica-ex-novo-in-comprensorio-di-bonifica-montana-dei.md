@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1957, n. 339 — Classifica ex novo in comprensorio di bonifica montana dei bacini montani dei fiumi Aterno e Tavo ricadenti nella provincia de L'Aquila."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-13;339"
+eli: "https://www.normattiva.it/eli/id/1957/05/28/057U0339/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1957-03-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 134 del 1957-05-28"
+codice_redazionale: "057U0339"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-13;339"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1957, n. 339
+
+**Classifica ex novo in comprensorio di bonifica montana dei bacini montani dei fiumi Aterno e Tavo ricadenti nella provincia de L'Aquila.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la proposta dell'Ispettorato ripartimentale delle foreste de L'Aquila in data 28 luglio 1955, per la classifica quale comprensorio di bonifica montana del bacino dei fiumi Aterno e Tavo in provincia de L'Aquila;
+
+Vista la corografia su scala 1:100.000 nella quale e' indicato il perimetro della zona da classificare;
+
+Sentito il Consiglio superiore dell'agricoltura e delle foreste;
+
+Viste le lettere n. 4065 in data 31 agosto 1956 del Ministero dei lavori pubblici e n. 154506 in data 14 febbraio 1957 del Ministero del tesoro;
+
+Visto l'art. 14 della legge 25 luglio 1952, n. 991, e l'art. 32 del decreto del Presidente della Repubblica 16 novembre 1952, n. 1979;
+
+Ritenuto che sussistono le condizioni per procedere alla richiesta classifica;
+
+Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste di concerto con i Ministri per i lavori pubblici e per il tesoro;
+
+Decreta:
+
+## Articolo unico
+
+Il bacino dei fiumi Aterno e Tavo, ricadente in provincia de L'Aquila, esteso per ha. 97.886, e delimitato secondo la linea segnata nella citata corografia su scala 1: 100.000 che, vistata dal Ministro proponente forma parte integrante del presente decreto, e' classificato ai sensi e per gli effetti della legge 25 luglio 1952, n. 991, fra i comprensori di bonifica montana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 marzo 1957
+
+GRONCHI
+
+COLOMBO - ROMITA - MEDICI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 23 maggio 1957
+
+Atti del Governo, registro n. 105, foglio n. 156. - CARLOMAGNO

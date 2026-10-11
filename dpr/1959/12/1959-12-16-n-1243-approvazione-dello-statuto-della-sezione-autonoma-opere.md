@@ -1,0 +1,152 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1959, n. 1243 — Approvazione dello statuto della Sezione autonoma \"Opere pubbliche\" presso la Cassa di risparmio in Bologna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-12-16;1243"
+eli: "https://www.normattiva.it/eli/id/1960/02/05/059U1243/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-12-16
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 30 del 1960-02-05"
+codice_redazionale: "059U1243"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-12-16;1243"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1959, n. 1243
+
+**Approvazione dello statuto della Sezione autonoma "Opere pubbliche" presso la Cassa di risparmio in Bologna.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti il regio decreto-legge 12 marzo 1936, n. 375, e le successive modificazioni ed integrazioni, nonche' i decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10, e la legge 22 dicembre 1956, n. 1589;
+
+Vista la legge 11 marzo 1958, n. 238;
+
+Visto il decreto Ministeriale in data 18 settembre 1959, con il quale la Cassa di risparmio in Bologna, esercente il credito fondiario, e' stata autorizzata ad istituire una Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita', secondo le disposizioni della legge 11 marzo 1958, n. 238, sopra citata;
+
+Sentito il Comitato interministeriale per il credito ed il risparmio;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per il tesoro;
+
+Decreta:
+
+E' approvato lo statuto della Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso la Cassa di risparmio in Bologna, esercente il credito fondiario, composto, detto statuto, di 12 articoli, allegato al presente decreto e debitamente vistato dal Ministro proponente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 dicembre 1959
+
+GRONCHI
+
+TAMBRONI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 28 gennaio 1960
+
+Atti del Governo, registro n. 123, foglio n. 109. - VILLA
+
+## Costituzione, sede e scopo
+
+Statuto della Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso la Cassa di risparmio in Bologna.
+
+## Art. 1
+
+In conformita' dell'autorizzazione accordata con decreto Ministeriale 18 settembre 1959, ai sensi della legge 11 marzo 1958, n. 238, la Cassa di risparmio in Bologna, ente esercente il credito fondiario in conformita' delle disposizioni vigenti in materia, istituisce una Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita', avente personalita' giuridica propria, contabilita' e bilancio distinti.
+
+La Sezione viene denominata "Sezione autonoma opere pubbliche" ed ha sede in Bologna presso il Credito fondiario della Cassa di risparmio in Bologna.
+
+La sfera di competenza territoriale della Sezione s'identifica con quella del Credito fondiario della Cassa.
+
+## Operazioni
+
+## Art. 2
+
+Compito della Sezione e' l'erogazione di mutui a favore di enti pubblici aventi giurisdizione nella sfera di competenza territoriale della Sezione, nonche' a favore di consorzi, aziende autonome e societa' dagli enti stessi costituiti, nonche' infine a favore di imprese di nazionalita' italiana, operanti nella sfera di competenza territoriale della Sezione, che abbiano ottenuto dagli enti predetti concessioni relative ad opere pubbliche o impianti di pubblica utilita'.
+
+## Art. 3
+
+I mutui di che all'articolo precedente sono effettuati dalla Sezione con le modalita' ed i limiti previsti dagli articoli 2, 3 e 4 della legge 11 marzo 1958, n. 238.
+
+L'emissione di obbligazioni della Sezione e' regolata dalle norme stabilite dall'art. 3 della legge 11 marzo 1958, n. 238 e, per quanto in essa non previsto, dalle vigenti disposizioni sul credito fondiario.
+
+L'ammontare complessivo delle obbligazioni emesse dalla Sezione non potra' eccedere il limite stabilito dall'art. 1, primo comma, della legge 29 luglio 1949, n. 474.
+
+## Patrimonio
+
+## Art. 4
+
+Il patrimonio della Sezione e' formato:
+
+a) dal fondo di dotazione;
+
+b) dai fondi di riserva.
+
+Il fondo di dotazione e' costituito dalla somma di lire 500.000.000 assegnata dalla Cassa di risparmio in Bologna.
+
+Le riserve sono costituite mediante l'accantonamento degli utili annuali, secondo quanto disposto dall'art. 9.
+
+## Amministrazione e gestione
+
+## Art. 5
+
+La Sezione e' amministrata dagli stessi organi di amministrazione della Cassa di risparmio in Bologna.
+
+Il Consiglio d'amministrazione stabilisce le norme, condizioni e modalita' per la concessione dei mutui, in conformita' alle disposizioni che disciplinano le operazioni di finanziamento di opere pubbliche e di impianti di pubblica utilita'.
+
+Al Comitato spetta di deliberare sulle operazioni della Sezione, sulle cancellazioni parziali, restrizioni, divisioni, sostituzioni e surrogazioni di ipoteche, ed in genere su qualsiasi formalita' ipotecaria e sulla variazione delle garanzie, sulla rinuncia ad ipoteche legali, sulle, azioni giudiziarie, sul concorso alle aste per l'aggiudicazione di beni mobili ed immobili e sulla amministrazione e rivendita di essi, e su ogni altra operazione della Sezione.
+
+Il Comitato provvede pure a tutti gli altri incarichi e mansioni attinenti alla Sezione che gli siano affidati dal Consiglio di amministrazione.
+
+## Art. 6
+
+Legale rappresentante della Sezione e' il presidente della Cassa di risparmio in Bologna.
+
+Il presidente consente alla cancellazione di ipoteche e privilegi e alle surrogazioni da farsi a favore di terzi, alle annotazioni di inefficacia delle trascrizioni di pignoramento eseguite dall'istituto o da terzi e alla restituzione dei pegni o cauzioni costituenti garanzie accessorie dei mutui, sempre quando il credito dell'Istituto sia integralmente estinto o non sia sorto per non avvenuta erogazione dell'importo del mutuo.
+
+Il presidente consente altresi' alla cancellazione delle trascrizioni di pignoramento eseguite dall'Istituto o da terzi quando il mutuo sia messo al corrente col pagamento delle semestralita' arretrate, ovvero egli ritenga di abbandonare gli atti esecutivi in seguito a pagamento di acconti.
+
+In assenza o in caso di impedimento, anche momentaneo, del presidente, ne adempie le funzioni il vice presidente della Cassa di risparmio, ed in assenza o in caso di impedimento anche di questo, il consigliere piu' anziano che fa parte del Comitato.
+
+Il Consiglio, su proposta del presidente, puo' eventualmente delegare la rappresentanza della Sezione per speciali mansioni ad altri componenti del Consiglio di amministrazione della Cassa di risparmio in Bologna e a dirigenti della Cassa stessa.
+
+## Art. 7
+
+La Sezione e' sottoposta al controllo del Collegio sindacale della Cassa di risparmio in Bologna, secondo le norme stabilite dallo statuto della Cassa medesima.
+
+## Art. 8
+
+Per l'adempimento dei propri compiti, la Sezione si avvale della Direzione generale, del personale e dei servizi della Cassa di risparmio in Bologna, assumendo a suo carico le relative spese e una quota di quelle generali e di amministrazione, da determinarsi dal Consiglio d'amministrazione.
+
+## Art. 9
+
+L'esercizio della Sezione si chiude al 31 dicembre di ogni anno.
+
+Alla fine di ogni esercizio si procede alla compilazione e approvazione del bilancio e conto economico della Sezione secondo le modalita' previste dallo statuto per il bilancio della Cassa di risparmio in Bologna.
+
+## Art. 10
+
+Sugli utili di esercizio, dedotto il 10% per il fondo di riserva ordinario, fino a che questo non abbia raggiunto un ammontare pari ad un decimo del fondo di dotazione, sara' prelevato l'interesse da assegnare al fondo di dotazione fino ad una misura massima del 6%.
+
+Il residuo sara' portato ad un fondo di riserva straordinario.
+
+## Scioglimento e liquidazione
+
+## Art. 11
+
+In caso di scioglimento e liquidazione, la Sezione sara' anzitutto tenuta a restituire, sulle proprie attivita', il fondo di dotazione, assegnato dalla Cassa di risparmio in Bologna.
+
+L'eventuale incremento patrimoniale, risultante alla chiusura della liquidazione, sara' devoluto ad aumento della riserva della Cassa di risparmio.
+
+## Rinvio alle norme di legge
+
+## Art. 12
+
+Per tutto quanto non e' previsto nel presente statuto si osserveranno le prescrizioni delle leggi e dei regolamenti in vigore.
+
+Visto, il Ministro per il tesoro: TAMBRONI

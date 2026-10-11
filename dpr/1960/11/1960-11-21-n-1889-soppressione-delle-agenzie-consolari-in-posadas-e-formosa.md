@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1960, n. 1889 — Soppressione delle Agenzie consolari in Posadas e Formosa (Argentina) ed istituzione nelle stesse localita' di Vice consolati di 2ª categoria."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-21;1889"
+eli: "https://www.normattiva.it/eli/id/1961/03/23/060U1889/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1960-11-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 74 del 1961-03-23"
+codice_redazionale: "060U1889"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-21;1889"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1960, n. 1889
+
+**Soppressione delle Agenzie consolari in Posadas e Formosa (Argentina) ed istituzione nelle stesse localita' di Vice consolati di 2ª categoria.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 28 gennaio 1866, n. 2804;
+
+Visto il regio decreto 7 giugno 1866, n. 2996;
+
+Visto il decreto del Capo provvisorio dello Stato 5 agosto 1947, n. 878, e successive modificazioni;
+
+Stilla proposta del Ministro per gli affari esteri;
+
+Decreta:
+
+## Art. 1
+
+Le Agenzie consolari in Posadas e Formosa (Argentina), alle dipendenze del Consolato generale di 1ª categoria in Rosario, sono soppresse.
+
+## Art. 2
+
+E' istituito in Posadas (Argentina) un viceconsolato di 2ª categoria alle dipendenze del Consolato generale di 1ª categoria in Rosario.
+
+## Art. 3
+
+E' istituito in Formosa (Argentina) un viceconsolato di 2ª categoria alle dipendenze del Consolato generale di 1ª categoria in Rosario.
+
+Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 novembre 1960
+
+GRONCHI
+
+SEGNI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 20 marzo 1961
+
+Atti del Governo, registro n. 135, foglio n. 65. - VILLA

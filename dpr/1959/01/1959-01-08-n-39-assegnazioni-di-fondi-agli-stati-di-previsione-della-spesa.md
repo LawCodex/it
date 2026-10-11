@@ -1,0 +1,78 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1959, n. 39 — Assegnazioni di fondi agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1958-59, a norma dell'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. (1° Provvedimento)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-01-08;39"
+eli: "https://www.normattiva.it/eli/id/1959/02/18/059U0039/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-01-08
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 41 del 1959-02-18"
+codice_redazionale: "059U0039"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-01-08;39"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1959, n. 39
+
+**Assegnazioni di fondi agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1958-59, a norma dell'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. (1° Provvedimento).**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Viste le leggi 31 ottobre 1958, numeri 965, 966, 972 e 975;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro Segretario di Stato per il tesoro;
+
+Decreta:
+
+Negli stati di previsione della spesa dei Ministeri sottoindicati, per l'esercizio finanziario 1958-59, sono introdotte le seguenti variazioni in aumento:
+
+Ministero del tesoro:
+
+Cap. n. 5. - Interessi e premi, ecc.. L. 3.800.000.000
+
+Ministero delle finanze:
+
+Cap. n. 159. - Restituzioni e
+
+rimborsi, ecc.......................... L. 10.000.000.000
+
+Cap. n. 254. - Restituzione di
+
+diritti, ecc........................... L. 12.000.000.000
+
+Ministero della pubblica istruzione:
+
+Cap. n. 56. - Scuole magistrali,ecc.. L. 16.300.000
+
+Ministero dell'interno:
+
+Cap. n. 47. - Corpo delle guardie di
+
+pubblica sicurezza - Stipendi, ecc..... L. 750.000.000
+
+----------------
+
+L. 26.566.300.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 gennaio 1959
+
+GRONCHI
+
+FANFANI - ANDREOTTI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 13 febbraio 1959
+
+Atti del Governo, registro n. 116, foglio n. 107. - RELLEVA

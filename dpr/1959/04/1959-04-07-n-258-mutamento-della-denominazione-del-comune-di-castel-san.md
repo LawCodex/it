@@ -1,0 +1,48 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1959, n. 258 — Mutamento della denominazione del comune di Castel San Pietro dell'Emilia, in provincia di Bologna, in quella di \"Castel San Pietro Terme\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-07;258"
+eli: "https://www.normattiva.it/eli/id/1959/05/16/059U0258/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1959-04-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 116 del 1959-05-16"
+codice_redazionale: "059U0258"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-07;258"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1959, n. 258
+
+**Mutamento della denominazione del comune di Castel San Pietro dell'Emilia, in provincia di Bologna, in quella di "Castel San Pietro Terme".**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la deliberazione del Consiglio comunale di Castel San Pietro dell'Emilia (Bologna) n. 45, in data 22 marzo 1958, con la quale e' stato chiesto che l'attuale denominazione del Comune stesso sia mutata in quella di "Castel San Pietro Terme";
+
+Vista la deliberazione del Consiglio provinciale di Bologna, n. 3819, in data 27 giugno 1958, con la quale e' stato espresso parere favorevole in ordine al cambiamento di denominazione di cui trattasi;
+
+Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383, e successive modificazioni;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+La denominazione del comune di Castel San Pietro dell'Emilia, in provincia di Bologna, e' mutata in quella di "Castel San Pietro Terme".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 aprile 1959
+
+GRONCHI
+
+SEGNI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 12 maggio 1959
+
+Atti del Governo, registro n. 118, foglio n. 125. - VILLA
