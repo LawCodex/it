@@ -39,6 +39,7 @@ CODE_SLUGS = {
     "092G0306": "codice-della-strada",
     "092G0531": "regolamento-codice-della-strada",
     "041U0303": "codici-penali-militari-di-pace-e-di-guerra",
+    "041U1023": "disposizioni-attuazione-codici-penali-militari",
     "005G0232": "codice-del-consumo",
     "003G0218": "codice-protezione-dati-personali",
     "004G0066": "codice-beni-culturali-e-paesaggio",
@@ -49,7 +50,6 @@ CODE_SLUGS = {
     "010G0089": "codice-ordinamento-militare",
     "010G0127": "codice-processo-amministrativo",
     "011G0201": "codice-antimafia",
-    "017G00128": "codice-terzo-settore",
     "18G00011": "codice-protezione-civile",
     "19G00007": "codice-crisi-impresa-e-insolvenza",
     "23G00044": "codice-contratti-pubblici",
@@ -57,13 +57,14 @@ CODE_SLUGS = {
     "006G0216": "codice-pari-opportunita",
     "17G00128": "codice-terzo-settore",
     "011G0123": "codice-turismo",
-    "092G0306x": "codice-della-strada",
     "073U0156": "codice-postale-e-telecomunicazioni",
     "052U0328": "regolamento-codice-navigazione-marittima",
     "093G0007": "codice-processo-tributario",
-    "010G0226": "regolamento-codice-ordinamento-militare",
+    "010G0226": "regolamento-codice-contratti-pubblici-2006",
     "089G0411": "regolamento-codice-procedura-penale",
-    "010G0044": "regolamento-codice-beni-culturali",
+    "010G0044": "regolamento-codice-proprieta-industriale",
+    "005G0200": "codice-nautica-da-diporto",
+    "16G00187": "codice-giustizia-contabile",
     "25G00192": "codice-incentivi",
 }
 
@@ -210,11 +211,23 @@ def collect_positions(elems, acc):
         collect_positions(x.get("elementi"), acc)
 
 
+def first_leaf(elems):
+    for x in elems or []:
+        if x.get("nomeNir") in ("articolo", "allegato") or (x.get("testo") and not x.get("elementi")):
+            return x
+        y = first_leaf(x.get("elementi"))
+        if y is not None:
+            return y
+    return None
+
+
 def render_elements(r, elems, rank, art_level, first):
     for x in elems or []:
         kind = x.get("nomeNir")
         if kind in ("articolo", "allegato") or (x.get("testo") and not x.get("elementi")):
             pre, label, rubric, body = split_article(x.get("testo") or "")
+            if x.get("_pre_done"):
+                pre = ""
             if label is None:
                 num = (x.get("numNir") or "").strip()
                 if kind == "allegato" and num:
@@ -271,6 +284,14 @@ def render_doc(d):
     note = (md.get("noteDoc") or "").strip()
     if note:
         r.para(["*" + b + "*" for b in render_lines(note)])
+    # the preamble (enacting formula) is part of the first article's text: put it before
+    # the first structural heading
+    fl = first_leaf(art)
+    if fl is not None:
+        pre = split_article(fl.get("testo") or "")[0]
+        if pre.strip():
+            r.para(render_lines(pre))
+            fl["_pre_done"] = True
     render_elements(r, art, rank, art_level, True)
     if ann:
         if not group_headings(ann[0].get("numNir")):

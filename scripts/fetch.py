@@ -15,10 +15,10 @@ https://dati.normattiva.it/assets/come_fare_per/API_Normattiva_OpenData.pdf).
 - `lists` downloads the pre-built collections "Atti normativi abrogati (in originale)" and
   "Codici" in URI format (one ELI per act, named <dataGU>_<codiceRedazionale>) and writes
   RAW/abrogati.txt and RAW/codici.txt.
-- `export` runs one asynchronous export per (type, year, classeProvvedimento) for classes
+- `export` runs one asynchronous export per (type, classeProvvedimento, range of years of ~1500 acts) for classes
   1 ("atto normativo - senza aggiornamenti") and 2 ("atto normativo - aggiornato"), i.e.
   skipping class 3 ("abrogato"), with richiestaExport=V (text in force on --vigenza, default
-  today) and formato=JSON, and downloads the zip to RAW/zips/<CODE>/<year>-c<class>.zip.
+  today) and formato=JSON, and downloads the zip to RAW/zips/<CODE>/c<class>-<year1>-<year2>.zip.
   The codes of the "Codici" collection whose act type is not exported are fetched one by one
   into RAW/zips/CODICI/. Existing zips are reused (delete them to refresh).
 """
@@ -130,11 +130,16 @@ def cmd_lists(raw):
 
 
 def run_export(code, year, n_expected, dest, number, cls, vigenza):
+    params = {"filtriMap": {"codice_tipo_provvedimento": code}}
+    if isinstance(year, tuple):
+        if year[0] != "0":
+            params["dataInizioEmanazione"] = f"{year[0]}-01-01"
+            params["dataFineEmanazione"] = f"{year[1]}-12-31"
+    else:
+        params["annoProvvedimento"] = int(year)
+        params["filtriMap"]["anno_provvedimento"] = str(year)
     body = {"formato": "JSON", "tipoRicerca": "A", "modalita": "C", "richiestaExport": "V",
-            "dataVigenza": vigenza,
-            "parametriRicerca": {"annoProvvedimento": int(year),
-                                 "filtriMap": {"codice_tipo_provvedimento": code,
-                                               "anno_provvedimento": str(year)}}}
+            "dataVigenza": vigenza, "parametriRicerca": params}
     if number:
         body["parametriRicerca"]["numeroProvvedimento"] = int(number)
     if cls:
@@ -178,12 +183,13 @@ def run_export(code, year, n_expected, dest, number, cls, vigenza):
             time.sleep(30)
         else:
             continue
-        n = sum(1 for i in z.namelist() if i.endswith(".xml"))
+        n = sum(1 for i in z.namelist() if i.endswith(".json"))
         with open(dest + ".tmp", "wb") as f:
             f.write(r.content)
         os.replace(dest + ".tmp", dest)
-        print(f"export {code} {year} c{cls}: {n}/{n_expected} acts, {len(r.content)//1024} KiB",
-              file=sys.stderr)
+        print(f"{time.strftime('%H:%M:%S')} export {code} {year} c{cls}: {n}/{n_expected} acts, "
+              f"{len(r.content)//1024} KiB" + ("" if n == n_expected else "  MISMATCH"),
+              file=sys.stderr, flush=True)
         return n
     raise RuntimeError(f"export {code} {year} failed")
 
@@ -236,17 +242,27 @@ def class_year_counts(raw, code):
     return res
 
 
-def cmd_export(raw, types, workers, vigenza):
+def cmd_export(raw, types, workers, vigenza, batch=1500):
     jobs = codici_jobs(raw, types)
     for code in types:
         counts = class_year_counts(raw, code)
         d = os.path.join(raw, "zips", code)
         os.makedirs(d, exist_ok=True)
         for cl, years in counts.items():
-            for y, n in sorted(years.items()):
-                dest = os.path.join(d, f"{y}-c{cl}.zip")
+            # group consecutive years into jobs of at most ~`batch` acts
+            groups, cur, tot = [], [], 0
+            for y in sorted(years, key=int):
+                if cur and (tot + years[y] > batch or y == "0" or cur[0] == "0"):
+                    groups.append((cur, tot))
+                    cur, tot = [], 0
+                cur.append(y)
+                tot += years[y]
+            if cur:
+                groups.append((cur, tot))
+            for ys, n in groups:
+                dest = os.path.join(d, f"c{cl}-{ys[0]}-{ys[-1]}.zip")
                 if not os.path.exists(dest):
-                    jobs.append((code, y, n, dest, None, cl))
+                    jobs.append((code, (ys[0], ys[-1]), n, dest, None, cl))
     print(f"{len(jobs)} exports to run", file=sys.stderr)
     with cf.ThreadPoolExecutor(workers) as ex:
         futs = {ex.submit(run_export, *j, vigenza): j for j in jobs}
