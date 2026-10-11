@@ -1,0 +1,78 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962, n. 728 — Norme sul trattamento economico e normativo dei lavoratori laureati e non laureati dipendenti dalle farmacie nelle province di Cremona e Massa-Carrara."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;728"
+eli: "https://www.normattiva.it/eli/id/1962/07/11/062U0728/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1962-01-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 173 del 1962-07-11"
+codice_redazionale: "062U0728"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;728"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962, n. 728
+
+**Norme sul trattamento economico e normativo dei lavoratori laureati e non laureati dipendenti dalle farmacie nelle province di Cremona e Massa-Carrara.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visto il contratto collettivo nazionale 1 gennaio 1955, per il personale laureato e diplomato delle farmacie;
+
+Visto, per la provincia di Cremona, il contratto collettivo 19 aprile 1957, e relative tabelle, stipulato tra L'Associazione Proprietari Farmacisti e il Sindacato Provinciale Addetti Servizi Commerciali;
+
+Visto, per la provincia di Massa-Carrara, l'accordo collettivo 20 febbraio 1958, e relativa tabella, stipulato tra l'Ordine Farmacisti, l'Associazione Provinciale Proprietari Farmacie e il Sindacato Provinciale Farmacisti Laureati non Proprietari e Personale Ausiliario - C.I.S.L.-;
+
+Vista la pubblicazione nell'apposito Bollettino, n. 7 della provincia di Cremona, in data 27 aprile 1960, n. 7 della provincia di Massa-Carrara, in data 22 novembre 1960, del contratto e dell'accordo sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale;
+
+Decreta:
+
+## Articolo unico
+
+I rapporti di lavoro costituiti per l'attivita' per la quale sono stati stipulati, relativamente ai lavoratori laureati e non laureati dipendenti dalle farmacie:
+
+per la provincia di Cremona, il contratto collettivi 19 aprile 1957;
+
+per la provincia di Massa-Carrara, l'accordo collettivo 20 febbraio 1958;
+
+sono regolati da norme giuridiche uniformi alle clausole del contratto e dell'accordo anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda, i lavoratori laureati, con quelle concernenti la disciplina nazionale della categoria.
+
+I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori laureati e non laureati dipendenti delle farmacie delle province di Cremona e Massa-Carrara.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 gennaio 1962
+
+GRONCHI
+
+FANFANI - SULLO
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 9 giugno 1962
+
+Atti del Governo, registro n. 149, foglio n. 62. - VILLA
+
+## Allegati
+
+## Allegato
+
+CONTRATTO COLLETTIVO 19 APRILE 1957 PER IL PERSONALE LAUREATO E NON LAUREATO DIPENDENTE DALLE FARMACIE DELLA PROVINCIA DI CREMONA.
+
+Parte di provvedimento in formato grafico
+
+ACCORDO COLLETTIVO 20 FEBBRAIO 1958 PER IL PERSONALE LAUREATO E NON LAUREATO DIPENDENTE DALLE FARMACIE DELLA PROVINCIA DI MASSA CARRARA
+
+Parte di provvedimento in formato grafico

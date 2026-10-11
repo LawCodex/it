@@ -1,0 +1,60 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1964, n. 300 — Aumento del quantitativo minimo di sale da prelevare a prezzo speciale dalle industrie presso gli stabilimenti di produzione del Monopolio."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1964-04-18;300"
+eli: "https://www.normattiva.it/eli/id/1964/05/23/064U0300/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1964-04-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 125 del 1964-05-23"
+codice_redazionale: "064U0300"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-04-18;300"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1964, n. 300
+
+**Aumento del quantitativo minimo di sale da prelevare a prezzo speciale dalle industrie presso gli stabilimenti di produzione del Monopolio.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 17 luglio 1912, n. 907, sul monopolio dei sali e dei tabacchi, e successive modificazioni;
+
+Vista la legge 19 dicembre 1958, n. 1085, sul regime di imposizione fiscale sui prodotti oggetto di monopolio dello Stato;
+
+Vista la legge 17 dicembre 1957, n. 1249, concernente agevolazioni sul prezzo del sale per l'industria casearia;
+
+Visto il decreto del Presidente della Repubblica 14 marzo 1938, n. 375, che determina il prezzo di vendita del sale comune destinato all'industria casearia;
+
+Visti i decreti del Presidente della Repubblica 11 marzo 1953, n. 279; 24 ottobre 1955, n. 1006;
+
+13 maggio 1957, n. 439; 18 maggio 1959, n. 383 e 28 agosto 1960, n. 1046, che determinano i prezzi speciali di vendita del sale per la salagione delle pelli, per la raffinazione degli olii e la fabbricazione dei saponi, per la pastorizia e per la salagione dei pesci quando il prodotto e' prelevato direttamente presso gli stabilimenti di produzione del Monopolio;
+
+Ritenuta la necessita' di elevare a 8000 quintali il quantitativo minimo di sale da prelevare presso le saline e gli altri stabilimenti di produzione per ogni acquisto, per poter usufruire dei suddetti prezzi di vendita;
+
+Udito il Consiglio di amministrazione dei Monopoli di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze;
+
+Decreta:
+
+## Articolo unico
+
+I quantitativi minimi di sale da prelevare presso le saline e gli altri stabilimenti di produzione del Monopolio, per poter usufruire dei prezzi di vendita stabiliti coi decreti del Presidente della Repubblica 14 marzo 1958, n. 375; 11 marzo 1953, n. 279; 24 ottobre 1955, n. 1006, articolo 2, comma secondo; 13 maggio 1957, n. 439; 18 maggio 1959, n. 383; 28 agosto 1960, n. 1046, sono elevati a 8000 quintali di sale per ogni acquisto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 aprile 1964
+
+SEGNI
+
+MORO - TREMELLONI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 21 maggio 1964
+
+Atti del Governo, registro n. 183, foglio n. 87. - VILLA

@@ -1,0 +1,48 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961, n. 1473 — Mutamento della denominazione del comune di Sant'Andrea in quella di \"Sant'Andrea del Garigliano\" (Frosinone)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1473"
+eli: "https://www.normattiva.it/eli/id/1962/01/24/061U1473/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-12-11
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 21 del 1962-01-24"
+codice_redazionale: "061U1473"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-11;1473"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 dicembre 1961, n. 1473
+
+**Mutamento della denominazione del comune di Sant'Andrea in quella di "Sant'Andrea del Garigliano" (Frosinone).**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le deliberazioni del Consiglio comunale di Sant'Andrea (Frosinone) in data 24 aprile 1960, n. 6, ed in data 31 gennaio 1961, n. 4, con le quali e' stato chiesto che l'attuale denominazione del Comune stesso sia mutata in quella di "Sant'Andrea del Garigliano";
+
+Viste le deliberazioni del Consiglio provinciale di Frosinone in data 25 luglio 1960, n. 124, ed in data 2 agosto 1961, n. 34, con le quali e' stato espresso parere favorevole in merito al mutamento di denominazione in parola;
+
+Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1931, n. 383;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+La denominazione del comune di Sant'Andrea, in provincia di Frosinone, e' mutata in quella di "Sant'Andrea del Garigliano".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 dicembre 1961
+
+GRONCHI
+
+SCELBA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 20 gennaio 1962
+
+Atti del Governo, registro n. 143, foglio n. 52. - VILLA

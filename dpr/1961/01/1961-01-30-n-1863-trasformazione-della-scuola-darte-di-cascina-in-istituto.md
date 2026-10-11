@@ -1,0 +1,62 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1961, n. 1863 — Trasformazione della Scuola d'arte di Cascina in Istituto d'arte."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-30;1863"
+eli: "https://www.normattiva.it/eli/id/1962/09/29/061U1863/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-01-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 245 del 1962-09-29"
+codice_redazionale: "061U1863"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-01-30;1863"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1961, n. 1863
+
+**Trasformazione della Scuola d'arte di Cascina in Istituto d'arte.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 31 dicembre 1923, n. 3123, concernente l'ordinamento dell'istruzione artistica;
+
+Vista la legge 9 agosto 1954, n. 651, concernente la classifica e trasformazione di Istituti e Scuole d'arte;
+
+Ritenuta l'opportunita' di trasformare la Scuola d'arte di Cascina in Istituto d'arte;
+
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;
+
+Decreta:
+
+## Art. 1
+
+A decorrere dal 1 ottobre 1960, la Scuola d'arte di Cascina e' trasformata in Istituto d'arte, del quale e' approvata la pianta organica annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+
+## Art. 2
+
+La spesa di L. 7.725.000 (settemilionisettecentoventicinquemila) corrispondente ai tre quarti della maggiore somma occorrente per il mantenimento dell'Istituto di arte di cui all'art. 1 gravera' sul capitolo 232 del bilancio del Ministero della pubblica istruzione per l'esercizio finanziario 1960-61 e corrispondenti negli esercizi futuri.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 gennaio 1961
+
+GRONCHI
+
+BOSCO - TAVIANI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 31 agosto 1962
+
+Atti del Governo, registro n. 158, foglio n. 73. - VILLA
+
+## Allegati
+
+## Allegato
+
+Pianta organica dell'Istituto statale d'arte di Caseina
+
+Sezione: Arte del legno
+
+Parte di provvedimento in formato grafico

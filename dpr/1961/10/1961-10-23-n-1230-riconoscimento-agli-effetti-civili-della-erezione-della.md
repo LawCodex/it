@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1961, n. 1230 — Riconoscimento, agli effetti civili, della erezione della parrocchia di Cristo Re, in frazione Valpiana del comune di Massa Marittima (Grosseto)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-23;1230"
+eli: "https://www.normattiva.it/eli/id/1961/12/04/061U1230/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-10-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 301 del 1961-12-04"
+codice_redazionale: "061U1230"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-23;1230"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1961, n. 1230
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia di Cristo Re, in frazione Valpiana del comune di Massa Marittima (Grosseto).**
+
+## Art. 1
+
+N. 1230. Decreto del Presidente della Repubblica 23 ottobre 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto agli effetti civili, il decreto dell'Ordinario diocesano di Massa Marittima in data 1 maggio 1961, integrato con dichiarazione del 28 giugno 1961, relativo all'erezione della parrocchia di Cristo Re, in frazione Valpiana del comune di Massa Marittima (Grosseto).
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 21 novembre 1961
+
+Atti del Governo, registro n. 142, foglio n. 32. - VILLA

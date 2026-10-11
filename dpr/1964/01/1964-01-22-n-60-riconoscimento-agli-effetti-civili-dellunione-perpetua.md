@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1964, n. 60 — Riconoscimento, agli effetti civili, dell'unione perpetua nella forma \"aeque principaliter\" della Parrocchia di San Giovanni Bosco, in localita' Pole del comune di Acqualagna (Pesaro e Urbino), con la Parrocchia di Maria Annunziata, in localita' Petriccio dello stesso Comune."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1964-01-22;60"
+eli: "https://www.normattiva.it/eli/id/1964/03/05/064U0060/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1964-01-22
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 58 del 1964-03-05"
+codice_redazionale: "064U0060"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-01-22;60"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1964, n. 60
+
+**Riconoscimento, agli effetti civili, dell'unione perpetua nella forma "aeque principaliter" della Parrocchia di San Giovanni Bosco, in localita' Pole del comune di Acqualagna (Pesaro e Urbino), con la Parrocchia di Maria Annunziata, in localita' Petriccio dello stesso Comune.**
+
+## Art. 1
+
+N. 60. Decreto del Presidente della Repubblica 22 gennaio 1964 col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Urbino in data 25 marzo 1962, relativo all'unione perpetua nella forma "aeque principaliter" della Parrocchia di San Giovanni Bosco, in localita' Pole del comune di Acqualagna (Pesaro e Urbino), con la Parrocchia di Maria Annunziata in localita' Petriccio dello stesso Comune.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 26 febbraio 1964
+
+Atti del Governo, registro n. 181, foglio n. 126. - VILLA

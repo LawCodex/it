@@ -1,0 +1,60 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963, n. 1818 — Modificazione allo statuto dell'Universita' degli studi di Trieste."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-10-30;1818"
+eli: "https://www.normattiva.it/eli/id/1963/12/21/063U1818/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-10-30
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 330 del 1963-12-21"
+codice_redazionale: "063U1818"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-10-30;1818"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963, n. 1818
+
+**Modificazione allo statuto dell'Universita' degli studi di Trieste.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836, e modificato con decreto del Presidente della Repubblica 7 settembre 1962, numero 1540, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 37. - All'elenco degli istituti annessi alla Facolta' di Economia e commercio e' aggiunto il seguente:
+
+12\) Istituto di ricerche economico-agrarie.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 16 dicembre 1963
+
+Atti del Governo, registro n. 178, foglio n. 137. - VILLA

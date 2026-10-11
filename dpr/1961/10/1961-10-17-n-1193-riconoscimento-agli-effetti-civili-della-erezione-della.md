@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961, n. 1193 — Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Maria Vergine del Monte Carmelo nel comune di Randazzo (Catania)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-17;1193"
+eli: "https://www.normattiva.it/eli/id/1961/11/25/061U1193/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-10-17
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 293 del 1961-11-25"
+codice_redazionale: "061U1193"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-17;1193"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1961, n. 1193
+
+**Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Maria Vergine del Monte Carmelo nel comune di Randazzo (Catania).**
+
+## Art. 1
+
+N. 1193. Decreto del Presidente della Repubblica 17 ottobre 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Acireale in data 25 marzo 1961, integrato con prospetto e dichiarazione di pari data, relativo alla erezione della parrocchia della Beata Maria Vergine del Monte Carmelo nel comune di Randazzo (Catania.).
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 16 novembre 1961
+
+Atti del Governo, registro n. 142, foglio n. 14. - VILLA

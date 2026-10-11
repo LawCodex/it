@@ -1,0 +1,54 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963, n. 759 — Distacco della frazione Gioiello dal comune di Lardirago con aggregazione al comune di Ceranova (Pavia)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-18;759"
+eli: "https://www.normattiva.it/eli/id/1963/06/06/063U0759/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-04-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 150 del 1963-06-06"
+codice_redazionale: "063U0759"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-18;759"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963, n. 759
+
+**Distacco della frazione Gioiello dal comune di Lardirago con aggregazione al comune di Ceranova (Pavia).**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la istanza in data 15 luglio 1952, con la quale la maggioranza qualificata dei contributi della frazione Gioiello, del comune di Lardirago (Pavia), ha chiesto l'aggregazione della frazione medesima al comune di Ceranova;
+
+Viste le deliberazioni: del Consiglio comunale di Lardirago in data 25 ottobre 1952, n. 71, e 24 giugno 1957, n. 14; del Consiglio comunale di Ceranova in data 30 luglio 1952, n. 193: del Consiglio provinciale di Pavia in data 1 luglio 1957, n. 3335, e 24 maggio 1960, n. 3332, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
+
+Visti gli articoli 31 e 35 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+
+Edito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza del 26 febbraio 1963, numero 370;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+Decreta:
+
+## Art. 1
+
+La frazione Gioiello e' distaccata dal comune di Lardirago ed aggregata al comune di Ceranova, con la circoscrizione territoriale risultante dalla pianta planimetrica e dalla relazione descrittiva dei confini, annesse al presente decreto.
+
+## Art. 2
+
+Il prefetto della provincia di Pavia, sentita la Giunta provinciale amministrativa, provvedera' alla separazione patrimoniale ed al riparto delle attivita' e passivita'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 aprile 1963
+
+SEGNI
+
+TAVIANI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 31 maggio 1963
+
+Atti del Governo, registro n. 170, foglio n. 58. - VILLA

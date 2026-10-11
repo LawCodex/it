@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964, n. 1053 — Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-13;1053"
+eli: "https://www.normattiva.it/eli/id/1964/11/03/064U1053/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1964-08-13
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 271 del 1964-11-03"
+codice_redazionale: "064U1053"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-13;1053"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964, n. 1053
+
+**Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.**
+
+## Art. 1
+
+N. 1053. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare in donazione un edificio, attualmente adibito a circolo E.N.A.L., sito in frazione Ama del comune di Gaiole in Chianti (Siena), disposta dai signori dottor Alessandro Bonci Casuccini, Chiara Bonci Casuccini vedova Casini, Elisa Bindi Sergardi vedova Bonci Casuccini, come da atto a rogito dott. Fabio Marelli, notaio residente in Siena, in data 13 luglio 1963, al n. 4660 di rep., n. 1657 di raccolta.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei Conti, addi' 14 ottobre 1964
+
+Atti del Governo, registro n. 187, foglio n. 125. - VILLA

@@ -1,0 +1,112 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1963, n. 984 — Approvazione della convenzione aggiuntiva stipulata in data 21 dicembre 1962 tra il Ministero delle poste e telecomunicazioni e le Societa' Telefoni Italia Medio Orientale (T.I.M.O.) e Telefonica Tirrena (TETI) relativa al trasferimento del territorio del comune di Monterchi (Arezzo) dalla zona in concessione alla T.I.M.O. a quella in concessione alla TETI."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-29;984"
+eli: "https://www.normattiva.it/eli/id/1963/07/27/063U0984/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-04-29
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 200 del 1963-07-27"
+codice_redazionale: "063U0984"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-29;984"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1963, n. 984
+
+**Approvazione della convenzione aggiuntiva stipulata in data 21 dicembre 1962 tra il Ministero delle poste e telecomunicazioni e le Societa' Telefoni Italia Medio Orientale (T.I.M.O.) e Telefonica Tirrena (TETI) relativa al trasferimento del territorio del comune di Monterchi (Arezzo) dalla zona in concessione alla T.I.M.O. a quella in concessione alla TETI.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto-legge 23 aprile 1925, n. 520, convertito nella legge 21 marzo 1926, n. 597;
+
+Visto il Codice postale e delle telecomunicazioni, approvato con regio decreto 27 febbraio 1936, n. 645;
+
+Visti i decreti del Presidente della Repubblica 14 dicembre 1957, n. 1407, e 28 dicembre 1957, n. 1408 di approvazione delle convenzioni stipulate tra il Ministero delle poste e delle telecomunicazioni e le Societa' Telefoni Italia Medio Orientale (T.I.M.O.) e Telefonica Tirrena (TETI) rispettivamente in data 11 dicembre 1957 e 27 dicembre 1957 per il rinnovo delle concessioni del servizio telefonico ad uso pubblico nella 3ª e 4ª zona telefonica;
+
+Riconosciuta l'opportunita', per esigenze del servizio telefonico di comprendere il territorio del comune di Monterchi (provincia di Arezzo) nella zona telefonica in concessione alla Societa' TETI anziche' in quella in concessione alla Societa' T.I.M.O.;
+
+Udito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro;
+
+Decreta:
+
+E' approvata e resa esecutiva l'annessa convenzione stipulata in data 21 dicembre 1962 tra il Ministero delle poste e delle telecomunicazioni e le Societa' Telefoni Italia Medio Orientale (T.I.M.O.) e Telefonica Tirrena (TETI), con la quale il servizio telefonico ad uso pubblico del comune di Monterchi (Arezzo) viene trasferito dalla zona di concessione territoriale della T.I.M.O. a quella data in concessione alla TETI.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 aprile 1963
+
+SEGNI
+
+FANFANI - RUSSO - TREMELLONI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 20 luglio 1963
+
+Atti del Governo, registro n. 172, foglio n. 16. - VILLA
+
+## Allegati
+
+Atto aggiuntivo alle convenzioni per la concessione dei servizi telefonici ad uso pubblico e dei servizi di accettazione, trasmissione, ricezione fonica e di recapito dei telegrammi nonche' dei servizi di dettatura dei telegrammi tra il Ministero delle poste e delle telecomunicazioni e le Societa' p. A. TIMO - Societa' Telefonica Italia Media Orientale e Societa' p. A. TETI - Societa' Telefonica Tirrena.
+
+Tra
+
+il Ministero delle poste e delle telecomunicazioni in persona dell'ispettore generale superiore delle telecomunicazioni prof. dott.
+
+Albino Antinori;
+
+la S.p.A. TIMO - Societa' Telefoni Italia Media Orientale, con sede in Bologna, via Goito, 13, con capitale sociale di 24 miliardi, rappresentata dal suo presidente prof. dott. ing. Paolo Dore all'uopo
+
+delegato dal Consiglio di amministrazione in data 3 maggio 1962
+
+e
+
+la s.p.A. TETI - Societa' Telefonica Tirrena, con sede sociale in Firenze, via Anselmi, 3, con capitale sociale di L. 45 miliardi, rappresentata dal suo presidente on.le avv. Arrigo Paganelli, all'uopo delegato dal Consiglio di amministrazione della Societa' TETI in data 30 ottobre 1962 si conviene e si stipula quanto appresso:
+
+## Art. 1
+
+Le convenzioni per la concessione dei servizi telefonici rispettivamente intervenute tra il Ministero delle poste e delle telecomunicazioni e la S.p.A. TIMO - Societa' Telefoni Italia Media Orientale, in data 11 dicembre 1957 con approvazione a mezzo del decreto del Presidente della Repubblica 14 dicembre 1957, n. 1407 e tra il Ministero delle poste e delle telecomunicazioni e la S.p.A.
+
+TETI - Societa' Telefonica Tirrena, in data 27 dicembre 1957, con approvazione a mezzo decreto del Presidente della Repubblica 28 dicembre 1957, n. 1408, debbono intendersi parzialmente modificate secondo il disposto degli articoli successivi.
+
+## Art. 2
+
+La Societa' TIMO rinunzia a titolo gratuito per la parte relativa al territorio del comune di Monterchi, in provincia di Arezzo, alla concessione di cui alla convenzione 11 dicembre 1957. Pertanto la sua zona di concessione non comprende piu' il territorio del comune di Monterchi, rimanendo in tal senso modificato l'art. 2 della richiamata convenzione.
+
+## Art. 3
+
+La zona di concessione alla S.p.A. TETI - Societa' Telefonica Tirrena, e' estesa al territorio del comune di Monterchi (provincia di Arezzo) e pertanto l'art. 2 della convenzione qui richiamata viene in tal senso modificato.
+
+## Art. 4
+
+La S.p.A. TIMO - Societa' Telefoni Italia Media Orientale e la S.p.A. TETI - Societa' Telefonica Tirrena, regoleranno direttamente i rapporti economici e le pendenze derivanti dal trasferimento di impianti telefonici esistenti nel territorio del comune di Monterchi.
+
+## Art. 5
+
+Il presente atto aggiuntivo, sia nei confronti della Societa' TIMO che verso la Societa' TETI, decorrera' dal 1 novembre 1962.
+
+## Art. 6
+
+La presente convenzione fatta nell'interesse dello Stato, sara' esente da ogni tassa di registrazione.
+
+Roma, addi' 21 dicembre 1962
+
+p. la Societa TETI p. la Societa TIMO
+
+Il presidente: PAGANELLI Il presidente: DORE
+
+p. il Ministero delle poste e telecomunicazioni l'ispettore generale superiore delle telecomunicazioni
+
+ANTINORI
+
+Registrato al 1° Ufficio registro Atti privati - Roma N. 10257 Mod.
+
+II - Esatte L. gratis

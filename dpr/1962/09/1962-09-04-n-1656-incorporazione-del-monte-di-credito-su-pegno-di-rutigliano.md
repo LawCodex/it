@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962, n. 1656 — Incorporazione del Monte di credito su pegno di Rutigliano (Bari) nella Cassa di risparmio di Puglia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-09-04;1656"
+eli: "https://www.normattiva.it/eli/id/1962/12/15/062U1656/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1962-09-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 319 del 1962-12-15"
+codice_redazionale: "062U1656"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-09-04;1656"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962, n. 1656
+
+**Incorporazione del Monte di credito su pegno di Rutigliano (Bari) nella Cassa di risparmio di Puglia.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti il regio decreto 25 aprile 1929, n. 967, ed il regio decreto 5 febbraio 1931, n. 225;
+
+Visto il regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni;
+
+Visti la legge 10 maggio 1938, n. 745 ed il regio decreto 25 maggio 1939, n. 1279;
+
+Visto il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691;
+
+Viste le delibere del Consiglio di amministrazione della Cassa di risparmio di Puglia, con sede in Bari, in data 7 luglio 1962, e del commissario provvisorio del Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), in data 6 luglio 1962;
+
+Sentito il Comitato interministeriale per il credito ed il risparmio;
+
+Sulla proposta del Ministro per il tesoro;
+
+Decreta:
+
+Il Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), e' incorporato nella Cassa di risparmio di Puglia, con sede in Bari.
+
+Le modalita' dell'incorporazione saranno approvate con decreto del Ministro per il tesoro, ai sensi dell'articolo 47, comma primo, del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni, e del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 settembre 1962
+
+SEGNI
+
+TREMELLONI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte del conti, addi' 6 dicembre 1962
+
+Atti del Governo, registro n. 160, foglio n. 70. - VILLA

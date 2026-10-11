@@ -1,0 +1,56 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1963, n. 737 — Soppressione dell'Archivio notarile mandamentale di Nepi."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-05-02;737"
+eli: "https://www.normattiva.it/eli/id/1963/06/03/063U0737/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-05-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 146 del 1963-06-03"
+codice_redazionale: "063U0737"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-05-02;737"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1963, n. 737
+
+**Soppressione dell'Archivio notarile mandamentale di Nepi.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 29 giugno 1879, n. 4949, con il quale venne istituito l'Archivio notarile mandamentale di Nepi (distretto notarile di Viterbo);
+
+Viste le tabelle annesse al regio decreto 9 novembre 1891, n. 669, che determina il numero, la sede e la circoscrizione delle preture del regno;
+
+Visto l'art. 1 del regio decreto 17 dicembre 1891, n. 685;
+
+Visto l'art. 248 del regio decreto 10 settembre 1914, n. 1326;
+
+Visto l'art. 3 della legge 17 maggio 1952, n. 629;
+
+Considerato che il comune di Nepi non e' piu' sede di mandamento;
+
+Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
+
+Decreta:
+
+L'Archivio notarile mandamentale di Nepi e' soppresso.
+
+Gli originali e le copie degli atti e documenti di qualsiasi natura, anteriori al 31 dicembre 1862 eventualmente conservati in detto Archivio dovranno essere depositati nel competente Archivio di Stato; mentre quelli di data posteriore saranno depositati nello Archivio notarile distrettuale di Viterbo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 maggio 1963
+
+SEGNI
+
+BOSCO
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 29 maggio 1963
+
+Atti del governo, registro n. 170, foglio n. 20. - VILLA

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1964, n. 515 — Autorizzazione all'Ente nazionale per l'addestramento dei lavoratori del commercio (ENALC), con sede in Roma, ad acquistare dall'Azienda autonoma di cura e soggiorno di Rimini (Forli) un complesso immobiliare alberghiero sito in Rimini."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1964-04-27;515"
+eli: "https://www.normattiva.it/eli/id/1964/07/13/064U0515/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1964-04-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 170 del 1964-07-13"
+codice_redazionale: "064U0515"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-04-27;515"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1964, n. 515
+
+**Autorizzazione all'Ente nazionale per l'addestramento dei lavoratori del commercio (ENALC), con sede in Roma, ad acquistare dall'Azienda autonoma di cura e soggiorno di Rimini (Forli) un complesso immobiliare alberghiero sito in Rimini.**
+
+## Art. 1
+
+N. 515. Decreto del Presidente della Repubblica 27 aprile 1964, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale per l'addestramento dei lavoratori del commercio (ENALC), con sede in Roma, viene autorizzato ad acquistare dall'Azienda autonoma di cura e soggiorno di Rimini (Forli), proprietaria, il complesso immobiliare alberghiero denominato "Palace Hotel", sito in Rimini, via Dante, 47-49, distinto in catasto al foglio n. 74, mappali n. 702 e 2368, come specificato all'atto di compravendita per notar Vincenzo Compatangelo, rep. n. 153416, racc., n. 6876, del 1 settembre 1961, da destinarsi a Centro di addestramento professionale.
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 2 luglio 1964
+
+Atti del Governo, registro n. 184, foglio n. 74. - VILLA

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1961, n. 680 — Autorizzazione all'Ente \"Fondo per gli assegni vitalizi e straordinari al personale del lotto\" ad acquistare alcuni immobili siti nel comune di Roma."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-15;680"
+eli: "https://www.normattiva.it/eli/id/1961/08/02/061U0680/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-06-15
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 190 del 1961-08-02"
+codice_redazionale: "061U0680"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-15;680"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 giugno 1961, n. 680
+
+**Autorizzazione all'Ente "Fondo per gli assegni vitalizi e straordinari al personale del lotto" ad acquistare alcuni immobili siti nel comune di Roma.**
+
+## Art. 1
+
+N. 680. Decreto del Presidente della Repubblica 15 giugno 1961, col quale, sulla proposta del Ministro per le finanze, l'Ente "Fondo per gli assegni vitalizi e straordinari al personale del lotto" viene autorizzato ad acquistare, per un prezzo complessivo non superiore a. L. 16.500.000 (sedicimilionicinquecentomila), numero tre locali terreni, siti in Roma, via Pandosia numeri 58, 58/A e 58/B.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 17 luglio 1961
+
+Atti del Governo, registro n. 137, foglio n. 133. - VILLA

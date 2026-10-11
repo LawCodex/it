@@ -1,0 +1,146 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1962, n. 925 — Approvazione dello statuto dalla Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso il Banco di Napoli, con sede in Napoli."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-27;925"
+eli: "https://www.normattiva.it/eli/id/1962/07/27/062U0925/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1962-04-27
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 188 del 1962-07-27"
+codice_redazionale: "062U0925"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-27;925"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1962, n. 925
+
+**Approvazione dello statuto dalla Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso il Banco di Napoli, con sede in Napoli.**
+
+### Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti il regio decreto-legge 12 marzo 1936, n. 375 e successive modificazioni, nonche' il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691;
+
+Vista la legge 11 marzo 1958, n. 238;
+
+Visto il decreto ministeriale in data 20 dicembre 1961, con il quale il Banco di Napoli, avente una propria Sezione di credito fondiario, e' stato autorizzate od istituire una Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita', secondo le disposizioni della legge 11 marzo 1958, n. 238, sopra citata;
+
+Sentito il Comitato interministeriale per il credito ed il risparmio;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro per il tesoro;
+
+Decreta:
+
+E' approvato lo statuto della Sezione autonoma per il finanziamento di opere pubbliche di impianti di pubblica utilita' presso il Banco di Napoli, istituto di credito di diritto pubblico, con sede in Napoli, avente una propria Sezione di credito fondiario, composto di 11 articoli, allegato al presente decreto e debitamente vistato dal Ministro proponente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 aprile 1962
+
+GRONCHI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 18 luglio 1962
+
+Atti del Governo, registro n. 157, foglio n. 12. - VILLA
+
+## TITOLO I - Costituzione - Sede - Scopo - Operazioni - Patrimonio
+
+Statuto della Sezione autonoma per il finanziamento di opere pubbliche ed impianti di pubblica utilita' presso il Banco di Napoli.
+
+### Art. 1
+
+Ai sensi dell'art. 1 della legge 11 marzo 1958, n. 238, ed in conformita' del decreto ministeriale in data 20 dicembre 1961 e' istituita presso il Banco di Napoli, con patrimonio proprio e gestione e bilancio distinti da quelli dell'Istituto, una Sezione autonoma per il finanziamento di opere pubbliche ed impianti di pubblica utilita'.
+
+La Sezione ha la propria sede centrale in Napoli presso la Direzione generale del Banco, opera nelle Province nelle quali agisce la Sezione di credito fondiario dell'Istituto, si avvale per le proprie operazioni delle filiali del Banco stesso le quali agiscono come uffici della Sezione.
+
+Compito della Sezione e' l'erogazione di mutui a favore di enti pubblici aventi giurisdizione nella propria sfera di competenza nonche' a favore di consorzi, aziende autonome o societa' dagli stessi enti costituiti ed inoltre a favore di imprese di nazionalita' italiana operanti nella sfera di competenza della Sezione che abbiano ottenuto dagli enti predetti concessioni relative ad opere pubbliche o impianti di pubblica utilita'.
+
+### Art. 2
+
+I mutui di cui al comma terzo dell'art. 1 sono effettuati dalla Sezione con le modalita' e nei limiti previsti dagli articoli 2, 3 e 4 della legge 11 marzo 1958, n. 238.
+
+L'emissione di obbligazioni della Sezione e' regolata dalle norme stabilite dall'art. 3 della citata legge e, per quanto in essa non previsto, dalle vigenti disposizioni sul credito fondiario.
+
+Ove non contrasti con il presente statuto, e' applicabile alla Sezione ogni altra disposizione concernente i mutui fondiari, ivi comprese le disposizioni relative al regime tributario.
+
+### Art. 3
+
+Il patrimonio della Sezione e' formato:
+
+1\) dal fondo di dotazione;
+
+2\) dalle riserve.
+
+Il fondo di dotazione e' costituito dalla somma di lire 1.000.000.000 (un miliardo) assegnata dal Banco di Napoli.
+
+Alla costituzione delle riserve si provvedera' con l'accantonamento di parte degli utili annuali in armonia con quanto stabilito nel seguente art. 9.
+
+## TITOLO II - Rappresentanza - Amministrazione - Vigilanza governativa
+
+### Art. 4
+
+La Sezione e' rappresentata ed amministrata dagli stessi organi del Banco di Napoli nei rispettivi limiti di competenza, quali risultano dallo statuto del Banco.
+
+Essa, per l'adempimento dei propri compiti, si avvale del personale del Banco di Napoli, rimborsando a questo le spese relative, nonche' le altre spese generali e di amministrazione Le operazioni attive e passive e le rendite e spese sono tenute distinte nella contabilita' e nel bilancio del Banco.
+
+### Art. 5
+
+Presso la Sezione e' istituito un Comitato tecnico consultivo presieduto dal presidente del Consiglio di amministrazione del Banco di Napoli.
+
+Del Comitato fanno parte: il direttore generale del Banco, con funzione di vice presidente, ed altri tre membri scelti dal Consiglio di amministrazione del banco tra persone di particolare competenza.
+
+I componenti del Comitato, all'infuori del presidente e del direttore generale del Banco, durano in carica per un biennio, scadendo con l'approvazione del bilancio relativo al secondo esercizio, e possono essere confermati.
+
+### Art. 6
+
+Il Comitato tecnico consultivo decide sull'ammissione ad istruttoria delle domande di mutuo e da' parere:
+
+a) sui criteri, le norme e le modalita' per la concessione e l'erogazione dei mutui della Sezione da stabilirsi dal Consiglio di amministrazione del Banco;
+
+b) sulla concessione del mutui da deliberarsi dal Consiglio di amministrazione del banco;
+
+c) se richiesto, sulle questioni che interessino in genere l'attivita' della Sezione.
+
+### Art. 7
+
+La Sezione e' sottoposta alla vigilanza governativa che viene esercitata secondo le norme contenute nello statuto del Banco.
+
+## TITOLO III - Bilancio - Utili - Scioglimento - Liquidazione
+
+### Art. 8
+
+L'esercizio della Sezione si chiude il 31 dicembre di ogni anno. Il bilancio annuale viene sottoposto per l'approvazione al Consiglio di amministrazione del banco.
+
+### Art. 9
+
+Gli utili netti di esercizio sono ripartiti come segue:
+
+a) e' prelevata una somma pari al 10% da destinarsi al fondo di riserva della Sezione fino a quando questo non raggiunga la meta' del fondo di dotazione;
+
+b) viene corrisposta al Banco una quota fino al 5% sull'importo del fondo di dotazione;
+
+c) il residuo e' attribuito in aumento del fondo di riserva fino a che questo raggiunga la meta' del fondo di dotazione.
+
+Quando il fondo di riserva abbia raggiunto la meta' del fondo di dotazione, gli utili netti, detratta la quota spettante al Banco come precisato alla lettera b), saranno assegnati nel modo seguente:
+
+per meta' a costituzione di un fondo speciale di previdenza fino a che questo raggiunga l'ammontare complessivo di una semestralita' dei mutui in cartelle e in contanti esistenti alla chiusura dell'esercizio;
+
+per l'altra meta' al Banco.
+
+### Art. 10
+
+In caso di scioglimento della Sezione, le norme relative alla liquidazione verranno stabilite dal Consiglio di amministrazione ed il patrimonio netto risultante sara' devoluto al Banco.
+
+## TITOLO IV - Disposizioni generali
+
+### Art. 11
+
+Per tutto quanto non espressamente previsto dal presente statuto si osserveranno le prescrizioni di legge e dei regolamenti in vigore nonche' quelle del vigente statuto del Banco.
+
+Visto, il Ministro per il tesoro: TREMELLONI

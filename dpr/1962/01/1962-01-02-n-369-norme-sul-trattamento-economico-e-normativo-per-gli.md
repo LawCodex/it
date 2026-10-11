@@ -1,0 +1,80 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962, n. 369 — Norme sul trattamento economico e normativo per gli impiegati e gli operai dipendenti dalle imprese alberghiere della provincia di Bologna."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;369"
+eli: "https://www.normattiva.it/eli/id/1962/06/13/062U0369/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1962-01-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 148 del 1962-06-13"
+codice_redazionale: "062U0369"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;369"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 gennaio 1962, n. 369
+
+**Norme sul trattamento economico e normativo per gli impiegati e gli operai dipendenti dalle imprese alberghiere della provincia di Bologna.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visto il contratto collettivo nazionale di lavoro 22 settembre 1959, per gli impiegati di aziende alberghiere;
+
+Visto il contratto collettivo nazionale di lavoro 22 settembre 1959, per il personale salariato dipendente dagli alberghi, hotels meubles, pensioni e locande, nonche' ristoranti, caffe' e bars annessi;
+
+Visto l'accordo 18 febbraio 1957 per la competenza organizzativa della Federazione delle Associazioni italiane Alberghi-Turismo e della Federazione italiana Pubblici Esercizi;
+
+Visti, per la provincia di Bologna:
+
+il contratto collettivo integrativo 30 aprile 1960, stipulato tra l'Associazione Provinciale degli Albergatori e l'A.M.P.E. - C.I.S.N.A.L.;
+
+il contratto collettivo integrativo 30 aprile 1960, e relative tabelle, stipulato tra le medesime parti di cui al contratto che precede;
+
+Vista la pubblicazione nell'apposito Bollettino, n. 25 della provincia di Bologna, in data 30 giugno 1961, dei contratti sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale;
+
+Decreta:
+
+## Articolo unico
+
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Bologna, il contratto collettivo integrativo 30 aprile 1960, relativo agli impiegati di aziende alberghiere, il contratto collettivo integrativo 30 aprile 1960, relativo al personale salariato dipendente da aziende alberghiere, sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto.
+
+Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+
+I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese alberghiere della provincia di Bologna.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 gennaio 1962
+
+GRONCHI
+
+FANFANI - SULLO
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 18 maggio 1962
+
+Atti del Governo, registro n. 147, foglio n. 33. - VILLA
+
+## Allegati
+
+## Allegato
+
+CONTRATTO COLLETTIVO 30 APRILE 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 22 SETTEMBRE 1959, PER GLI IMPIEGATI DI AZIENDE ALBERGHIERE DELLA PROVINCIA DI BOLOGNA.
+
+Parte di provvedimento in formato grafico
+
+CONTRATTO COLLETTIVO 30 APRILE 1960, INTEGRATIVO DEL CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 22 SETTEMBRE 1959, PER IL PERSONALE SALARIATO DIPENDENTE DA AZIENDE ALBERGHIERE DELLA PROVINCIA DI BOLOGNA
+
+Parte di provvedimento in formato grafico

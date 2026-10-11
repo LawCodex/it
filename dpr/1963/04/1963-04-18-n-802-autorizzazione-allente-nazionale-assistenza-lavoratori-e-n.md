@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963, n. 802 — Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad acquistare un immobile, sito nel comune di Roppolo (Vercelli), \"regione Prato Chioso\"."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-18;802"
+eli: "https://www.normattiva.it/eli/id/1963/06/14/063U0802/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-04-18
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 157 del 1963-06-14"
+codice_redazionale: "063U0802"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-18;802"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963, n. 802
+
+**Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad acquistare un immobile, sito nel comune di Roppolo (Vercelli), "regione Prato Chioso".**
+
+## Art. 1
+
+N. 802. Decreto del Presidente della Repubblica 18 aprile 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad acquistare un immobile, sito nel comune di Roppolo (Vercelli), "regione Prato Chioso", da adibirsi a sede del locale Circolo E.N.A.L.
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 4 giugno 1963
+
+Atti del Governo, registro n. 170, foglio n. 67. - VILLA

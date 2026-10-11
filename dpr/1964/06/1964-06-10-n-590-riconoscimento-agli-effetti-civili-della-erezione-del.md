@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1964, n. 590 — Riconoscimento, agli effetti civili, della erezione del Cappellania curata autonoma ed indipendente della Madonna delle Vittorie, in contrada Sant'Onofrio del comune di Campli (Teramo)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1964-06-10;590"
+eli: "https://www.normattiva.it/eli/id/1964/07/24/064U0590/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1964-06-10
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 180 del 1964-07-24"
+codice_redazionale: "064U0590"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1964-06-10;590"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1964, n. 590
+
+**Riconoscimento, agli effetti civili, della erezione del Cappellania curata autonoma ed indipendente della Madonna delle Vittorie, in contrada Sant'Onofrio del comune di Campli (Teramo).**
+
+## Art. 1
+
+N. 590. Decreto del Presidente della Repubblica 10 giugno 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Teramo in data 13 novembre 1962, integrato con altro decreto del 21 agosto 1963 e con due dichiarazioni rispettivamente del 1 settembre e 13 novembre 1963, relative alla erezione della Cappellania curata autonoma e indipendente della Madonna delle Vittorie in contrada Sant'Onofrio del comune di Campli (Teramo).
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 13 Luglio 1964
+
+Atti del Governo, registro n. 184, foglio n. 131. - VILLA

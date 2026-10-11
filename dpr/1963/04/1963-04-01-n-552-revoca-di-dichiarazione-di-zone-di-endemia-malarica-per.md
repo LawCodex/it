@@ -1,0 +1,50 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1963, n. 552 — Revoca di dichiarazione di zone di endemia malarica per vari Comuni della provincia di Messina."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-01;552"
+eli: "https://www.normattiva.it/eli/id/1963/04/29/063U0552/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-04-01
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 113 del 1963-04-29"
+codice_redazionale: "063U0552"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-01;552"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1963, n. 552
+
+**Revoca di dichiarazione di zone di endemia malarica per vari Comuni della provincia di Messina.**
+
+## Art. 1
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto la nota 21 gennaio 1963, n. 667, con la quale il medico provinciale di Messina trasmette la proposta e la relativa documentazione per la revoca delle dichiarazioni di zone di endemia malarica per i comuni di Cesaro', Giardini, Milazzo, San Filippo del Mela, Santa Lucia del Mela, San Teodoro, Spadafora, Taormina e Venetico di quella Provincia;
+
+Visto l'art. 313 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265, e l'art. 4 del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con regio decreto 28 gennaio 1935, n. 93;
+
+Visti i regi decreti con i quali sono state, tra l'altro, stabilite le zone malariche dei suddetti Comuni e precisamente: 8 giugno 1903, n. 276, per quelli di Milazzo, San Filippo del Mela e Santa Lucia del Mela, 25 luglio 1904, n. 465, per quelli di Giardini e Taormina e 26 marzo 1905, n. 151, per quelli di Cesaro', Spadafora San Martino (ora Spadafora), San Teodoro e Venetico;
+
+Vista la legge 13 marzo 1958, n. 296;
+
+Sulla proposta del Ministro per la sanita';
+
+Decreta:
+
+Le dichiarazioni di zone di endemia malarica per i comuni di Cesaro', Giardini, Milazzo, San Filippo del Mela, Santa Lucia del Mela, San Teodoro, Spadafora (gia': Spadafora San Martino), Taormina e Venetico, della provincia di Messina, sono revocate.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 aprile 1968
+
+SEGNI
+
+JERVOLINO
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 24 aprile 1963
+
+Atti del Governo, registro n. 168, foglio n. 40. - VILLA

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1961, n. 1000 — Autorizzazione alla Cassa nazionale di assistenza e previdenza tra gli scrittori italiani ad acquistare un immobile."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-02;1000"
+eli: "https://www.normattiva.it/eli/id/1961/10/06/061U1000/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-08-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 250 del 1961-10-06"
+codice_redazionale: "061U1000"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-02;1000"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1961, n. 1000
+
+**Autorizzazione alla Cassa nazionale di assistenza e previdenza tra gli scrittori italiani ad acquistare un immobile.**
+
+## Art. 1
+
+N. 1000. Decreto del Presidente della Repubblica, 2 agosto 1961, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa nazionale di assistenza, e previdenza, tra gli scrittori italiani viene autorizzata ad acquistare dalla Societa' "Immobiliare Sansovino a r. l.", con sede in Roma, al prezzo di L. 12.800.000 (dodicimilioniottocentomila) un appartamento composto di cinque camere ed accessori, sito in Roma, al piano terreno, interno quattro, dello stabile di via dei Sansovino, n. 6, nonche' un locale posto al piano interrato dello stesso edificio meglio descritti nell'atto di compravendita redatto in Roma il giorno 18 maggio 1930, repertorio n. 18459, dal dott. Andrea Giuliani, notaio iscritto al Collegio notarile di Roma.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 29 settembre 1961
+
+Atti del Governo, registro n. 140, foglio n. 108. - VILLA

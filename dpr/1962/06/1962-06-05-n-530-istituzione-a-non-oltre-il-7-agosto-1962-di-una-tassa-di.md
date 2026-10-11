@@ -1,0 +1,90 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1962, n. 530 — Istituzione, a non oltre il 7 agosto 1962, di una tassa di compensazione in aggiunta al dazio doganale e agli altri diritti in vigore per il solfuro di carbonio."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1962-06-05;530"
+eli: "https://www.normattiva.it/eli/id/1962/06/26/062U0530/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1962-06-05
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 160 del 1962-06-26"
+codice_redazionale: "062U0530"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1962-06-05;530"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1962, n. 530
+
+**Istituzione, a non oltre il 7 agosto 1962, di una tassa di compensazione in aggiunta al dazio doganale e agli altri diritti in vigore per il solfuro di carbonio.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le leggi 21 dicembre 1949, n. 993; 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1957, n. 68; 24 luglio 1959, n. 693; 20 dicembre 1960, n. 1527 e 26 gennaio 1962, n. 6;
+
+Viste la tariffa dei dazi doganali di importazione, approvata, con decreto Presidenziale 21 dicembre 1961, n. 1339 e successive aggiunte e modificazioni;
+
+Vista la legge 5 aprile 1950, n. 295, che da' piena ed intera esecuzione all'Accordo generale sulle tariffe doganali e sul commercio, concluso a Ginevra il 30 ottobre 1917, e le successive aggiunte e modificazioni;
+
+Vista la legge 31 ottobre 1952, n. 1976, che ratifica e da' esecuzione alle seguenti Convenzioni internazionali firmate dall'Italia a Bruxelles l'11 gennaio 1951;
+
+Convenzione sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso;
+
+Convenzione sul valore in dogana delle merci e relativi annessi;
+
+Convenzione per la creazione di un Consiglio di Cooperazione Doganale e relativo annesso; Protocollo relativo al Gruppo di Studi per l'Unione doganale europea;
+
+Vista la legge 25 aprile 1957, n. 358, che ratifica e da' esecuzione al Protocollo di rettifica, alla Convenzione di Bruxelles del 15 dicembre 1950 sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali, firmato a Bruxelles il 1 luglio 1955;
+
+Vista la legge 25 giugno 1952, n. 766, che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Parigi il 18 aprile 1951: Trattato che istituisce la Comunita' europea del carbone e dell'acciaio e relativi annessi; Protocollo sui privilegi e le immunita' della Comunita'; Protocollo sullo Statuto della Corte di giustizia; Protocollo sulle relazioni con il Consiglio d'Europa;
+
+Convenzione relativa alle disposizioni transitorie;
+
+Vista la legge 14 ottobre 1957, n. 1203, che ratifica e da' esecuzione ai seguenti Accordi internazionali firmati a Roma il 25 marzo 1957: a) Trattato che istituisce la Comunita' europea dell'energia atomica ed Atti allegati; b) Trattato che istituisce la Comunita' economica europea ed Atti allegati; c) Convenzione relativa ad alcune istituzioni comuni alle Comunita' europee;
+
+Visti il decreto Presidenziale 24 dicembre 1960, n. 1584, che da' applicazione alla Decisione del Consiglio dei Ministri delle Comunita' Europee del 13 febbraio 1960, che stabilisce la Tariffa, doganale comune o successive aggiunte e modificazioni;
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Ritenuta la necessita' di istituire una tassa di compensazione sul solfuro di carbonio;
+
+Sentita la Commissione parlamentare, costituita a norma dell'art. 3 della legge 24 dicembre 1949, n. 993 e successive aggiunte e modificazioni;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per il bilancio, per l'agricoltura e foreste, per l'industria, ed il commercio, per il commercio con l'estero e per la marina mercantile;
+
+Decreta:
+
+## Art. 1
+
+Dalla data di entrata in vigore del presente decreto a non oltre il 7 agosto 1962, all'importazione di solfuro di carbonio (voce della tariffa doganale 28.15-B) e' dovuta una tassa di compensazione dell'importo di lire 1930 per 100 Kg., aumentato di una somma pari a quella che risulta applicando all'importo predetto i dazi doganali e gli altri oneri applicabili all'importazione del prodotto di cui trattasi.
+
+## Art. 2
+
+La tassa di cui al precedente articolo e' riscossa dalle Dogane in aggiunta al dazio doganale ed agli altri diritti in vigore per il solfuro di carbonio e si applica nei confronti della provenienze da Paesi estranei alla Comunita' Economica Europea, e nei confronti delle provenienze dagli altri Stati membri della Comunita' Economica Europea soltanto nel caso in cui lo Stato membro non applichi tale tassa all'esportazione.
+
+## Art. 3
+
+Le somme introitate in conseguenza, dell'applicazione della tassa di compensazione affluiranno ad un apposito capitolo che viene istituito - per memoria - nello stato di previsione della entrata per l'esercizio finanziario 1961-1962 avente la seguente denominazione:
+
+"Tasse di compensazione autorizzate ai Sensi dell'art. 226 del Trattato che istituisce la Comunita' Economica Europea".
+
+Il Ministro per il tesoro e' autorizzato ad apportare, con proprio decreto, le occorrenti variazioni di bilancio.
+
+## Art. 4
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale,
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare,
+
+Dato a Roma, addi' 6 giugno 1962
+
+SEGNI
+
+FANFANI - TRABUCCHI - LA MALFA - PICCIONI - TREMELLONI - RUMOR - COLOMBO - PRETI - MACRELLI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 26 giugno 1962
+
+Atti del Governo, registro n. 151, foglio n. 78. - VILLA

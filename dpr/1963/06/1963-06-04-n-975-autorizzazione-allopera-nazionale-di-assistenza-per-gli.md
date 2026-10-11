@@ -1,0 +1,30 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1963, n. 975 — Autorizzazione all'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, ad accettare una donazione."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-06-04;975"
+eli: "https://www.normattiva.it/eli/id/1963/07/24/063U0975/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-06-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 197 del 1963-07-24"
+codice_redazionale: "063U0975"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-06-04;975"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1963, n. 975
+
+**Autorizzazione all'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, ad accettare una donazione.**
+
+## Art. 1
+
+N. 975. Decreto del Presidente della Repubblica 4 giugno 1963, col quale, sulla proposta del Ministro per la difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, viene autorizzata ad accettare la donazione, effettuata dalla N. D. contessa Idarica Frascara in Gazzoni-Frascara, con gli atti pubblici 4 dicembre 1961, n. 20371 di rep. e 2 gennaio 1963, n. 21793 di rep., rogati dal notaio G. B.
+
+Canessa di Alessandria, donazione consistente in uno stabile situato nel comune di Sezzadio (Alessandria), composto di quattordici vani catastali, disposti su tre piani, con cortile da tre lati, il tutto censito nel nuovo catasto edilizio urbano, a pag. 69, foglio 8, mappe 678, 1022 e 1023 (accessori), oltre che nel catasto terreni, a pag. 2420, foglio 8, mappa 677 sub a. Detto stabile dovra' mantenere, compatibilmente con le disposizioni del Ministero dell'interno e del Comando generale dell'Arma dei carabinieri, l'attuale destinazione a caserma per i carabinieri.
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 18 luglio 1963
+
+Atti del Governo, registro n. 172, foglio n. 10. - VILLA

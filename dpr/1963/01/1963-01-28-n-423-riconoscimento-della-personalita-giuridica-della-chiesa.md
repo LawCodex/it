@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1963, n. 423 — Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Pio X, sita in frazione Piane del comune di Spinetoli (Ascoli Piceno)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-28;423"
+eli: "https://www.normattiva.it/eli/id/1963/04/08/063U0423/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-01-28
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 95 del 1963-04-08"
+codice_redazionale: "063U0423"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-28;423"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1963, n. 423
+
+**Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Pio X, sita in frazione Piane del comune di Spinetoli (Ascoli Piceno).**
+
+## Art. 1
+
+N. 423. Decreto del Presidente della Repubblica 28 gennaio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Pio X, sita in frazione Piane del comune di Spinetoli (Ascoli Piceno).
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 8 marzo 1963
+
+Atti del Governo, registro n. 165, foglio n. 104. - VILLA

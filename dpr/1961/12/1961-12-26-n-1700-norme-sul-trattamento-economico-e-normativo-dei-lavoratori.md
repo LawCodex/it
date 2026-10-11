@@ -1,0 +1,82 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961, n. 1700 — Norme sul trattamento economico e normativo dei lavoratori addetti alla trebbiatura dei cereali estivi ed alle operazioni affini nella provincia di Pavia."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1700"
+eli: "https://www.normattiva.it/eli/id/1962/05/09/061U1700/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-12-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 118 del 1962-05-09"
+codice_redazionale: "061U1700"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1700"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1961, n. 1700
+
+**Norme sul trattamento economico e normativo dei lavoratori addetti alla trebbiatura dei cereali estivi ed alle operazioni affini nella provincia di Pavia.**
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visti, per la provincia di Pavia:
+
+gli accordi collettivi 11 luglio 1956 e 4 luglio 1957, per gli addetti alla trebbiatura dei cereali estivi ed alle operazioni affini, stipulati tra l'Associazione Provinciale Trebbiatori e Motoaratori e la Confederazione italiana Sindacati Lavoratori, la Federterra, l'Unione italiana Lavoratori della Terra; e in data 4 luglio 1957, tra l'Associazione Provinciale Trebbiatori e Motoaratori e la C.I.S.N.A.L. - Terra Provinciale;
+
+l'accordo collettivo 23 giugno 1958, per gli addetti alla trebbiatura dei cereali estivi ed alle operazioni affini, stipulato tra l'Associazione Provinciale Trebbiatori e la Federbraccianti Provinciale, la Liberterra Provinciale; e, in pari data, tra l'Associazione Provinciale Trebbiatori e la C.I.S.N.A.L. - Terra Provinciale;
+
+l'accordo collettivo 25 luglio 1959, per gli addetti alla trebbiatura dei cereali estivi ed alle operazioni affini, stipulato tra le medesime parti di cui al predetto accordo 23 giugno 1958;
+
+Vista la pubblicazione nell'apposito Bollettino, n. 7 della provincia di Pavia, in data 15 settembre 1960, degli accordi collettivi sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale;
+
+Decreta:
+
+## Articolo unico
+
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, per la provincia di Pavia, gli accordi collettivi 11 luglio 1956, 4 luglio 1957, 23 giugno 1958, e 25 luglio 1959, relativi ai lavoratori addetti alla trebbiatura dei cereali estivi ed alle operazioni affini, sono regolati da norme giuridiche uniformi alle clausole degli accordi anzidetti annessi al presente decreto.
+
+I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori addetti alla trebbiatura dei cereali estivi ed alle operazioni affini della provincia di Pavia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 dicembre 1961
+
+GRONCHI
+
+FANFANI - SULLO
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte conti, addi' 17 aprile 1962
+
+Atti del Governo, registro n. 145, foglio n. 59. - VILLA
+
+## Allegati
+
+## Allegato
+
+ACCORDO COLLETTIVO 11 LUGLIO 1956, PER GLI ADDETTI ALLA TREBBIATURA DEI CEREALI ESTIVI ED ALLE OPERAZIONI AFFINI DELLA PROVINCIA DI PAVIA.
+
+Parte di provvedimento in formato grafico
+
+ACCORDO COLLETTIVO 4 LUGLIO 1957, PER GLI ADDETTI ALLA TREBBIATURA DEI CEREALI ESTIVI ED ALLE OPERAZIONI AFFINI DELLA PROVINCIA DI PAVIA.
+
+Parte di provvedimento in formato grafico
+
+ACCORDO COLLETTIVO 23 GIUGNO 1958, PER GLI ADDETTI ALLA TREBBIATURA DEI CEREALI ESTIVI ED ALLE OPERAZIONI AFFINI DELLA PROVINCIA DI PAVIA.
+
+Parte di provvedimento in formato grafico
+
+ACCORDO COLLETTIVO 25 LUGLIO 1959, PER GLI ADDETTI ALLA TREBBIATURA DEI CEREALI ESTIVI ED ALLE OPERAZIONI AFFINI DELLA PROVINCIA DI PAVIA.
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1961, n. 931 — Riconoscimento, agli effetti civili, del trasferimento della parrocchia (sede e titolo) della B. V. M. Ausiliatrice, in frazione Nicola di Piano di Ortonovo (La Spezia)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-02;931"
+eli: "https://www.normattiva.it/eli/id/1961/09/19/061U0931/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1961-08-02
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 234 del 1961-09-19"
+codice_redazionale: "061U0931"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-02;931"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1961, n. 931
+
+**Riconoscimento, agli effetti civili, del trasferimento della parrocchia (sede e titolo) della B. V. M. Ausiliatrice, in frazione Nicola di Piano di Ortonovo (La Spezia).**
+
+## Art. 1
+
+N. 931. Decreto del Presidente della Repubblica 2 agosto 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Luni, ossia La Spezia, Sarzana e Brugnato, in data 30 giugno 1960, integrato con due dichiarazioni del 19 aprile 1961, col quale, la sede della parrocchia della B.V.M. Ausiliatrice, in frazione Nicola di Piano di Ortonovo (La Spezia), viene trasferita nella nuova Chiesa del Preziosissimo Sangue di N.S.G.C. sempre in frazione Nicola di Piano, cambiando il relativo titolo e rimanendo immutate la dote e la circoscrizione territoriale, e viene riconosciuta la personalita' giuridica della Chiesa del Preziosissimo Sangue di N.S.G.C., sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 12 settembre 1961
+
+Atti del Governo, registro n. 140, foglio n. 31. - VILLA

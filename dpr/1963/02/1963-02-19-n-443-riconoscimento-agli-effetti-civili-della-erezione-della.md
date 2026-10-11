@@ -1,0 +1,28 @@
+---
+title: "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1963, n. 443 — Riconoscimento, agli effetti civili, della erezione della Parrocchia di Nostra Signora di Fatima, in frazione La Caletta del comune di Siniscola (Nuoro)."
+identifier: "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-19;443"
+eli: "https://www.normattiva.it/eli/id/1963/04/11/063U0443/ORIGINAL"
+type: presidential_decree
+jurisdiction: it
+language: it
+date: 1963-02-19
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 98 del 1963-04-11"
+codice_redazionale: "063U0443"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-19;443"
+retrieved: 2026-10-12
+---
+
+# DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1963, n. 443
+
+**Riconoscimento, agli effetti civili, della erezione della Parrocchia di Nostra Signora di Fatima, in frazione La Caletta del comune di Siniscola (Nuoro).**
+
+## Art. 1
+
+N. 443. Decreto del Presidente della Repubblica 19 febbraio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Nuoro in data 2 febbraio 1962, integrate con tre dichiarazioni di cui la prima in data 28 febbraio e la seconda e la terza in data 22 giugno 1962, relativo alla erezione della Parrocchia di Nostra Signora di Fatima, in frazione La Caletta, del comune di Siniscola (Nuoro)
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato alla Corte dei conti, addi' 30 marzo 1963
+
+Atti del Governo, registro n. 167, foglio n. 45. - VILLA
