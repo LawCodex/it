@@ -1,0 +1,399 @@
+---
+title: "LEGGE 06 dicembre 1971, n. 1034 — Istituzione dei tribunali amministrativi regionali."
+identifier: "urn:nir:stato:legge:1971-12-06;1034"
+eli: "https://www.normattiva.it/eli/id/1971/12/13/071U1034/CONSOLIDATED/20260826"
+type: act
+jurisdiction: it
+language: it
+date: 1971-12-06
+last_amended: 2026-08-26
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 314 del 1971-12-13"
+codice_redazionale: "071U1034"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034"
+retrieved: 2026-10-11
+---
+
+# LEGGE 06 dicembre 1971, n. 1034
+
+**Istituzione dei tribunali amministrativi regionali.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## TITOLO I - ISTITUZIONE E COMPETENZE DEI TRIBUNALI AMMINISTRATIVI REGIONALI
+
+#### Art. 1
+
+Sono istituiti tribunali amministrativi regionali, quali organi di giustizia amministrativa di primo grado.
+
+Le loro circoscrizioni sono regionali e comprendono le province facenti parte delle singole regioni. Essi hanno sede nei capoluoghi di regione.
+
+Nelle regioni Lombardia, Campania, Puglia, Calabria, Sicilia sono istituite sezioni staccate, le cui sedi e le cui circoscrizioni saranno stabilite nelle norme di attuazione della presente legge previste nell'articolo 52. (19)
+
+Una sezione staccata con ordinamento speciale e' pure istituita nella regione Trentino-Alto Adige. Essa ha sede a Bolzano e alla sua disciplina si provvede con altra legge.
+
+Il tribunale amministrativo regionale del Lazio ha ((cinque)) sezioni con sede a Roma. (19)
+
+-------------
+
+AGGIORNAMENTO (19)
+
+Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 18, comma 2, alinea) che le presenti modifiche decorrono dal 1° luglio 2015.
+
+#### Art. 2
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 3
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 4
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 5
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 6
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 7
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 8
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+## TITOLO II - COMPOSIZIONE DEI TRIBUNALI AMMINISTRATIVI
+
+### REGIONALI
+
+#### Art. 9
+
+Con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, sentito il Consiglio di Presidenza dei tribunali amministrativi regionali, e' nominato per ciascun tribunale amministrativo regionale, all'inizio di ogni anno, il presidente, da scegliere tra i presidenti di sezione del Consiglio di Stato o tra i consiglieri di Stato.
+
+Con lo stesso decreto e con le medesime modalita' sono nominati presso ciascun tribunale amministrativo regionale non meno di cinque magistrati amministrativi regionali appartenenti al ruolo previsto dall'articolo 12.
+
+Per i tribunali amministrativi regionali formati di piu' sezioni, nonche' per le sezioni istituite nel tribunale amministrativo regionale del Lazio deve essere sempre nominato un presidente di sezione del Consiglio di Stato.
+
+#### Art. 10
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 11
+
+I presidenti di sezione del Consiglio di Stato sono destinati alla presidenza dei tribunali amministrativi regionali con il loro consenso, ovvero all'atto del conseguimento della nomina.
+
+I presidenti di sezione del Consiglio di Stato destinati a presiedere i tribunali amministrativi regionali cessano, a domanda, da tale destinazione, secondo l'ordine di anzianita', e riassumono le loro funzioni in seno al Consiglio di Stato, quando presso il Consiglio stesso si verificano vacanze nei posti di presidente di sezione. Per la relativa sostituzione si procede nei modi previsti dal comma precedente.
+
+I consiglieri di Stato possono essere destinati, alla presidenza dei tribunali amministrativi regionali solo se abbiano almeno due anni di anzianita' e col loro consenso. Per le sedi che rimangono scoperte la destinazione potra' avvenire d'ufficio, seguendo il criterio della minore anzianita' di qualifica, tra i consiglieri che abbiano almeno due anni di anzianita'.
+
+I consiglieri di Stato, a domanda, possono riassumere le loro funzioni presso il Consiglio di Stato non prima di tre anni dalla loro destinazione. Possono continuare nella destinazione alla presidenza di un tribunale amministrativo regionale anche se siano nominati presidenti di sezione del Consiglio di Stato.
+
+#### Art. 12
+
+Per l'assolvimento delle funzioni previste dalla presente legge:
+
+a) i posti di presidente di sezione di cui alla tabella A allegata alla legge 21 dicembre 1950, n. 1018, sono aumentati di dieci unita';
+
+b) i posti di consigliere di Stato della tabella medesima sono parimenti aumentati di quattordici unita';
+
+c) e' istituito il ruolo dei magistrati amministrativi regionali, secondo la tabella allegata alla presente legge.
+
+#### Art. 13
+
+I magistrati amministrativi regionali si distinguono in consiglieri, primi referendari e referendari.
+
+Per quanto non diversamente disposto dalla presente legge, ad essi sono estese le norme sullo stato giuridico e sul trattamento economico del personale di corrispondente qualifica della magistratura del Consiglio di Stato, nelle qualifiche corrispondenti di consigliere, primo referendario e referendario.
+
+Per i magistrati amministrativi regionali il trasferimento ad altra sede puo' essere disposto, nelle forme indicate dall'articolo 9 e su parere del Consiglio di Presidenza dei tribunali amministrativi regionali per una delle seguenti ragioni:
+
+a) su domanda;
+
+b) in seguito ad avanzamento;
+
+c) in seguito all'insorgere di una situazione di incompatibilita' prevista dalla legge;
+
+d) per variazione nel numero dei magistrati da assegnare ai vari tribunali.
+
+I magistrati amministrativi regionali non possono essere in alcun caso chiamati ad esercitare funzioni o ad espletare compiti diversi da quelli istituzionali.
+
+Ad essi si estendono le altre cause di incompatibilita' e le cause di ineleggibilita' previste per i magistrati ordinari.
+
+#### Art. 14
+
+Le nomine a referendario sono conferite a seguito di concorso per titoli ed esami, al quale possono partecipare, purche' non abbiano superato il quarantacinquesimo anno di eta':
+
+1\) i magistrati dell'ordine giudiziario, che abbiano conseguito la nomina ad aggiunto giudiziario, ed i magistrati amministrativi ((, tributari in possesso di laurea magistrale in giurisprudenza (classe LMG/01), laurea specialistica in giurisprudenza (22/S) oppure della laurea in giurisprudenza conseguita secondo l'ordinamento anteriore al Decreto ministeriale 3 novembre 1999, n. 509 e che abbiano superato il tirocinio formativo)) e della giustizia militare di qualifica equiparata;
+
+2\) gli avvocati dello Stato e i procuratori dello Stato con qualifica non inferiore a sostituti procuratori dello Stato;
+
+3\) i dipendenti dello Stato muniti della laurea in giurisprudenza, con qualifica non inferiore a direttore di sezione e equiparata, con almeno cinque anni di effettivo servizio di ruolo nella carriera direttiva;
+
+4\) gli assistenti universitari di ruolo, alle cattedre di materie giuridiche, con almeno 5 anni di servizio;
+
+5\) i dipendenti delle regioni, degli enti pubblici a carattere nazionale e degli enti locali, muniti della laurea in giurisprudenza, che siano stati assunti attraverso concorsi pubblici ed abbiano almeno cinque anni di servizio effettivo di ruolo nella carriera direttiva;
+
+6\) gli avvocati iscritti all'albo da quattro anni; (7)
+
+7\) i consiglieri regionali, provinciali e comunali, muniti della laurea in giurisprudenza, che abbiano esercitato tali funzioni per almeno cinque anni;
+
+8\) gli ex componenti elettivi delle giunte provinciali amministrative, muniti di laurea in giurisprudenza, che abbiano esercitato le funzioni per almeno cinque anni.
+
+La commissione esaminatrice e' nominata con decreto del Presidente del Consiglio dei Ministri ed e' composta da due consiglieri di Stato e da tre docenti universitari.
+
+---------------
+
+AGGIORNAMENTO (7)
+
+La L. 24 febbraio 1997, n.27 ha disposto (con l'art. 5, comma 2) che "Il termine di cui all'articolo 14, primo comma, numero 6, della legge 6 dicembre 1971, n. 1034, e' aumentato a otto anni".
+
+#### Art. 15
+
+Le nomine a primo referendario sono conferite ai referendari con almeno sei anni di effettivo servizio, per due terzi mediante scrutinio per merito comparativo e per un terzo secondo il turno di anzianita', previo giudizio di idoneita'.
+
+Le nomine vengono disposte con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri.
+
+Allo scrutinio per merito comparativo e al giudizio di idoneita' provvede il Consiglio di Presidenza dei tribunali amministrativi regionali.
+
+#### Art. 16
+
+I consiglieri amministrativi regionali sono nominati con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri e su parere del Consiglio di Presidenza dei tribunali amministrativi regionali.
+
+I posti che si rendono vacanti nel ruolo dei consiglieri amministrativi regionali sono conferiti ai primi referendari regionali, che abbiano prestato almeno sei anni di effettivo servizio nella qualifica.
+
+#### Art. 17
+
+A decorrere dal 1 gennaio del quarto anno successivo alla data di entrata in vigore della presente legge, un quarto dei posti che si rendano vacanti nel ruolo dei consiglieri di Stato e' riservato ai consiglieri amministrativi regionali con almeno quattro anni di effettivo servizio nella qualifica.
+
+Il trasferimento di ruolo e' disposto con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, su parere del Consiglio di Presidenza dei tribunali amministrativi regionali.
+
+Il magistrato trasferito conserva l'anzianita' di carriera e di qualifica acquisita nel ruolo dei magistrati amministrativi regionali, ed e' collocato nel nuovo ruolo nel posto che gli spetta, secondo l'anzianita' nell'ultima qualifica gia' ricoperta.
+
+#### Art. 18
+
+Presso ogni tribunale amministrativo regionale e' costituito un ufficio di segreteria, diretto da un segretario generale. I segretari generali sono nominati con decreto del Presidente del Consiglio dei Ministri, su designazione del Presidente del Consiglio di Stato:
+
+a) tra i funzionari della carriera direttiva del personale di segreteria del Consiglio di Stato, con qualifica non inferiore a direttore di segreteria;
+
+b) tra i funzionari della carriera direttiva dell'amministrazione civile dell'interno, con qualifica non inferiore a direttore di sezione.
+
+Agli uffici di segreteria sono addetti impiegati della carriera direttiva, di concetto, esecutiva ed ausiliaria dell'amministrazione civile dell'interno, nonche' delle amministrazioni regionali, provinciali e comunali delle rispettive circoscrizioni, il cui numero e le cui qualifiche saranno stabilite, entro due mesi dall'entrata in vigore della presente legge, con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno e per il tesoro. Nei limiti dell'organico determinato nelle forme sopra indicate, agli uffici di segreteria puo' essere assegnato, col suo consenso, anche personale di ruolo di segreteria del Consiglio di Stato.
+
+I segretari generali e gli impiegati addetti agli uffici di segreteria sono collocati fuori del ruolo organico, cui appartengono, per tutta la durata dell'ufficio, senza che siano lasciati scoperti nella qualifica iniziale dei ruoli organici i posti di cui all'articolo 58, comma secondo, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
+Gli impiegati delle amministrazioni regionali, provinciali e comunali sono destinati al tribunale amministrativo regionale in posizione di comando, con decreto del Presidente del Consiglio dei Ministri, d'intesa con le amministrazioni interessate.
+
+Entro cinque anni dall'entrata in vigore della presente legge sara' istituito con legge un ruolo organico del personale di segreteria dei tribunali amministrativi regionali.
+
+## TITOLO III - NORME DI PROCEDURA
+
+#### Art. 19
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 20
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 21
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 21-bis
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 22
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 23
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 23-bis
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 24
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 25
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 26
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 27
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 28
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 29
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 30
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 31
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 32
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 33
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 34
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 35
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 36
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 37
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+## TITOLO IV - DISPOSIZIONI GENERALI E TRANSITORIE
+
+#### Art. 38
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 39
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 40
+
+((COMMA ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104)).
+
+L'appello contro le sentenze di tale tribunale e' portato al Consiglio di giustizia amministrativa per la regione siciliana. Nulla e' innovato nelle disposizioni che attualmente disciplinano detto Consiglio. (1)
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte costituzionale con sentenza del 5 - 12 marzo 1975, N. 61 (in G.U. 1a s.s. 20/03/1975, n. 77) ha dichiarato "l'llegittimita' costituzionale dell'art. 40 della legge 6 dicembre 1971, n. 1034 (Istituzione dei tribunali amministrativi regionali), nella parte in cui limita la competenza del tribunale amministrativo regionale istituito nella Regione siciliana alle materie indicate nell'art. 2, lett. a, e nell'art. 6 della legge medesima".
+
+#### Art. 41
+
+Il tribunale amministrativo regionale con sede in Aosta e' competente nelle materie indicate nella presente legge, nonche' in quelle attribuite alla competenza della giunta giurisdizionale amministrativa della Valle d'Aosta ai sensi dell'articolo 2, numeri 1) e 2), del decreto legislativo del Capo provvisorio dello Stato 15 novembre 1946, n. 367, e successive modificazioni.
+
+#### Art. 42
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 43
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 44
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 45
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 46
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 47
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 48
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 49
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 50
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 51
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 52
+
+((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
+
+#### Art. 53
+
+Le spese per il funzionamento dei tribunali amministrativi regionali, comprese quelle relative al personale di segreteria appartenente ai ruoli delle amministrazioni regionali, provinciali e comunali, nonche' quelle per i locali, il loro arredamento e la loro manutenzione sono a carico dello Stato e sono sostenute dai commissari del Governo della regione o dalle autorita' governative corrispondenti nelle regioni Sicilia, Sardegna e Valle d'Aosta.
+
+Ai presidenti di sezione e ai consiglieri di Stato destinati a presiedere tribunali amministrativi regionali diversi da quello di Roma, nonche' ai segretari generali dei tribunali medesimi, spetta, per i primi sei mesi, l'indennita' di missione intera.
+
+Le spese di funzionamento dei tribunali amministrativi regionali gravano su un apposito capitolo dello stato di previsione della spesa del Ministero del tesoro.
+
+#### Art. 54
+
+All'onere derivante dall'applicazione della presente legge, valutato in lire 1.600 milioni per l'anno finanziario 1972, si provvede mediante riduzione degli stanziamenti iscritti al capitolo 3523 dello stato di previsione della spesa del Ministero del tesoro.
+
+Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 6 dicembre 1971
+
+SARAGAT
+
+COLOMBO - RESTIVO - FERRARI-AGGRADI
+
+Visto, il Guardasigilli: COLOMBO
+
+## TITOLO IV - DISPOSIZIONI GENERALI E TRANSITORIE
+
+#### Tabella
+
+TABELLA
+
+Parte di provvedimento in formato grafico
+
+((3))
+
+---------------
+
+AGGIORNAMENTO (3)
+
+Il D.P.R. 6 aprile 1984, n.426, nel modificare (con l'art. 1, comma 6) la L. 27 aprile 1982, n.186, ha disposto conseguentemente che "Per l'assolvimento delle funzioni del tribunale regionale di giustizia amministrativa di Trento i posti della tabella A, alla presente legge, sono aumentati di tre unita' nella qualifica di consigliere di tribunale amministrativo regionale".
+
+Ha inoltre disposto (con art. 4, comma 3) che "I magistrati della sezione autonoma di Bolzano sono collocati in un ruolo speciale di magistrati di carriera di sei unita' che viene aggiunto alla tabella A, alla presente legge, recante la seguente dizione: "Ruolo speciale dei consiglieri della sezione autonoma di Bolzano".
+
+Ha, in fine, disposto (con art. 14, comma 6) che "Ai fini della nomina dei consiglieri di Stato di cui al presente articolo la dotazione organica del ruolo dei consiglieri di Stato, di cui alla tabella A allegata alla legge 27 aprile 1982, n. 186, e' aumentata di due unita'.

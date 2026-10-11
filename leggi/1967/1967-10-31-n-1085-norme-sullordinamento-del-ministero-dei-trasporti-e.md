@@ -1,0 +1,83 @@
+---
+title: "LEGGE 31 ottobre 1967, n. 1085 — Norme sull'ordinamento del Ministero dei trasporti e dell'aviazione civile."
+identifier: "urn:nir:stato:legge:1967-10-31;1085"
+eli: "https://www.normattiva.it/eli/id/1967/11/29/067U1085/CONSOLIDATED/20091214"
+type: act
+jurisdiction: it
+language: it
+date: 1967-10-31
+last_amended: 2009-12-14
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 298 del 1967-11-29"
+codice_redazionale: "067U1085"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-31;1085"
+retrieved: 2026-10-11
+---
+
+# LEGGE 31 ottobre 1967, n. 1085
+
+**Norme sull'ordinamento del Ministero dei trasporti e dell'aviazione civile.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+Presso il Ministero dei trasporti e dell'aviazione civile e' istituita una Direzione generale per il coordinamento tra i settori delle ferrovie dello Stato, della motorizzazione civile e dei trasporti in concessione e dell'aviazione civile. Tale Direzione e' denominata: "Direzione generale del coordinamento e degli affari generali".
+
+L'Ispettorato generale della motorizzazione civile e dei trasporti in concessione e l'Ispettorato generale dell'aviazione civile assumono la denominazione, rispettivamente, di Direzione generale della motorizzazione civile e dei trasporti in concessione e di Direzione generale dell'aviazione civile.
+
+Gli Ispettorati compartimentali della motorizzazione civile e dei trasporti in concessione assumono la denominazione di Direzioni compartimentali della motorizzazione civile e dei trasporti in concessione.
+
+Le due sezioni distaccate di Perugia e di Potenza di detto Ispettorato generale, previste dall'articolo 8 del decreto legislativo 7 maggio 1948, n. 557, assumono la denominazione, rispettivamente, di Direzioni compartimentali della motorizzazione civile e dei trasporti in concessione per l'Umbria e la Basilicata.
+
+Alle dipendenze e nell'ambito delle Direzioni compartimentali operano gli uffici provinciali gia' istituiti in via temporanea, ai sensi del citato articolo 8.
+
+In seno alla Direzione generale dell'aviazione civile e' istituito il Servizio della navigazione aerea al quale e' preposto un direttore centrale.
+
+Il numero dei direttori centrali di cui alla tabella I annessa al decreto del Presidente della Repubblica 5 giugno 1964, n. 567, e' elevato da 3 a 4.((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18 comma 1) che si intendono abrogati gli articoli 1 e 2 della legge 31 ottobre 1967, n. 1085 con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14 del suindicato D.P.R..
+
+## Art. 2
+
+Fino a quando non saranno riorganizzati i ruoli organici del Ministero dei trasporti e dell'aviazione civile e' utilizzato, per l'espletamento dei compiti della Direzione generale del coordinamento e degli affari generali, personale delle altre due Direzioni generali, nonche' dell'Azienda autonoma delle ferrovie dello Stato.
+
+Tutto il personale conserva lo stato giuridico e il trattamento economico delle amministrazioni di provenienza.
+
+In corrispondenza alla istituzione di un posto di direttore generale per la Direzione generale di cui al primo comma del precedente articolo e all'aumento di un posto di direttore centrale dei ruoli della Direzione generale dell'aviazione civile, la pianta organica della qualifica di direttore centrale di prima classe della Azienda autonoma delle ferrovie dello Stato e' ridotta di due unita'.
+
+Il direttore generale del coordinamento e degli affari generali fa
+
+parte dei Consigli di amministrazione dell'Azienda autonoma delle ferrovie dello Stato, della Direzione generale della motorizzazione civile e dei trasporti in concessione e della Direzione generale dell'aviazione civile.((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18 comma 1) che si intendono abrogati gli articoli 1 e 2 della legge 31 ottobre 1967, n. 1085 con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14 del suindicato D.P.R..
+
+## Art. 3
+
+Il Ministero dei trasporti e dell'aviazione civile curera' l'elaborazione di un conto nazionale dei trasporti nel quale siano considerate le spese che lo Stato, altri enti pubblici ed i privati sostengono per l'esercizio e per gli investimenti nei settori di competenza del Ministero dei trasporti e dell'aviazione civile, sia globalmente sia per i singoli mezzi, ai fini della determinazione delle direttive di politica dei trasporti e secondo le indicazioni del piano economico nazionale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 31 ottobre 1967
+
+SARAGAT
+
+MORO - SCALFARO - COLOMBO
+
+Visto, il Guardasigilli:
+
+REALE

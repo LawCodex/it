@@ -1,0 +1,60 @@
+---
+title: "LEGGE 21 luglio 1978, n. 415 — Sostituzione dell'articolo 109 della legge 17 luglio 1942, n. 907, sul monopolio dei sali e tabacchi."
+identifier: "urn:nir:stato:legge:1978-07-21;415"
+eli: "https://www.normattiva.it/eli/id/1978/08/07/078U0415/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1978-07-21
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 219 del 1978-08-07"
+codice_redazionale: "078U0415"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-21;415"
+retrieved: 2026-10-11
+---
+
+# LEGGE 21 luglio 1978, n. 415
+
+**Sostituzione dell'articolo 109 della legge 17 luglio 1942, n. 907, sul monopolio dei sali e tabacchi.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+L'articolo 109 della legge 17 luglio 1942, n. 907, quale modificato dalla legge 31 ottobre 1966, n. 953, e' sostituito dal seguente:
+
+"Trasporto, restituzione o vendita delle cose sequestrate. - A cura degli ufficiali o degli agenti della polizia tributaria, i generi, gli attrezzi, gli utensili o i meccanismi, i mezzi di trasporto ed in generale le cose che sono il prodotto del reato o che con questo hanno in qualsiasi modo relazione sono portati per la custodia al piu' vicino deposito generi di monopolio o alla piu' vicina dogana.
+
+Quando in prossimita' del luogo dove e' stato accertato il reato non vi e' un deposito o un ufficio di dogana, gli oggetti sopra indicati sono portati al piu' vicino magazzino di vendita di generi di monopolio.
+
+Se vi e' pericolo di deperimento o la custodia e' difficile o dispendiosa, il deposito o la dogana puo' procedere, previa autorizzazione del giudice competente a conoscere del reato, alla vendita in via amministrativa, per incanto, delle cose sequestrate, eccettuati i surrogati del tabacco e gli utensili e i meccanismi preordinati alla lavorazione del tabacco.
+
+In ogni caso i generi di monopolio debbono essere inviati, a cura del deposito ovvero della dogana, alla piu' vicina manifattura dei tabacchi. Essi si considerano soggetti a deperimento e sono devoluti all'Amministrazione dei monopoli, previo accreditamento del prezzo a favore degli aventi diritto secondo le norme da stabilire nel regolamento.
+
+E' data facolta' all'Amministrazione dei monopoli di alienare a trattativa privata, per il consumo fuori della linea doganale, i generi alla stessa devoluti ai sensi del precedente comma.
+
+Anche i mezzi di trasporto saranno venduti dai predetti organi mediante pubblica gara e con accreditamento del prezzo a favore degli aventi diritto previo nulla osta del giudice competente. Il nulla osta potra' essere negato soltanto se il mantenimento del sequestro sia strettamente necessario ai fini dell'accertamento del reato.
+
+Tra gli aventi diritto di cui al precedente comma sono compresi l'Amministrazione dei monopoli, ove venga pronunciata confisca, fino al reintegro degli oneri sostenuti per il trasporto e la custodia, e successivamente i creditori privilegiati estranei al reato, qualora si tratti di autoveicolo gravato da privilegi iscritti anteriormente al sequestro, fino all'ammontare del credito accertato dal giudice competente. Detti privilegi si estinguono per effetto del trasferimento e la loro cancellazione e' ordinata giudizialmente.
+
+Per la restituzione delle cose sequestrate si applicano le norme del codice di procedura penale.
+
+I mezzi di trasporto con caratteristiche particolarmente adatte al contrabbando debbono essere ridotti in modo da non piu' prestarsi alla frode.
+
+In ogni caso l'Amministrazione dei monopoli non e' responsabile delle avarie e dei deperimenti naturali delle cose custodite a norma delle disposizioni precedenti, ne' dei casi di forza maggiore".
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 21 luglio 1978
+
+PERTINI
+
+ANDREOTTI - MALFATTI - BONIFACIO
+
+Visto, il Guardasigilli: BONIFACIO

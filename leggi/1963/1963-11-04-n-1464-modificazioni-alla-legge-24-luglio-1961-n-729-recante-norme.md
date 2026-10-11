@@ -1,0 +1,72 @@
+---
+title: "LEGGE 04 novembre 1963, n. 1464 — Modificazioni alla legge 24 luglio 1961, n. 729, recante norme per il piano di nuove costruzioni stradali ed autostradali."
+identifier: "urn:nir:stato:legge:1963-11-04;1464"
+eli: "https://www.normattiva.it/eli/id/1963/11/11/063U1464/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1963-11-04
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 293 del 1963-11-11"
+codice_redazionale: "063U1464"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-11-04;1464"
+retrieved: 2026-10-11
+---
+
+# LEGGE 04 novembre 1963, n. 1464
+
+**Modificazioni alla legge 24 luglio 1961, n. 729, recante norme per il piano di nuove costruzioni stradali ed autostradali.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Art. 1
+
+L'articolo 3 della legge 24 luglio 1961, n. 729, e' sostituito dal seguente:
+
+"Gli Enti che abbiano ottenuto la concessione di costruzione ed esercizio di autostrade ai sensi della presente legge possono contrarre mutui della durata massima di trenta anni con il Consorzio di credito per le opere pubbliche, con l'Istituto di credito per le imprese di pubblica utilita', con l'Istituto mobiliare italiano, con le Casse di risparmio, con i Monti di credito su pegno di prima categoria, ed i loro Istituti finanziari, con le sezioni opere pubbliche degli Istituti di credito fondiario e degli Istituti di credito di diritto pubblico, con gli Enti e gli Istituti di assicurazione e di previdenza, i quali sono tutti autorizzati a concedere detti mutui anche in deroga alle loro disposizioni statutarie ed alle norme che regolano le loro operazioni ordinarie.
+
+Gli enti concessionari suddetti potranno altresi', previa, autorizzazione con decreto del Ministro per il tesoro, sentito il Comitato interministeriale per il credito e il risparmio, contrarre mutui con la Banca europea per gli investimenti, anche per il tramite degli Enti di cui al precedente comma. Nei limiti di cui al successivo comma settimo, i conseguenti impegni assunti dagli enti concessionari potranno essere garantiti dallo Stato per quanto riguarda il rimborso del capitale e il pagamento degli interessi.
+
+Alle anzidette operazioni di finanziamento si applicano le disposizioni previste dal primo comma del successivo articolo 8 anche per quanto concerne gli interessi derivanti dai finanziamenti stessi.
+
+I concessionari, anche in deroga all'articolo 2410 del Codice civile, sono autorizzati ad emettere obbligazioni da ammortizzare in un periodo non superiore alla durata della concessione. L'emissione e subordinata alla approvazione del Comitato interministeriale per il credito ed il risparmio che puo' autorizzare la quotazione presso le borse italiane delle obbligazioni stesse. Gli Istituti di credito e le Banche di cui alle lettere a), b), d) ed e) dell'articolo 5 del regio decreto-legge 12 marzo 19963, n. 375, e successive modificazioni, sono autorizzati, anche in deroga alle disposizioni sanitarie, ad assumere le obbligazioni stesse.
+
+Qualora l'ente concessionario sia un Consorzio o una Societa' per azioni a prevalente capitale pubblico di cui facciano parte Regioni, Province e Comuni, le Regioni, le Province e i Comuni stessi potranno garantire il pagamento del capitale e relativi interessi sui mutui contratti e delle obbligazioni emesse dal Consorzio o dalla Societa'.
+
+Gli impegni assunti dagli Enti locali predetti per effetto della garanzia prestata per finanziamenti od emissioni obbligazionarie potranno godere della garanzia sussidiaria dello Stato fino ad un importo non superiore ai 50 per cento del costo complessivo delle opere risultante dal piano finanziario di cui al precedente articolo 2.
+
+A richiesta del creditore o del rappresentante comune degli obbligazionisti la suddetta garanzia dello Stato diverra' automaticamente operante dopo 60 giorni dalle singole scadenze rateali risultanti dai contratti di mutuo o dai titoli obbligazionari, qualora il concessionario debitore e gli Enti locali garanti non abbiano soddisfatto (anche se in misura parziale) gli impegni assunti. Per effetto dei pagamenti effettuati al creditore o agli obbligazionisti, il Ministero del tesoro si surroghera' nei diritti che questi avevano contro il debitore e gli Enti fideiussori.
+
+I titoli dei prestiti obbligazionari come sopra garantiti sono equiparati ai titoli di Stato per gli effetti di cui all'articolo 18, n. 5, del regio decreto 5 febbraio 1931, n. 225.
+
+L'importo totale delle garanzie statali concedibili ai Censi del presente articolo non potra', in ogni caso, superare il 50 per cento del costo complessivo di cui al presente comma quarto.
+
+Il Ministro per il tesoro di concerto con il Ministro per i lavori pubblici, sentito il Consiglio di amministrazione dell'A.N.A.S., e' autorizzato ad emanare i provvedimenti relativi ai rilascio delle garanzie dello State previste dal presente articolo.
+
+Gli eventuali oneri derivanti dalla, garanzia predetta graveranno sull'apposito capitolo che all'uopo verra' trascritto stato di previsione della spesa del Ministero del tesoro per l'esercizio 1964-65".
+
+## Art. 2
+
+Sono applicabili agli Enti, che abbiano ottenuto la concessione di costruzione ed esercizio di autostrade ai sensi della legge 24 luglio 1961, n. 729, le disposizioni di cui alla legge 27 gennaio 1963, n. 34.
+
+## Art. 3
+
+L'articolo 28 della legge 24 luglio 1961, n. 729, e' sostituito dal seguente:
+
+"Costituisce parte integrante della presente legge il grafico del piano poliennale di grande massima della rete delle autostrade allegato alla legge 21 maggio 1955, n. 463, integrato dalla legge 13 agosto 1959, n. 904, e dagli ulteriori tronchi, in esso non previsti ma indicati dal precedente articolo 16 o da approvarsi successivamente con decreto del Ministro per i lavori pubblici, presidente dell'A.N.A.S., in forza del precedente articolo 2".
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 4 novembre 1963
+
+SEGNI
+
+LEONE - SULLO - COLOMBO - RUMOR - BOSCO
+
+Visto, il Guardasigilli: BOSCO

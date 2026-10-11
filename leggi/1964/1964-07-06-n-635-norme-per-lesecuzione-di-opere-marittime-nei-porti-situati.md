@@ -1,0 +1,42 @@
+---
+title: "LEGGE 06 luglio 1964, n. 635 — Norme per l'esecuzione di opere marittime nei porti situati oltre il confine orientale esistente prima della guerra 1915-18."
+identifier: "urn:nir:stato:legge:1964-07-06;635"
+eli: "https://www.normattiva.it/eli/id/1964/08/04/064U0635/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1964-07-06
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 190 del 1964-08-04"
+codice_redazionale: "064U0635"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-07-06;635"
+retrieved: 2026-10-11
+---
+
+# LEGGE 06 luglio 1964, n. 635
+
+**Norme per l'esecuzione di opere marittime nei porti situati oltre il confine orientale esistente prima della guerra 1915-18.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+In deroga a quanto disposto dal capo III del regio decreto 2 aprile 1885, n. 3095, la spesa di lire 250 milioni relativa ad opere marittime indispensabili ed urgenti eseguite nei porti di Monfalcone e Grado situati oltre il confine orientale esistente prima della guerra 1915-18, e' assunta a totale carico dello Stato.
+
+Detta spesa gravera' sul capitolo 140 dello stato di previsione del Ministero dei lavori pubblici per il periodo 1 luglio-31 dicembre 1964.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 6 luglio 1964
+
+SEGNI
+
+MORO - PIERACCINI - TAVIANI - COLOMBO - SPAGNOLLI
+
+Visto, il Guardasigilli: REALE

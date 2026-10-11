@@ -1,0 +1,56 @@
+---
+title: "LEGGE 23 dicembre 1978, n. 841 — Conversione in legge, con modificazioni, del decreto-legge 10 novembre 1978, n. 693, recante norme in materia di imposta di registro per i contratti di locazione e sublocazione di immobili urbani."
+identifier: "urn:nir:stato:legge:1978-12-23;841"
+eli: "https://www.normattiva.it/eli/id/1978/12/29/078U0841/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1978-12-23
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 361 del 1978-12-29"
+codice_redazionale: "078U0841"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;841"
+retrieved: 2026-10-11
+---
+
+# LEGGE 23 dicembre 1978, n. 841
+
+**Conversione in legge, con modificazioni, del decreto-legge 10 novembre 1978, n. 693, recante norme in materia di imposta di registro per i contratti di locazione e sublocazione di immobili urbani.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+E' convertito in legge il decreto-legge 10 novembre 1978, n. 693, concernente norme in materia di imposta di registro per i contratti di locazione e sublocazione di immobili urbani con le seguenti modificazioni:
+
+All'articolo 1, secondo capoverso, le parole: del presente decreto sono sostituite con le seguenti: del decreto-legge 10 novembre 1978, n. 693.
+
+Dopo l'art. 1 e' aggiunto il seguente:
+
+Art. 1-bis. - Per l'anno 1978 l'imposta di registro relativa al maggiore importo del canone determinato a seguito dell'entrata in vigore della legge 27 luglio 1978, n. 392, puo' essere assolto senza penalita' purche' il pagamento avvenga entro il 31 gennaio 1979.
+
+Nello stesso termine puo' essere chiesto il rimborso della maggiore imposta pagata, rispetto a quella dovuta per la variazione del canone conseguente all'entrata in vigore della legge 27 luglio 1978, n. 392.
+
+All'art. 2, primo comma, dopo le parole: deve essere versata entro tale data, sono aggiunte le seguenti: fatto salvo il normale termine di 20 giorni per la registrazione degli atti;
+
+Dopo l'art. 2 sono aggiunti i seguenti:
+
+Art. 2-bis. - Nelle ipotesi di aggiornamento od adeguamento del canone previste dalla legge 27 luglio 1978, n. 392, verificatesi nel corso dell'annualita' del contratto, si applica l'articolo 33 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 634.
+
+Art. 2-ter. - Al sesto comma dell'articolo 55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 634, dopo le parole "l'altra parte contraente", sono aggiunte le seguenti: "anche in deroga all'articolo 8 della legge 27 luglio 1978, n. 392".
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 23 dicembre 1978
+
+PERTINI
+
+ANDREOTTI - MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO

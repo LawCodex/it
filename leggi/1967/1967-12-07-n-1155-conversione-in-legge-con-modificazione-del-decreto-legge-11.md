@@ -1,0 +1,44 @@
+---
+title: "LEGGE 07 dicembre 1967, n. 1155 — Conversione in legge, con modificazione, del decreto-legge 11 ottobre 1967, n. 900, recante la proroga delle disposizioni concernenti la sospensione dell'applicazione della imposta di fabbricazione e della corrispondente sovrimposta di confine sui filati di lana e la istituzione di una addizionale speciale all'imposta generale sull'entrata per le materie prime tessili."
+identifier: "urn:nir:stato:legge:1967-12-07;1155"
+eli: "https://www.normattiva.it/eli/id/1967/12/13/067U1155/ORIGINAL"
+type: act
+jurisdiction: it
+language: it
+date: 1967-12-07
+status: in_force
+gazzetta_ufficiale: "Gazzetta Ufficiale n. 310 del 1967-12-13"
+codice_redazionale: "067U1155"
+source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-07;1155"
+retrieved: 2026-10-11
+---
+
+# LEGGE 07 dicembre 1967, n. 1155
+
+**Conversione in legge, con modificazione, del decreto-legge 11 ottobre 1967, n. 900, recante la proroga delle disposizioni concernenti la sospensione dell'applicazione della imposta di fabbricazione e della corrispondente sovrimposta di confine sui filati di lana e la istituzione di una addizionale speciale all'imposta generale sull'entrata per le materie prime tessili.**
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+
+la seguente legge:
+
+## Articolo unico
+
+E' convertito in legge il decreto-legge 11 ottobre 1967, n. 900, recante la proroga delle disposizioni concernenti la sospensione dell'applicazione dell'imposta di fabbricazione e della corrispondente sovrimposta di confine sui filati di lana e la istituzione di una addizionale speciale all'imposta generale sull'entrata per le materie prime tessili, con la seguente modificazione:
+
+L'articolo 2 e' sostituito con il seguente:
+
+"Resta ferma la disposizione dell'articolo 4 della legge 9 ottobre 1967, n. 973".
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 7 dicembre 1967
+
+SARAGAT
+
+MORO - PRETI - PIERACCINI - COLOMBO - ANDREOTTI - TOLLOY
+
+Visto, il Guardasigilli: REALE
